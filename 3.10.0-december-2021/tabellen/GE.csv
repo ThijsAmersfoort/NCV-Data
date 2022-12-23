@@ -1,0 +1,1687 @@
+id,Gri,translit,GriZ,stamgegevens,parent,vergelijk
+1,α-,a-,a-,ON,0,NULL
+2,α-ν-,a-n-,a-n-,ON (voor klinker),1,NULL
+3,ααρων,aarōn,aarwn,AARON (HEB),NULL,NULL
+4,αβαδδων,abaddōn,abaddwn,ABBADON (HEB),NULL,NULL
+5,αββα,abba,abba,ABBA (ARAM),NULL,NULL
+6,αβειληνη,abeilēnē,abeilhnh,ABILENE,NULL,NULL
+7,αβελ,abel,abel,ABEL (HEB),NULL,NULL
+8,αβια,abia,abia,ABIA (HEB),NULL,NULL
+9,αβιαθαρ,abiat<sup>h</sup>ar,abiaqar,ABJATAR (HEB),NULL,NULL
+10,αβιουδ,abioud,abioud,ABIHUD (HEB),NULL,NULL
+11,αβρααμ,abraam,abraam,ABRAHAM (HEB),NULL,NULL
+12,-αγ-/-ηγ-/-ακ-,-ag-/-ēg-/-ak-,-ag-/-hg-/-ak-,VOEREN,NULL,NULL
+13,-ηγ-,-ēg-,-hg-,VOEREN,12,NULL
+14,-αγ-,-ag-,-ag-,BREUK+LIJDEN,NULL,NULL
+15,αγαβος,agabos,agabos,AGABUS,NULL,NULL
+16,-αγαθ-,-agat<sup>h</sup>-,-agaq-,GOED,NULL,NULL
+17,-αγαν-/-αγ-,-agan-/-ag-,-agan-/-ag-,ZEER+VEEL,NULL,NULL
+18,-αγαπ-,-agap-,-agap-,LIEFDE,NULL,NULL
+19,αγαρ,agar,agar,HAGAR (ARAB),NULL,NULL
+20,-αγγαρ-,-aggar-,-aggar-,DWINGEN,NULL,NULL
+21,-αγγει-,-aggei-,-aggei-,KRUIK,NULL,NULL
+22,-αγγελ-,-aggel-,-aggel-,BOODSCHAP,NULL,NULL
+23,-αγελ-,-agel-,-agel-,KUDDE,NULL,NULL
+24,-αγι-,-agi-,-agi-,HEILIG,NULL,NULL
+25,-αγκ-,-agk-,-agk-,een gebogen arm,NULL,NULL
+27,-αγκισ-,-agkis-,-agkis-,VIS+HAAK,25,NULL
+26,-αγκαλ-,-agkal-,-agkal-,KLEMMEN,25,NULL
+28,-αγκυρ-,-agkur-,-agkur-,ANKER,25,NULL
+29,-αγν-,-agn-,-agn-,ZUIVER,NULL,NULL
+0,-α-,-a-,-a-,"een tussenvoegsel dat op onbepaaldheid of onbegrensdheid lijkt te duiden, zoals gebruikt in naamwoorden en werkwoorden.",NULL,NULL
+30,-αγν-,-agn-,-agn-,BREKEN,NULL,NULL
+31,-αγορ-/-ηγορ-,-agor-/-ēgor-,-agor-/-hgor-,KOPEN,NULL,NULL
+32,-αγρ-,-agr-,-agr-,VANGST,NULL,NULL
+33,-αγρ-,-agr-,-agr-,VELD,NULL,NULL
+34,αγριππας,agrippas,agrippas,AGRIPPA,NULL,NULL
+35,-αγχ-/-αγκ-,-agk<sup>h</sup>-/-agk-,-agc-/-agk-,SAMENDRUKKEN,NULL,NULL
+36,-αγων-,-agōn-,-agwn-,KAMP,NULL,NULL
+37,αδαμ,adam,adam,ADAM (HEB),NULL,NULL
+38,αδδι,addi,addi,ADDI,NULL,NULL
+39,αδμειν,admein,admein,ADMIN,NULL,NULL
+40,-αδρ-,-adr-,-adr-,OVERVLOED,NULL,NULL
+41,αδραμυττηνον,adramuttēnon,adramutthnon,ADRAMYTTIUM,NULL,NULL
+42,αδριας,adrias,adrias,ADRIATISCHE+ZEE,NULL,NULL
+43,-αετ-,-aet-,-aet-,GIER,NULL,NULL
+44,αζορ,azor,azor,AZOR,NULL,NULL
+45,αζωτοσ,azōtos,azwtos,ASDOD,NULL,NULL
+46,-αηρ-/-εωρ-,-aēr-/-eōr-,-ahr-/-ewr-,LUCHT,NULL,NULL
+47,αθα,at<sup>h</sup>a,aqa,ATHA (HEB),NULL,NULL
+48,αθηναι,at<sup>h</sup>ēnai,aqhnai,ATHENE,NULL,NULL
+49,-αθλ-,-at<sup>h</sup>l-,-aql-,WEDIJVEREN,NULL,NULL
+50,-αθρο-,-at<sup>h</sup>ro-,-aqro-,BIJEENROEPEN,NULL,NULL
+51,-αιγιαλ-,-aigial-,-aigial-,STRAND,NULL,NULL
+52,αιγυπτ-,aigupt-,aigupt-,EGYPTE,NULL,NULL
+53,αιδ-,aid-,aid-,BESCHEIDENHEID,NULL,NULL
+54,αιθιοψ-,ait<sup>h</sup>iop<sup>s</sup>-,aiqioy-,ETHIOPIE,NULL,NULL
+55,-αιμ-,-aim-,-aim-,BLOED,NULL,NULL
+56,-αιν-,-ain-,-ain-,PRIJZEN,NULL,NULL
+57,αινιγμα,ainigma,ainigma,ENIGMA,NULL,NULL
+58,αινων,ainōn,ainwn,AENON,NULL,NULL
+59,-αιξ-/-αιγ-,-aik<sup>s</sup>-/-aig-,-aix-/-aig-,GEIT,NULL,NULL
+60,-αισθ-,-aist<sup>h</sup>-,-aisq-,WAARNEMEN,NULL,NULL
+61,-αισχ-,-aisk<sup>h</sup>-,-aisc-,SCHAND,NULL,NULL
+62,-αιτ-/-ωτ-,-ait-/-ōt-,-ait-/-wt-,VERZOEK,NULL,NULL
+63,-αιχμ-,-aik<sup>h</sup>m-,-aicm-,"LANS (verwant aan <span class=""Greek"">-AKM-</span> PUNT)",NULL,64
+64,ακ,ak,ak,"PUNT (mogelijk ook verwant aan <span class=""Greek"">-akri-</span> SPRINKHAAN, <span class=""Greek"">-akrib-</span> NAUWKEURIG en <span class=""Greek"">-akro-</span> UITERSTE)",NULL,NULL
+65,-ακις,-akis,-akis,MAAL (in telwoorden),NULL,NULL
+66,-ακου-/-ακο-/-ηκο-,-akou-/-ako-/-ēko-,-akou-/-ako-/-hko-,HOREN,NULL,NULL
+67,-ακρι-,-akri-,-akri-,SPRINKHAAN,NULL,64
+68,-ακριβ-,-akrib-,-akrib-,NAUWKEURIG,NULL,64
+69,-ακροα-,-akroa-,-akroa-,"LUISTEREN (vergelijk <span class=""Greek"">-akou-</span> HOREN)",NULL,66
+70,-ακρο-,-akro-,-akro-,UITERSTE,NULL,64
+71,-ακτ-/-αχθ-,-akt-/-ak<sup>h</sup>t<sup>h</sup>-,-akt-/-acq-,KWAADWILLEND,NULL,NULL
+72,ακυλας,akulas,akulas,AQUILA,NULL,NULL
+73,-αλ-,-al-,-al-,ZOUT,NULL,NULL
+74,αλαβας-,alabas-,alabas-,ALBASTEN,NULL,NULL
+75,-αλαζ-,-alaz-,-alaz-,PRAAL,NULL,NULL
+76,-αλαλα-,-alala-,-alala-,SCHALLEN,NULL,NULL
+77,-αλγ-,-alg-,-alg-,VOELEN,NULL,NULL
+78,-αλειφ-,-aleip<sup>h</sup>-,-aleif-,WRIJVEN,NULL,NULL
+79,αλεχανδρ-,alek<sup>h</sup>andr-,alecandr-,ALEXANDER,NULL,NULL
+80,αλευρ-,aleur-,aleur-,TARWEMEEL,NULL,NULL
+81,-αληθ-,-alēt<sup>h</sup>-,-alhq-,MALEN,NULL,NULL
+82,-αληθ-,-alēt<sup>h</sup>-,-alhq-,WAAR,NULL,NULL
+83,-αλισγη-,-alisgē-,-alisgh-,BEZOEDELING,NULL,NULL
+84,-αλλ-/-ηλ-,-all-/-ēl-,-all-/-hl-,VERANDER,NULL,NULL
+85,αλληλουια,allēlouia,allhlouia,HALLELUJA (HEB),NULL,NULL
+86,-αλλ-,-all-,-all-,SPRINGEN,NULL,NULL
+87,-αλο-/-αλω-/-ολω-,-alo-/-alō-/-olō-,-alo-/-alw-/-olw-,DORS,NULL,NULL
+88,-αλο-/-αλω-,-alo-/-alō-,-alo-/-alw-,VANGEN,NULL,NULL
+89,αλοη,aloē,aloh,ALOE,NULL,NULL
+90,αλφα,alp<sup>h</sup>a,alfa,ALFA,NULL,NULL
+91,αλφαιοσ,alp<sup>h</sup>aios,alfaios,ALPHEUS,NULL,NULL
+92,αλωπεξ,alōpek<sup>s</sup>,alwpex,JAKHALS,NULL,NULL
+93,-αμα-/-α-,-ama-/-a-,-ama-/-a-,GELIJKTIJDIG,NULL,NULL
+94,-αμα-,-ama-,-ama-,MAAIEN,NULL,NULL
+95,αμην,amēn,amhn,AMEN (HEB),NULL,NULL
+96,αμιναδαβ,aminadab,aminadab,AMINADAB (HEB),NULL,NULL
+97,-αμμ-,-amm-,-amm-,ZAND,NULL,NULL
+98,-αμοιβ-,-amoib-,-amoib-,WEDERKERIG,NULL,NULL
+99,-αμπελ-,-ampel-,-ampel-,WIJNSTOK,NULL,NULL
+100,αμπλιατοσ,ampliatos,ampliatos,AMPLIATUS,NULL,NULL
+101,-αμυν-,-amun-,-amun-,TE+HULP+KOMEN,NULL,NULL
+102,-αμφ-,-amp<sup>h</sup>-,-amf-,OM(HEEN),NULL,NULL
+103,-αμωμ-,-amōm-,-amwm-,GEMBER,NULL,NULL
+104,αμωσ,amōs,amws,AMOS (HEB),NULL,NULL
+105,-αν-,-an-,-an-,OOIT,NULL,NULL
+106,-ανα-/-ανω-/-αν-,-ana-/-anō-/-an-,-ana-/-anw-/-an-,OPWAARTS,NULL,NULL
+107,-αν-,-an-,-an-,OPWAARTS (voor klinkers),106,NULL
+109,ανανιας,ananias,ananias,ANANIAS (HEB),NULL,NULL
+110,-ανδρ-/-ανηρ-,-andr-/-anēr-,-andr-/-anhr-,MAN,NULL,NULL
+111,ανεμ-,anem-,anem-,WIND,NULL,NULL
+112,ανευ,aneu,aneu,ZONDER,NULL,NULL
+113,-ανεψ-,-anep<sup>s</sup>-,-aney-,NEEF,NULL,NULL
+114,-ανηθ-,-anēt<sup>h</sup>-,-anhq-,DILLE,NULL,NULL
+115,-ανθ-,-ant<sup>h</sup>-,-anq-,BLOEM,NULL,NULL
+116,-ανθρα-,-ant<sup>h</sup>ra-,-anqra-,GLOEIENDE+KOOL,NULL,NULL
+117,αννα,anna,anna,ANNA (HEB),NULL,NULL
+118,αννας,annas,annas,ANNAS (HEB),117,NULL
+119,αντι-/-αντ-/-ανθ-,anti-/-ant-/-ant<sup>h</sup>-,anti-/-ant-/-anq-,INPLAATS,NULL,NULL
+120,-αντ-,-ant-,-ant-,INPLAATS (met klinkers),119,NULL
+121,-ανθ-,-ant<sup>h</sup>-,-anq-,INPLAATS,119,NULL
+122,αντιοχ-,antiok<sup>h</sup>-,antioc-,ANTIOCHIE,NULL,NULL
+123,αντειπασ,anteipas,anteipas,ANTIPAS,NULL,NULL
+124,αντιπατρις,antipatris,antipatris,ANTIPATRIS,NULL,NULL
+125,-αντλ-,-antl-,-antl-,WATERPUT,NULL,NULL
+126,-ανυ-,-anu-,-anu-,SLOT,NULL,NULL
+127,-αξι-,-ak<sup>s</sup>i-,-axi-,WAARDIG,NULL,NULL
+128,-αξιν-,-ak<sup>s</sup>in-,-axin-,BIJL,NULL,NULL
+129,-απαλ-,-apal-,-apal-,WEEK,NULL,NULL
+130,-απαξ-,-apak<sup>s</sup>-,-apax-,EENS,NULL,NULL
+131,-απατ-,-apat-,-apat-,VERLEIDEN,NULL,NULL
+132,απελλης,apellēs,apellhs,APELLES,NULL,NULL
+133,-απο-/-απ-/-αφ-,-apo-/-ap-/-ap<sup>h</sup>-,-apo-/-ap-/-af-,VANAF,NULL,NULL
+134,-απ-,-ap-,-ap-,VANAF (met klinker),133,NULL
+135,-αφ-,-ap<sup>h</sup>-,-af-,VANAF,133,NULL
+136,απολλωνια,apollōnia,apollwnia,APOLLONIA,NULL,NULL
+138,αππιος,appios,appios,APPII (LAT),NULL,NULL
+137,απολλως,apollōs,apollws,APOLLOS,NULL,NULL
+139,-απτ-/-αφ-,-apt-/-ap<sup>h</sup>-,-apt-/-af-,RAKEN,NULL,NULL
+140,απφια,app<sup>h</sup>ia,apfia,APFIA,NULL,NULL
+150,-αρ-/-αιρ-/-ωρ-/-ελ-,-ar-/-air-/-ōr-/-el-,-ar-/-air-/-wr-/-el-,HEFFEN,NULL,NULL
+151,-αιρ-ε-/-ωρ-ε-,-air-e-/-ōr-e-,-air-e-/-wr-e-,"HEFFEN (met <span class=""Greek"">-e-</span>)",150,NULL
+152,-αρ-,-ar-,-ar-,MANNELIJK,NULL,NULL
+153,-αρ-/-αμν-,-ar-/-amn-,-ar-/-amn-,LAM,NULL,NULL
+154,-αρα-,-ara-,-ara-,DERHALVE,NULL,NULL
+155,-αρα-,-ara-,-ara-,VERWENSEN,NULL,NULL
+156,-αραβ-,-arab-,-arab-,ARABIE,NULL,NULL
+157,αραμ,aram,aram,ARAM,NULL,NULL
+158,-αργυρ-,-argur-,-argur-,ZILVER,NULL,NULL
+159,-αρε-+-παγ-,-are-+-pag-,-are-+-pag-,AREOPAGUS,NULL,NULL
+160,-αρε-,-are-,-are-,DEUGD,NULL,NULL
+161,-αρεσ-,-ares-,-ares-,BEHAGEN,NULL,NULL
+162,αρετασ,aretas,aretas,ARETAS,NULL,NULL
+163,αριθ-,arit<sup>h</sup>-,ariq-,NUMMER,NULL,NULL
+164,αριμαθαια,arimat<sup>h</sup>aia,arimaqaia,ARIMATHEA,NULL,NULL
+165,-αρις-,-aris-,-aris-,BESTE,NULL,NULL
+166,-αριστ-,-arist-,-arist-,TWAALFUURTJE,NULL,NULL
+167,-αρκ-,-ark-,-ark-,VOLDOEN,NULL,NULL
+168,-αρκ-,-ark-,-ark-,BEER,NULL,NULL
+169,-αρμ-,-arm-,-arm-,VERBINDEN,NULL,NULL
+170,αρμαγεδων,armagedōn,armagedwn,HARMAGEDON,NULL,NULL
+171,αρνει,arnei,arnei,ARNI (HEB),NULL,NULL
+172,-αρο-,-aro-,-aro-,PLOEG,NULL,NULL
+173,-αρπ-,-arp-,-arp-,GRISSEN,NULL,NULL
+174,αρραβων,arr<sup>h</sup>abōn,arrabwn,ZEKERHEID (HEB),NULL,NULL
+175,-αρτ-,-art-,-art-,BROOD,NULL,NULL
+176,-αρτ-,-art-,-art-,BRAMZEIL,NULL,NULL
+177,-αρτ-,-art-,-art-,TOERUSTEN,NULL,NULL
+178,αρτεμασ,artemas,artemas,ARTEMAS,NULL,NULL
+179,αρτεμισ,artemis,artemis,ARTEMIS,NULL,NULL
+180,-αρτι-,-arti-,-arti-,HEDEN,NULL,NULL
+181,αρφαξαδ,arp<sup>h</sup>ak<sup>s</sup>ad,arfaxad,ARPACHSAD (HEB),NULL,NULL
+182,-αρχ-,-ark<sup>h</sup>-,-arc-,"OORSPRONG (zie <span class=""Greek"">-erc-</span> KOMEN)",NULL,481
+183,-αρω-,-arō-,-arw-,SPECERIJ,NULL,NULL
+184,ασαφ,asap<sup>h</sup>,asaf,ASA (HEB),NULL,NULL
+185,ασηρ,asēr,ashr,ASER (HEB),NULL,NULL
+186,ασια,asia,asia,ASIA,NULL,NULL
+187,-ασκ-,-ask-,-ask-,ZICH+INSPANNEN,NULL,NULL
+188,ασκ-,ask-,ask-,LEREN+ZAK,NULL,NULL
+189,-ασπι-,-aspi-,-aspi-,SLANG,NULL,NULL
+192,ασσος,assos,assos,ASSUS,NULL,NULL
+191,-ασσαρι-,-assari-,-assari-,ASSARION,NULL,NULL
+190,-ασσ-,-ass-,-ass-,DICHTBIJ,NULL,NULL
+193,-αστ-,-ast-,-ast-,INNEMEND,NULL,NULL
+194,-αστρ-,-astr-,-astr-,GLIMP,NULL,NULL
+195,ατερ,ater,ater,ZONDER (bw),NULL,NULL
+196,ατμι-,atmi-,atmi-,DAMP,NULL,NULL
+197,ατταλεια,attaleia,attaleia,ATTALIA,NULL,NULL
+198,-αυγ-,-aug-,-aug-,STRAAL,NULL,NULL
+199,αυγουστοσ,augoustos,augoustos,AUGUSTUS,NULL,NULL
+203,-αυρ-,-aur-,-aur-,MORGEN,NULL,NULL
+202,-αυξ-,-auk<sup>s</sup>-,-aux-,GROEI,NULL,NULL
+201,-αυλ-,-aul-,-aul-,HOF,NULL,NULL
+200,-αυλ-,-aul-,-aul-,FLAGEOLET,NULL,NULL
+204,-αυστηρ-,-austēr-,-austhr-,STRIKT,NULL,NULL
+205,-αυτ-/-αυθ-,-aut-/-aut<sup>h</sup>-,-aut-/-auq-,ZELFDE,NULL,NULL
+206,-αυθ-,-aut<sup>h</sup>-,-auq-,ZELFDE,205,NULL
+207,-ουτ-,-out-,-out-,"ZELFDE (van <span class=""Greek"">o-aut-</span>)",205,NULL
+208,-αυχ-,-auk<sup>h</sup>-,-auc-,SNOEVEN,NULL,NULL
+209,-αυχμηρ-,-auk<sup>h</sup>mēr-,-aucmhr-,TROEBEL,NULL,NULL
+210,-αφρ-,-ap<sup>h</sup>r-,-afr-,SCHUIM,NULL,NULL
+211,αχαι-,ak<sup>h</sup>ai-,acai-,ACHAJE,NULL,NULL
+212,αχαζ,ak<sup>h</sup>az,acaz,ACHAZ (HEB),NULL,NULL
+213,αχειμ,ak<sup>h</sup>eim,aceim,ACHIM (HEB),NULL,NULL
+214,αχελδαμαχ,ak<sup>h</sup>eldamak<sup>h</sup>,aceldamac,AKELDAMA (ARAM),NULL,NULL
+215,-αχλ-,-ak<sup>h</sup>l-,-acl-,WAAS,NULL,NULL
+216,αχρι,ak<sup>h</sup>ri,acri,"TOTDAT (mogelijk van <span class=""Greek"">-akro-</span> UITERSTE)",NULL,70
+217,-αχυρ-,-ak<sup>h</sup>ur-,-acur-,KAF,NULL,NULL
+218,-βα-/-βη-,-ba-/-bē-,-ba-/-bh-,STAP,NULL,1239
+219,-βη-,-bē-,-bh-,STAP,218,NULL
+220,βααλ,baal,baal,BAAL (HEB),NULL,NULL
+221,βαβυλων,babulōn,babulwn,BABYLON (HEB),NULL,NULL
+222,-βαθ-,-bat<sup>h</sup>-,-baq-,DIEP (vergelijk <span class='Greek'>-buq-</span> VERZINKEN),NULL,275
+223,-βαι-,-bai-,-bai-,PALMBLAD,NULL,NULL
+224,-βαλ-/-βελ-/-βολ-/-βλ-,-bal-/-bel-/-bol-/-bl-,-bal-/-bel-/-bol-/-bl-,WERPEN,NULL,1395
+225,-βλ-(επ-),-bl-(ep-),-bl-(ep-),WERPEN,224,NULL
+226,βαλααμ,balaam,balaam,BILEAM (HEB),NULL,NULL
+227,βαλακ,balak,balak,BALAK (HEB),NULL,NULL
+228,-βαπτ-,-bapt-,-bapt-,DOMPEL,NULL,NULL
+229,-βαρ-,-bar-,-bar-,ZWAAR,NULL,NULL
+230,-βαρ-,-bar-,-bar-,BAR (ARAM),NULL,NULL
+231,βαρακ,barak,barak,BARAK (HEB),NULL,NULL
+232,βαραχιας,barak<sup>h</sup>ias,baracias,BERECHJA (HEB),NULL,NULL
+233,-βαρβαρ-,-barbar-,-barbar-,BARBAAR,NULL,NULL
+234,-βασαν-,-basan-,-basan-,TOETS,NULL,NULL
+235,-βασιλ-,-basil-,-basil-,KONING,NULL,NULL
+236,-βασκαιν-,-baskain-,-baskain-,BEHEKSEN,NULL,NULL
+237,-βαστ-,-bast-,-bast-,TILLEN,NULL,NULL
+238,-βατ-,-bat-,-bat-,"VAT (HEB, ca. 40 liter)",NULL,NULL
+239,-βατ-,-bat-,-bat-,DOORNSTRUIK,NULL,NULL
+240,-βαττο-,-batto-,-batto-,STAMELEN,NULL,NULL
+241,-βδελυ-,-bdelu-,-bdelu-,GRUWEL,NULL,NULL
+242,βεεζεβουλ,beezeboul,beezeboul,BEELZEBUL (HEB),NULL,NULL
+243,βελιαρ,beliar,beliar,BELIAL (HEB),NULL,NULL
+244,βενιαμιν,beniamin,beniamin,BENJAMIN (HEB),NULL,NULL
+245,-βεροι-,-beroi-,-beroi-,BEREA,NULL,NULL
+247,-βηρυλλ-,-bērull-,-bhrull-,BERIL,NULL,NULL
+248,-βι-,-bi-,-bi-,FYSIEK,NULL,NULL
+249,-βιβλ-,-bibl-,-bibl-,BOEKROL,NULL,NULL
+250,βιθυνια,bit<sup>h</sup>unia,biqunia,BITHYNIE,NULL,NULL
+251,-βλα-,-bla-,-bla-,SCHADE,NULL,NULL
+252,-βλαστ-,-blast-,-blast-,UITSPRUITEN,NULL,NULL
+253,-βο-,-bo-,-bo-,AANROEPEN,NULL,NULL
+254,-βο-,-bo-,-bo-,KRUID,NULL,NULL
+255,βοανεργεσ,boanerges,boanerges,BOANERGES (HEB),NULL,NULL
+256,βοθ-,bot<sup>h</sup>-,boq-,PUT,NULL,NULL
+257,βοεσ,boes,boes,BOAZ (HEB),NULL,NULL
+258,-βορβορ-,-borbor-,-borbor-,SLIJK,NULL,NULL
+259,-βορρα-,-borr<sup>h</sup>a-,-borra-,NOORDEN,NULL,NULL
+260,βοσορ,bosor,bosor,"BOSOR (Bs1 en LXX:<span class=""Greek"">bewr</span>)",NULL,NULL
+261,-βοτρ-,-botr-,-botr-,TROS,NULL,NULL
+262,-βου-,-bou-,-bou-,RUND,NULL,NULL
+263,-βουλ-,-boul-,-boul-,RAAD,NULL,NULL
+264,-βουν-,-boun-,-boun-,HEUVEL,NULL,NULL
+265,-βρ-,-br-,-br-,DONDER,NULL,NULL
+266,-βραβ-,-brab-,-brab-,SCHEIDSRECHTER,NULL,NULL
+267,-βραδ-,-brad-,-brad-,TRAAG,NULL,NULL
+268,-βραχ-,-brak<sup>h</sup>-,-brac-,STUKJE,NULL,NULL
+269,-βρεφ-,-brep<sup>h</sup>-,-bref-,BABY,NULL,NULL
+270,-βροχ-/-βρεχ-,-brok<sup>h</sup>-/-brek<sup>h</sup>-,-broc-/-brec-,REGEN,NULL,NULL
+271,-βροχ-,-brok<sup>h</sup>-,-broc-,STRIK,NULL,NULL
+272,-βρυ-,-bru-,-bru-,WELLEN,NULL,NULL
+273,-βρυγ-/-βρυχ-,-brug-/-bruk<sup>h</sup>-,-brug-/-bruc-,KNERSEN,NULL,NULL
+274,-βρω-,-brō-,-brw-,VOEDEN,NULL,NULL
+275,-βυθ-/-βυσ-,-but<sup>h</sup>-/-bus-,-buq-/-bus-,VERZINKEN (vergelijk <span class='Greek'>-baq-</span> DIEP),NULL,222
+276,-βυρσ-/-βυ-,-burs-/-bu-,-burs-/-bu-,HUID,NULL,NULL
+277,-βυσ-,-bus-,-bus-,KATOEN,NULL,NULL
+278,-βωμ-,-bōm-,-bwm-,VOETSTUK,NULL,NULL
+279,-γ-,-g-,-g-,"wordt gebruikt als tussenvoegsel in naamwoorden waarvan de werkwoorden <span class=""Greek"">-c-</span> of <span class=""Greek"">-ss-</span> hebben",NULL,NULL
+280,γαββαθα,gabbat<sup>h</sup>a,gabbaqa,GABBATHA (HEB),NULL,NULL
+281,γαβριηλ,gabriēl,gabrihl,GABRIEL (HEB),NULL,NULL
+282,γαδ,gad,gad,GAD (HEB),NULL,NULL
+283,γαδαρηνος,gadarēnos,gadarhnos,GADARENER,NULL,NULL
+284,-γαζ-,-gaz-,-gaz-,SCHATKIST,NULL,NULL
+285,γαζα,gaza,gaza,GAZA (HEB),NULL,NULL
+286,γαιος,gaios,gaios,"GAJUS (misschien aard-ig, zie <span class=""Greek"">-gh-</span> LAND)",NULL,296
+287,-γαλ-,-gal-,-gal-,MELK,NULL,NULL
+288,-γαλατ-,-galat-,-galat-,GALATIE,NULL,NULL
+289,-γαλην-,-galēn-,-galhn-,KALM,NULL,NULL
+290,-γαλιλαι-,-galilai-,-galilai-,GALILEA (HEB),NULL,NULL
+291,-γαμ-,-gam-,-gam-,HUWEN,NULL,NULL
+292,γαμαλιηλ,gamaliēl,gamalihl,GAMALIEL (HEB),NULL,NULL
+293,γαλλιων,galliōn,galliwn,GALLIO,NULL,NULL
+294,-γαστ-,-gast-,-gast-,BUIK,NULL,NULL
+295,-γε-/-γ-,-ge-/-g-,-ge-/-g-,ZEKER,NULL,NULL
+296,-γε-/-γη-,-ge-/-gē-,-ge-/-gh-,LAND,NULL,NULL
+297,γεδεων,gedeōn,gedewn,GIDEON (HEB),NULL,NULL
+298,γεεννα,geenna,geenna,GEHENNA (HEB),NULL,NULL
+299,γεθσημανει,get<sup>h</sup>sēmanei,geqshmanei,GETHSEMANE (HEB),NULL,NULL
+300,-γελ-,-gel-,-gel-,LACHEN,NULL,NULL
+301,-γεμ-/-γομ-,-gem-/-gom-,-gem-/-gom-,BOORDEVOL,NULL,NULL
+302,-γεν-/-γιν-/-γον-/-γνη-,-gen-/-gin-/-gon-/-gnē-,-gen-/-gin-/-gon-/-gnh-,GEWORDEN,NULL,NULL
+303,-γ[ε]ιν-,-g[e]in-,-g[e]in-,GEWORDEN,302,NULL
+304,-γνη-,-gnē-,-gnh-,GEWORDEN,302,NULL
+305,-γον-,-gon-,-gon-,GEWORDEN,302,NULL
+306,γεννησαρετ,gennēsaret,gennhsaret,GENNESARETH (HEB),NULL,NULL
+307,-γερ-/-γηρ-,-ger-/-gēr-,-ger-/-ghr-,GRIJS-,NULL,NULL
+308,γεργεσηνος,gergesēnos,gergeshnos,GERGESEEN,NULL,NULL
+309,-γευ-,-geu-,-geu-,PROEVEN,NULL,NULL
+310,γλυκ-/-γλευκ-,gluk-/-gleuk-,gluk-/-gleuk-,ZOET,NULL,NULL
+311,γλωσ-,glōs-,glws-,TONG,NULL,NULL
+312,γναφ-,gnap<sup>h</sup>-,gnaf-,VOLLEN,NULL,NULL
+313,-γνο-/-γνω-/-γινω-,-gno-/-gnō-/-ginō-,-gno-/-gnw-/-ginw-,KENNEN,NULL,NULL
+314,-γνοφ-,-gnop<sup>h</sup>-,-gnof-,DUISTERNIS,NULL,NULL
+315,-γογγυζ-,-gogguz-,-gogguz-,MORREN,NULL,NULL
+316,-γοη-,-goē-,-goh-,BROMMEN,NULL,NULL
+317,γολγοθα,golgot<sup>h</sup>a,golgoqa,GOLGOTHA (HEB),NULL,NULL
+318,-γον-,-gon-,-gon-,KNIE,NULL,NULL
+319,-γρα-,-gra-,-gra-,"OUDE-VROUW (vergelijk <span class=""Greek"">-ger-</span> VETERAAN)",NULL,307
+320,-γρα-,-gra-,-gra-,GANGREEN,NULL,NULL
+321,-γραφ-/-γραμ-,-grap<sup>h</sup>-/-gram-,-graf-/-gram-,SCHRIJVEN,NULL,NULL
+322,-γυ-,-gu-,-gu-,LEDEMAAT,NULL,NULL
+323,-γυμν-,-gumn-,-gumn-,NAAKT,NULL,NULL
+324,-γυν-,-gun-,-gun-,VROUW,NULL,NULL
+325,γωγ,gōg,gwg,GOG,NULL,NULL
+326,-γων-,-gōn-,-gwn-,HOEK,NULL,NULL
+327,-δα-,-da-,-da-,LEER-,NULL,NULL
+329,δαβιδ/δαυιδ,dabid/dauid,dabid/dauid,DAVID (HEB),NULL,NULL
+328,-δαιμον-,-daimon-,-daimon-,LEER-ende,327,NULL
+330,-δακ-,-dak-,-dak-,BIJTEN,NULL,NULL
+331,-δακρ-,-dakr-,-dakr-,TRAAN,NULL,NULL
+332,-δακτυλ-,-daktul-,-daktul-,VINGER,NULL,NULL
+333,δαλμανουθα,dalmanout<sup>h</sup>a,dalmanouqa,DALMANOETHA,NULL,NULL
+334,δαλματια,dalmatia,dalmatia,DALMATIE,NULL,NULL
+335,-δαμ-,-dam-,-dam-,TEMMEN,NULL,NULL
+336,-δαμαλ-,-damal-,-damal-,VAARS,NULL,NULL
+337,δαμαρισ,damaris,damaris,DAMARIS,NULL,NULL
+338,-δαμασκ-,-damask-,-damask-,DAMASCUS,NULL,NULL
+339,-δανει-,-danei-,-danei-,(GELD)LENEN,NULL,NULL
+340,δανιηλ,daniēl,danihl,DANIEL (HEB),NULL,NULL
+341,-δαπαν-,-dapan-,-dapan-,BESTEDEN,NULL,NULL
+342,-δε-/-δ-/-θ-,-de-/-d-/-t<sup>h</sup>-,-de-/-d-/-q-,ECHTER,NULL,NULL
+343,-δε-/-δη-,-de-/-dē-,-de-/-dh-,BINDEN,NULL,NULL
+344,-δεσ-,-des-,-des-,BINDEN,343,NULL
+345,-δη-,-dē-,-dh-,BINDEN,343,NULL
+346,-δα-,-da-,-da-,BINDEN,343,NULL
+347,-δε-,-de-,-de-,DUCHTEN,NULL,NULL
+348,-δεικ-/-δειγ-/-δειξ-,-deik-/-deig-/-deik<sup>s</sup>-,-deik-/-deig-/-deix-,TONEN,NULL,NULL
+349,-δεινα,-deina,-deina,DIE+EN+DIE,NULL,NULL
+350,-δειπ-,-deip-,-deip-,MAALTIJD,NULL,NULL
+351,-δεκα-,-deka-,-deka-,TIEN,NULL,NULL
+352,-δελεα-,-delea-,-delea-,LOKAAS,NULL,NULL
+353,-δελφ-,-delp<sup>h</sup>-,-delf-,BAARMOEDER,NULL,NULL
+354,-δενδρ-,-dendr-,-dendr-,BOOM,NULL,NULL
+355,-δεξ-,-dek<sup>s</sup>-,-dex-,RECHTER,NULL,NULL
+356,-δερ-,-der-,-der-,VEL,NULL,NULL
+357,-δερβ-,-derb-,-derb-,DERBE,NULL,NULL
+358,-δεσπ-,-desp-,-desp-,EIGENAAR,NULL,NULL
+359,-δευ-,-deu-,-deu-,HIERHEEN,NULL,NULL
+360,-δεχ-/-δεκ-/-δοχ-,-dek<sup>h</sup>-/-dek-/-dok<sup>h</sup>-,-dec-/-dek-/-doc-,ONTVANGEN,NULL,NULL
+361,-δηλ-,-dēl-,-dhl-,DUIDELIJK,NULL,NULL
+362,-δημ-,-dēm-,-dhm-,BEVOLKING,NULL,NULL
+363,δημασ,dēmas,dhmas,"DEMAS (wellicht van <span class=""Greek"">-dhm-</span> BEVOLKING)",NULL,362
+364,δημητριος,dēmētrios,dhmhtrios,"DEMETRIOS (wellicht van <span class=""Greek"">-dhm-+-mhtr-</span> BEVOLKING-MOEDER)",NULL,362
+365,δηναριον,dēnarion,dhnarion,DENARION (LAT),NULL,NULL
+366,-δι-,-di-,-di-,ZEUS,NULL,NULL
+367,-δια-/-δι-,-dia-/-di-,-dia-/-di-,DOOR,NULL,NULL
+368,-δι-,-di-,-di-,DOOR (voor klinkers),367,NULL
+369,-δικ-,-dik-,-dik-,RECHTVAARDIG,NULL,NULL
+370,-δικτυ-,-diktu-,-diktu-,NET,NULL,NULL
+371,διονυσιος,dionusios,dionusios,DIONYSIOS,NULL,NULL
+372,-διψ-,-dip<sup>s</sup>-,-diy-,DORST,NULL,NULL
+373,-διω-,-diō-,-diw-,ACHTERVOLGEN,NULL,NULL
+374,-δο-/-δω-,-do-/-dō-,-do-/-dw-,GEVEN,NULL,NULL
+375,-δοκ-/-δογ-/-δοξ-,-dok-/-dog-/-dok<sup>s</sup>-,-dok-/-dog-/-dox-,SCHIJN,NULL,NULL
+376,-δοκιμ-,-dokim-,-dokim-,SCHIJN,375,NULL
+377,-δογ-,-dog-,-dog-,SCHIJN,375,NULL
+378,-δοξ-,-dok<sup>s</sup>-,-dox-,SCHIJN,375,NULL
+379,-δοκ-,-dok-,-dok-,BALK,NULL,NULL
+380,-δολ-,-dol-,-dol-,BEDRIEGEN,NULL,NULL
+381,-δομ-/-δωμ-,-dom-/-dōm-,-dom-/-dwm-,BOUW,NULL,NULL
+382,-δορ-,-dor-,-dor-,SPEER,NULL,NULL
+383,-δορκ-,-dork-,-dork-,DORCAS,NULL,NULL
+384,-δουλ-,-doul-,-doul-,SLAAF,NULL,NULL
+385,-δρα-,-dra-,-dra-,GRIJPEN,NULL,NULL
+386,-δρακ-,-drak-,-drak-,DRAAK,NULL,NULL
+387,-δραμ-/-δρομ-,-dram-/-drom-,-dram-/-drom-,RENNEN,NULL,NULL
+388,-δρεπαν-,-drepan-,-drepan-,SIKKEL,NULL,NULL
+389,δρουσιλλα,drousilla,drousilla,DROUSILLA,NULL,NULL
+390,-δυ-/-δω-/-δι-/-δευ-,-du-/-dō-/-di-/-deu-,-du-/-dw-/-di-/-deu-,TWEE,NULL,NULL
+391,-δυ-,-du-,-du-,SLIPPEN,NULL,NULL
+392,-δυν-,-dun-,-dun-,VERMOGEN,NULL,NULL
+393,-δυσ-,-dus-,-dus-,ZIEK,NULL,NULL
+394,"-ε-/-ει-/-ι-, -ου-/-ω-","-e-/-ei-/-i-, -ou-/-ō-","-e-/-ei-/-i-, -ou-/-w-","ZIJN, ZIJNDE (als tussenvoegsel in werkwoorden <span class=""Greek"">-e-</span> geeft het het ZIJN aan van wat de wortel betekent)",NULL,NULL
+395,-ει-,-ei-,-ei-,ZIJN,394,NULL
+396,-ειν-,-ein-,-ein-,te-ZIJN,394,NULL
+397,-εστι-,-esti-,-esti-,ZIJN,394,NULL
+398,-ουσι-,-ousi-,-ousi-,ZIJNDE,394,NULL
+399,-ον-/-ων-,-on-/-ōn-,-on-/-wn-,ZIJNDE,394,NULL
+400,-ε-,-e-,-e-,KLEED,NULL,NULL
+401,-εα-,-ea-,-ea-,"LATEN (verwant aan <span class=""Greek"">-ih-</span> LATEN)",NULL,616
+402,εα,ea,ea,HA!,NULL,NULL
+403,εβερ,eber,eber,HEBER,NULL,NULL
+404,-εβραι-,-ebrai-,-ebrai-,HEBREEUWS (HEB),NULL,NULL
+405,-εγγ-,-egg-,-egg-,NABIJ,NULL,NULL
+406,-εγγυ-,-eggu-,-eggu-,ONDER+BORGTOCHT,NULL,NULL
+407,-εγειρ-/-εγερ-/-ηγορ-,-egeir-/-eger-/-ēgor-,-egeir-/-eger-/-hgor-,WEKKEN,NULL,NULL
+408,εγω,egō,egw,IK,NULL,NULL
+409,-εδαφ-,-edap<sup>h</sup>-,-edaf-,PLAT,NULL,NULL
+410,-εδρ-,-edr-,-edr-,VESTIGEN,NULL,NULL
+411,εζεκιας,ezekias,ezekias,HIZKIA,NULL,NULL
+412,-εθ-/-ηθ-/-οθ-,-et<sup>h</sup>-/-ēt<sup>h</sup>-/-ot<sup>h</sup>-,-eq-/-hq-/-oq-,GEWOON,NULL,NULL
+413,-εθν-,-et<sup>h</sup>n-,-eqn-,NATIE,NULL,NULL
+414,-ει-,-ei-,-ei-,INDIEN,NULL,415
+415,-εικ-,-eik-,-eik-,SIMULEREN,NULL,618
+416,-εικοσι-,-eikosi-,-eikosi-,TWINTIG,NULL,NULL
+417,-ειλ-/-ελ-,-eil-/-el-,-eil-/-el-,WERVEL,NULL,NULL
+418,-ειρην-,-eirēn-,-eirhn-,VREDE,NULL,NULL
+419,-εισ-/-εσ-/-ε-,-eis-/-es-/-e-,-eis-/-es-/-e-,NAARBINNEN,NULL,1239
+420,-εσ-,-es-,-es-,NAARBINNEN,419,NULL
+421,-σ-,-s-,-s-,NAARBINNEN,419,NULL
+422,-ειτα-,-eita-,-eita-,DAARNA,NULL,NULL
+423,-εκ-/-κ-/-εξ-,-ek-/-k-/-ek<sup>s</sup>-,-ek-/-k-/-ex-,UIT,NULL,NULL
+424,-εξ-,-ek<sup>s</sup>-,-ex-,UIT,423,NULL
+425,-εκαστ-,-ekast-,-ekast-,ELK,NULL,NULL
+426,-εκατον-,-ekaton-,-ekaton-,HONDERD,NULL,NULL
+427,-ελαι-,-elai-,-elai-,OLIJF,NULL,NULL
+428,-ελαM-,-elaM-,-elaM-,ELAM,NULL,NULL
+429,-ελα-,-ela-,-ela-,INFERIEUR,NULL,NULL
+430,-ελα-,-ela-,-ela-,VOORTDRIJVEN,NULL,NULL
+431,-ελαφ-,-elap<sup>h</sup>-,-elaf-,LICHT (van gewicht),NULL,NULL
+432,-ελε-,-ele-,-ele-,BARMHARTIG (zie <span class='Greek'>-ile-</span> VERZOENEN),NULL,621
+433,ελεαζαρ,eleazar,eleazar,ELEAZAR,NULL,NULL
+434,-ελεγ-,-eleg-,-eleg-,SCHULD+AANTONEN,NULL,NULL
+435,-ελευθ-,-eleut<sup>h</sup>-,-eleuq-,VRIJ,NULL,NULL
+436,-ελεφα-,-elep<sup>h</sup>a-,-elefa-,IVOOR,NULL,NULL
+437,ελιεζερ,eliezer,eliezer,ELIEZER (HEB),NULL,NULL
+438,ελιακειμ,eliakeim,eliakeim,ELJAKIM (HEB),NULL,NULL
+439,ελισσαιος,elissaios,elissaios,ELISA (HEB),NULL,NULL
+440,ελεισαβετ,eleisabet,eleisabet,ELISABETH (HEB),NULL,NULL
+441,ελιουδ,elioud,elioud,ELIUD (HEB),NULL,NULL
+442,ελκ-,elk-,elk-,TREKKEN,NULL,NULL
+443,-ελλ-,-ell-,-ell-,GRIEK,NULL,NULL
+444,ελμαδαμ,elmadam,elmadam,ELMADAM,NULL,NULL
+445,-ελπι-,-elpi-,-elpi-,VERWACHTEN,NULL,NULL
+446,ελυμας,elumas,elumas,ELYMAS,NULL,NULL
+447,ελωι,elōi,elwi,ELOI (ARAM),NULL,NULL
+448,-εμ-,-em-,-em-,BRAKEN,NULL,NULL
+449,εμμανουηλ,emmanouēl,emmanouhl,IMMANUEL (HEB),NULL,NULL
+451,εμον,emon,emon,MIJN,NULL,NULL
+450,εμμαους,emmaous,emmaus,EMMAUS,NULL,NULL
+452,εμμορ,emmor,emmor,HEMOR (HEB),NULL,NULL
+453,-εν-/-εμ-/-εγ-,-en-/-em-/-eg-,-en-/-em-/-eg-,IN,NULL,NULL
+454,-εν-,-en-,-en-,ÉÉN,NULL,NULL
+455,-εν-,-en-,-en-,NEGEN,NULL,NULL
+456,-εννε-,-enne-,-enne-,PERPLEX,NULL,NULL
+457,ενως,enōs,enws,ENOS (HEB),NULL,NULL
+458,ενωχ,enōk<sup>h</sup>,enwc,HENOCH (HEB),NULL,NULL
+459,-εξ-/-εκ-,-ek<sup>s</sup>-/-ek-,-ex-/-ek-,ZES,NULL,NULL
+460,-εορτ-,-eort-,-eort-,FESTIVAL,NULL,NULL
+461,-επ-/-ειπ-/-π-,-ep-/-eip-/-p-,-ep-/-eip-/-p-,LEG(zeg)GEN,837,NULL
+462,επαφρας,epap<sup>h</sup>ras,epafras,EPAFRAS,NULL,NULL
+463,-επι-/-επ-/-εφ-,-epi-/-ep-/-ep<sup>h</sup>-,-epi-/-ep-/-ef-,OP,NULL,NULL
+464,-επ-,-ep-,-ep-,OP,463,NULL
+465,-εφ-,-ep<sup>h</sup>-,-ef-,OP,463,NULL
+466,-επτ-/-εβδ-,-ept-/-ebd-,-ept-/-ebd-,ZEVEN,NULL,NULL
+467,εραστος,erastos,erastos,ERASTUS,NULL,NULL
+468,-εργ-/-ργ-/-ουργ-/ωργ-,-erg-/-rg-/-ourg-/ōrg-,-erg-/-rg-/-ourg-/wrg-,WERK,NULL,NULL
+469,-ερε-/-ηρε-,-ere-/-ēre-,-ere-/-hre-,ROEIEN,NULL,NULL
+470,-ερειδ-,-ereid-,-ereid-,STOK,NULL,NULL
+471,-ερευγ-,-ereug-,-ereug-,ERUIT+GOOIEN,NULL,NULL
+472,-ερευν-,-ereun-,-ereun-,VORSEN,NULL,NULL
+473,-ερημ-,-erēm-,-erhm-,DESOLAAT,NULL,NULL
+474,-ερι-,-eri-,-eri-,WOL,NULL,NULL
+475,-ερι-/-ερε-/-ηρε-,-eri-/-ere-/-ēre-,-eri-/-ere-/-hre-,TWIST,NULL,NULL
+476,-εριφ-,-erip<sup>h</sup>-,-erif-,BOK,NULL,NULL
+477,ερμας,ermas,ermas,HERMAS,NULL,NULL
+478,-ερημ-/-ερμα-,-erēm-/-erma-,-erhm-/-erma-,VERTALEN,NULL,NULL
+479,-ερπετ-,-erpet-,-erpet-,REPTIEL,NULL,NULL
+480,-ερυθ-,-erut<sup>h</sup>-,-eruq-,ROOD,NULL,NULL
+481,-ερχ-/-ηλ-/-ελ-,-erk<sup>h</sup>-/-ēl-/-el-,-erc-/-hl-/-el-,KOMEN,NULL,NULL
+482,-εσθ-/-στ-,-est<sup>h</sup>-/-st-,-esq-/-st-,NUTTIGEN,NULL,NULL
+483,εσλει,eslei,eslei,ESLI (HEB),NULL,NULL
+484,-εσπερ-,-esper-,-esper-,AVOND+STER,NULL,NULL
+485,εσρωμ,esrōm,esrwm,HESRON (HEB),NULL,NULL
+486,-εσχατ-,-esk<sup>h</sup>at-,-escat-,LAATST,NULL,NULL
+487,-ετ-,-et-,-et-,JAAR,NULL,NULL
+488,εταιρ-,etair-,etair-,MAKKER,NULL,NULL
+489,-εταζ-,-etaz-,-etaz-,ONDERVRAGEN,NULL,NULL
+490,-ετερ-,-eter-,-eter-,VERSCHILLEND,NULL,NULL
+491,-ετι-,-eti-,-eti-,NOG,NULL,NULL
+492,-ετοιμ-,-etoim-,-etoim-,GEREED,NULL,NULL
+493,-ευ-,-eu-,-eu-,Komt als tussenvoegsel tussen stam en uitgang voor en benadrukt slechts de actie die het woord aangeeft,NULL,NULL
+494,-ευ-,-eu-,-eu-,WEL,NULL,NULL
+495,ευα,eua,eua,EVA (HEB),NULL,NULL
+496,-ευδ-,-eud-,-eud-,RUSTEN,NULL,NULL
+497,-ευνουχ-,-eunouk<sup>h</sup>-,-eunouc-,ONTMAND,NULL,NULL
+498,-ευρ-,-eur-,-eur-,VINDEN,NULL,NULL
+499,ευρ-ακλυλων,eur-aklulōn,eur-aklulwn,OOST+NOORD+ER (LAT),NULL,NULL
+500,ευφρατης,eup<sup>h</sup>ratēs,eufraths,EUFRAAT (HEB),NULL,NULL
+501,-εφεσ-,-ep<sup>h</sup>es-,-efes-,EFEZE,NULL,NULL
+502,εφραιμ,ep<sup>h</sup>raim,efraim,EFRAIM (HEB),NULL,NULL
+503,εφφαθα,ep<sup>h</sup>p<sup>h</sup>at<sup>h</sup>a,effaqa,EFFATHA (ARAM),NULL,NULL
+504,-εχ-/-χ-/-οχ-/-ουχ-/-ωχ-/-εκ-/-εξ-,-ek<sup>h</sup>-/-k<sup>h</sup>-/-ok<sup>h</sup>-/-ouk<sup>h</sup>-/-ōk<sup>h</sup>-/-ek-/-ek<sup>s</sup>-,-ec-/-c-/-oc-/-ouc-/-wc-/-ek-/-ex-,HEBBEN,NULL,NULL
+505,εχθες,ek<sup>h</sup>t<sup>h</sup>es,ecqes,GISTEREN,NULL,NULL
+506,-εχιδ-,-ek<sup>h</sup>id-,-ecid-,ADDER,NULL,NULL
+507,εως,eōs,ews,TOT,NULL,NULL
+508,-ζα-/-ζη-/-ζω-,-za-/-zē-/-zō-,-za-/-zh-/-zw-,LEVEN,NULL,NULL
+509,ζαβουλων,zaboulōn,zaboulwn,ZEBULON (HEB),NULL,NULL
+510,ζακχαιος,zakk<sup>h</sup>aios,zakcaios,ZACHEUS (HEB),NULL,NULL
+511,ζαρα,zara,zara,ZERAH (HEB),NULL,NULL
+512,ζαχαριας,zak<sup>h</sup>arias,zacarias,ZACHARIAS (HEB),NULL,NULL
+513,-ζε-/-ζη-/-δι-,-ze-/-zē-/-di-,-ze-/-zh-/-di-,ZIEDEN,NULL,NULL
+515,ζεβεδαιος,zebedaios,zebedaios,ZEBEDEUS (HEB),NULL,NULL
+516,-ζημι-,-zēmi-,-zhmi-,BOETE+VERLIES,NULL,NULL
+517,ζηνας,zēnas,zhnas,ZENAS,NULL,NULL
+518,-ζητ-,-zēt-,-zht-,ZOEKEN,NULL,NULL
+519,-ζιζανι-,-zizani-,-zizani-,DOLIK,NULL,NULL
+520,ζοροβαβελ,zorobabel,zorobabel,ZERUBABEL (HEB),NULL,NULL
+521,-ζοφ-,-zop<sup>h</sup>-,-zof-,PIKDONKER,NULL,NULL
+522,-ζυγ-/-ζευγ-/-ζευκ-,-zug-/-zeug-/-zeuk-,-zug-/-zeug-/-zeuk-,JUK,NULL,NULL
+523,-ζυμ-,-zum-,-zum-,ZUUR,NULL,NULL
+524,-ζων-,-zōn-,-zwn-,GORDEN,NULL,NULL
+525,-η-,-ē-,-h-,OF,NULL,NULL
+526,-ηγυρ-/-αγυρ-,-ēgur-/-agur-,-hgur-/-agur-,NODEN,NULL,NULL
+527,-ηδ-/-αδ-/-α-,-ēd-/-ad-/-a-,-hd-/-ad-/-a-,GENIETEN,NULL,NULL
+528,ηδη,ēdē,hdh,REEDS,NULL,NULL
+529,-ηκ-,-ēk-,-hk-,AANKOMEN (vergelijk <span class='Greek'>-ik-</span> REIKEN),NULL,618
+530,-ηλ-,-ēl-,-hl-,NAGEL,NULL,NULL
+531,ηλι,ēli,hli,ELI (HEB),NULL,NULL
+532,-ηλι-/-ειλ-,-ēli-/-eil-,-hli-/-eil-,ZON,NULL,NULL
+533,ηλιας,ēlias,hlias,ELIA (HEB),NULL,NULL
+534,-ηλικ-,-ēlik-,-hlik-,VOL+ONTWIKKELD,NULL,NULL
+535,-ημ-,-ēm-,-hm-,WIJ,NULL,NULL
+536,-ημ-/-ημερ-,-ēm-/-ēmer-,-hm-/-hmer-,DAG,NULL,NULL
+538,-ηπι-,-ēpi-,-hpi-,ZACHTAARDIG,NULL,NULL
+539,ηρ,ēr,hr,ER (HEB),NULL,NULL
+541,ηρωδ-,ērōd-,hrwd-,HERODES,NULL,NULL
+542,ησαιας,ēsaias,hsaias,JESAJA (HEB),NULL,NULL
+543,ησαυ,ēsau,hsau,EZAU (ARAB),NULL,NULL
+544,-ησυχ-,-ēsuk<sup>h</sup>-,-hsuc-,RUST,NULL,NULL
+545,-ησσ-/-ηττ-,-ēss-/-ētt-,-hss-/-htt-,VERMINDEREN,NULL,NULL
+546,-ηχ-,-ēk<sup>h</sup>-,-hc-,WEERKLINKEN,NULL,NULL
+547,θ,t<sup>h</sup>,q,"teken van passiviteit. Ook gebruikt voor geaspireerde dentalen van <span class=""Greek"">t,d</span>.",NULL,NULL
+548,-θα-/-τα-/-θην-/-θνη-,-t<sup>h</sup>a-/-ta-/-t<sup>h</sup>ēn-/-t<sup>h</sup>nē-,-qa-/-ta-/-qhn-/-qnh-,STERVEN,NULL,NULL
+549,-θνη-,-t<sup>h</sup>nē-,-qnh-,STERVEN,548,NULL
+550,-τα-,-ta-,-qnh-,STERVEN,548,NULL
+551,θαδδαιος,t<sup>h</sup>addaios,qaddaios,THADDEUS (HEB),NULL,NULL
+552,-θAL-,-t<sup>h</sup>AL-,-qAL-,BLOEIEN,NULL,NULL
+553,-θAL-,-t<sup>h</sup>AL-,-qAL-,BROEDEN,NULL,NULL
+554,-θALασ-,-t<sup>h</sup>ALas-,-qALas-,ZEE,NULL,NULL
+555,θAμαρ,t<sup>h</sup>Amar,qAmar,THAMAR (HEB),NULL,NULL
+556,-θAμβ-,-t<sup>h</sup>Amb-,-qAmb-,ONTZAG,NULL,NULL
+557,θαρα,t<sup>h</sup>ara,qara,THARA (misschien HEB),NULL,NULL
+558,-θαρ-,-t<sup>h</sup>ar-,-qar-,MOED,NULL,NULL
+559,-θαυμα-,-t<sup>h</sup>auma-,-qauma-,VERBAZEN,NULL,NULL
+560,-θε-/-θη-/-θα-/-θυ-/-θεα-/-θεν-,-t<sup>h</sup>e-/-t<sup>h</sup>ē-/-t<sup>h</sup>a-/-t<sup>h</sup>u-/-t<sup>h</sup>ea-/-t<sup>h</sup>en-,-qe-/-qh-/-qa-/-qu-/-qea-/-qen-,PLAATS,NULL,NULL
+561,-θεα-,-t<sup>h</sup>ea-,-qea-,PLAATS,560,NULL
+562,-θε-,-t<sup>h</sup>e-,-qe-,PLAATS,560,NULL
+563,-θεν-,-t<sup>h</sup>en-,-qen-,PLAATS,560,NULL
+564,-θελ-,-t<sup>h</sup>el-,-qel-,WIL,NULL,NULL
+565,-θερ-,-t<sup>h</sup>er-,-qer-,WARM,NULL,NULL
+566,θεσσαλονικ-,t<sup>h</sup>essalonik-,qessalonik-,TESSALONICA,NULL,NULL
+567,θευδας,t<sup>h</sup>eudas,qeudas,THEUDAS,NULL,NULL
+568,-θηλ-,-t<sup>h</sup>ēl-,-qhl-,TEPEL,NULL,NULL
+569,-θηρ-,-t<sup>h</sup>ēr-,-qhr-,WILD+BEEST,NULL,NULL
+570,-θι-,-t<sup>h</sup>i-,-qi-,STAPEL,NULL,NULL
+571,-θιγ-,-t<sup>h</sup>ig-,-qig-,AANRAKEN,NULL,NULL
+572,-θλα-,-t<sup>h</sup>la-,-qla-,VERBRIJZELEN,NULL,NULL
+573,-θλιβ-/-θλιψ-,-t<sup>h</sup>lib-/-t<sup>h</sup>lip<sup>s</sup>-,-qlib-/-qliy-,DRUKKEN,NULL,NULL
+574,θολομαιος,t<sup>h</sup>olomaios,qolomaios,THOLOMEUS (HEB),NULL,NULL
+575,-θορυβ-,-t<sup>h</sup>orub-,-qorub-,TUMULT,NULL,NULL
+576,-θρ-,-t<sup>h</sup>r-,-qr-,RUINE,NULL,NULL
+577,-θραυ-,-t<sup>h</sup>rau-,-qrau-,STUKSLAAN,NULL,NULL
+578,-θρην-,-t<sup>h</sup>rēn-,-qrhn-,WEEKLAGEN,NULL,NULL
+579,-θρησκ-,-t<sup>h</sup>rēsk-,-qrhsk-,RITUEEL,NULL,NULL
+580,-θριαμβ-,-t<sup>h</sup>riamb-,-qriamb-,TRIOMF,NULL,NULL
+581,-θριξ-/-τριχ-,-t<sup>h</sup>rik<sup>s</sup>-/-trik<sup>h</sup>-,-qrix-/-tric-,HAAR,NULL,NULL
+582,-θρο-,-t<sup>h</sup>ro-,-qro-,ALARM,NULL,NULL
+583,-θρομβ-,-t<sup>h</sup>romb-,-qromb-,GERONNEN,NULL,NULL
+584,-θρον-,-t<sup>h</sup>ron-,-qron-,TROON,NULL,NULL
+586,-θυ-/-θυμ-,-t<sup>h</sup>u-/-t<sup>h</sup>um-,-qu-/-qum-,GEMOED,NULL,NULL
+585,-θυ-,-t<sup>h</sup>u-,-qu-,OFFER,NULL,NULL
+587,θυατειρα,t<sup>h</sup>uateira,quateira,THYATIRA,NULL,NULL
+588,-θυγατ-,-t<sup>h</sup>ugat-,-qugat-,DOCHTER,NULL,NULL
+589,-θυιν-,-t<sup>h</sup>uin-,-quin-,CITROEN,NULL,NULL
+590,-θυρ-,-t<sup>h</sup>ur-,-qur-,DEUR,NULL,NULL
+591,-θωι-,-t<sup>h</sup>ōi-,-qwi-,GESTRAFT,NULL,NULL
+592,θωμας,t<sup>h</sup>ōmas,qwmas,THOMAS (HEB),NULL,NULL
+593,-θωρακ-,-t<sup>h</sup>ōrak-,-qwrak-,KURAS,NULL,NULL
+594,-ια-,-ia-,-ia-,HELEN,NULL,NULL
+595,IAEIROς,IAEIROs,IAEIROs,JAIRUS (HEB),NULL,NULL
+596,IAκωβ,IAkōb,IAkwb,JACOB (HEB),NULL,NULL
+597,IAμβρης,IAmbrēs,IAmbrhs,JAMBRES,NULL,NULL
+598,IAννα,IAnna,IAnna,JANNAI,NULL,NULL
+599,Iαννης,Iannēs,IAnnes,JANNES,NULL,NULL
+600,-IAπ-/-απ-,-IAp-/-ap-,-IAp-/-ap-,SMIJT,NULL,NULL
+601,ιαρεδ,iared,iared,JERED (HEB),NULL,NULL
+602,-ιασπι-,-iaspi-,-iaspi-,JASPIS,NULL,NULL
+603,ιασων,iasōn,iaswn,JASON,NULL,NULL
+604,-ιδ-/-ειδ-/-ι-,-id-/-eid-/-i-,-id-/-eid-/-i-,WAARNEMEN,NULL,NULL
+605,-ιδ-,-id-,-id-,ZWEET,NULL,NULL
+606,-ιδι-,-idi-,-idi-,EIGEN,NULL,NULL
+607,ιδουμαια,idoumaia,idoumaia,IDUMEA (HEB),NULL,NULL
+608,ιεζαβελ,iezabel,iezabel,IZEBEL (HEB),NULL,NULL
+609,-ιερ-,-ier-,-ier-,GEWIJD,NULL,NULL
+610,ιερεμιας,ieremias,ieremias,JEREMIA (HEB),NULL,NULL
+611,-ιερουσαλ-,-ierousal-,-ierousal-,JERUZALEM (HEB),NULL,NULL
+612,ιεριχω,ierik<sup>h</sup>ō,iericw,JERICHO (HEB),NULL,NULL
+613,ιεσσαι,iessai,iessai,ISAI (HEB),NULL,NULL
+614,ιεφθαε,iep<sup>h</sup>t<sup>h</sup>ae,iefqae,JEFTA (HEB),NULL,NULL
+615,ιεχονιας,iek<sup>h</sup>onias,ieconias,JECHONIA (HEB),NULL,NULL
+616,-ιη-/-ε-,-iē-/-e-,-ih-/-e-,-LATEN,NULL,NULL
+617,-ιησους,-iēsous,-ihsous,JEZUS (HEB),NULL,NULL
+618,-ικ-/-ιξ-,-ik-/-ik<sup>s</sup>-,-ik-/-ix-,REIKEN (vergelijk <span class='Greek'>-hk-</span> AANKOMEN),NULL,NULL
+619,-ικμ-,-ikm-,-ikm-,VOCHT,NULL,NULL
+620,ικονιον,ikonion,ikonion,IKONIUM,NULL,NULL
+621,ιλ-,il-,il-,VERZOENEN,NULL,NULL
+622,-ιλαρ-,-ilar-,-ilar-,VROLIJK,NULL,NULL
+623,ιλλυρικον,illurikon,illurikon,ILLYRIE,NULL,NULL
+624,-ιμ-,-im-,-im-,RIEM,NULL,NULL
+625,ινα,ina,ina,(OP)DAT,NULL,NULL
+626,ιοππη,ioppē,iopph,JOPPE (HEB),NULL,NULL
+627,ιορδανης,iordanēs,iordanhs,JORDAAN (HEB),NULL,NULL
+628,-ιο-,-io-,-io-,GIF,NULL,NULL
+629,ιουδα-,iouda-,iouda-,JUDA,NULL,NULL
+630,ιουλι-,iouli-,iouli-,JULI,NULL,NULL
+631,ιουνιας,iounias,iounias,JUNIAS,NULL,NULL
+632,ιουστος,ioustos,ioustos,JUSTUS (LAT),NULL,NULL
+633,-ιππ-,-ipp-,-ipp-,PAARD,NULL,NULL
+634,-ιρι-,-iri-,-iri-,REGENBOOG,NULL,NULL
+635,-ισ-,-is-,-is-,EENDER,NULL,NULL
+636,ισαακ,isaak,isaak,ISAAK (HEB),NULL,NULL
+637,ισσαχαρ,issak<sup>h</sup>ar,issacar,ISSASCHAR (HEB),NULL,NULL
+638,ισκαριωτης,iskariōtēs,iskariwths,ISKARIOT (HEB),NULL,NULL
+639,ισραηλ,israēl,israhl,ISRAEL (HEB),NULL,NULL
+640,-ισχυ-,-isk<sup>h</sup>u-,-iscu-,STERK,NULL,NULL
+641,ιταλ-,ital-,ital-,ITALIE,NULL,NULL
+642,ιτουραια,itouraia,itouraia,ITUREA,NULL,NULL
+643,-ιχθυ-,-ik<sup>h</sup>t<sup>h</sup>u-,-icqu-,VIS,NULL,NULL
+644,-ιχν-,-ik<sup>h</sup>n-,-icn-,"SPOOR (vergelijk met <span class=""Greek"">-ik-</span> REIKEN)",NULL,618
+645,ιωαθαμ,iōat<sup>h</sup>am,iwaqam,JOTHAM (HEB),NULL,NULL
+646,ιωαν-,iōan-,iwan-,JOHAN (HEB),NULL,NULL
+651,ιωναμ,iōnam,iwnam,JONAN,NULL,NULL
+650,ιωηλ,iōēl,iwhl,JOEL (HEB),NULL,NULL
+649,ιωδα,iōda,iwda,JODA (HEB),NULL,NULL
+648,ιωβηδ,iōbēd,iwbhd,OBED (HEB),NULL,NULL
+647,ιωβ,iōb,iwb,JOB (HEB),NULL,NULL
+652,ιωνας,iōnas,iwnas,JONA (HEB),NULL,NULL
+653,ιωραμ,iōram,iwram,JORAM (HEB),NULL,NULL
+655,ιωρειμ,iōreim,iwreim,JORIM,NULL,NULL
+656,ιωσαφατ,iōsap<sup>h</sup>at,iwsafat,JOSAFAT (HEB),NULL,NULL
+657,ιωσης,iōsēs,iwshs,JOSES,NULL,NULL
+658,ιωσειας,iōseias,iwseias,JOSIA (HEB),NULL,NULL
+659,ιωσηφ,iōsēp<sup>h</sup>,iwshf,JOZEF (HEB),NULL,NULL
+660,ιωσηχ,iōsēk<sup>h</sup>,iwshc,JOSECH (HEB),NULL,NULL
+661,ιωτα,iōta,iwta,JOTA (HEB),NULL,NULL
+662,κ,k,k,drukt voltooiing uit,NULL,NULL
+663,-κα-,-ka-,-ka-,BRAND,NULL,NULL
+664,-και-,-kai-,-kai-,EN,NULL,NULL
+665,καιαφας,kaiap<sup>h</sup>as,kaiafas,KAIAFAS,NULL,NULL
+666,-καιν-,-kain-,-kain-,NIEUW,NULL,NULL
+667,καιν,kain,kain,KAIN (HEB),NULL,NULL
+668,καιναν,kainan,kainan,KAINAN,NULL,NULL
+669,-καιρ-,-kair-,-kair-,SEIZOEN,NULL,NULL
+670,καισαρ-,kaisar-,kaisar-,CAESAR,NULL,NULL
+671,κακ-,kak-,kak-,KWAAD,NULL,NULL
+672,-καλ-,-kal-,-kal-,IDEAAL,NULL,NULL
+673,-καλ-/-κλ-,-kal-/-kl-,-kal-/-kl-,ROEP,NULL,NULL
+674,-καλαμ-,-kalam-,-kalam-,RIET,NULL,NULL
+675,-καλυ-/-κλε-/-κλο-,-kalu-/-kle-/-klo-,-kalu-/-kle-/-klo-,DEKKEN,NULL,NULL
+676,-κλε-/-κλο-,-kle-/-klo-,-kle-/-klo-,DEKKEN,675,NULL
+677,-καμηλ-,-kamēl-,-kamhl-,KAMEEL,NULL,NULL
+678,-καμν-,-kamn-,-kamn-,VERFLAUWD,NULL,NULL
+679,-καμπ-,-kamp-,-kamp-,BUIGEN,NULL,NULL
+680,-καν-,-kan-,-kan-,REGEL,NULL,NULL
+681,κανα,kana,kana,KANA,NULL,NULL
+682,καναναιος,kananaios,kananaios,KANANIET,NULL,NULL
+683,κανδακη,kandakē,kandakh,KANDAKE,NULL,NULL
+684,-καπηλ-,-kapēl-,-kaphl-,VENTEN,NULL,NULL
+685,καππαδοκια,kappadokia,kappadokia,CAPPADOCIE,NULL,NULL
+686,-καρα-/-κρ-/-κρα-,-kara-/-kr-/-kra-,-kara-/-kr-/-kra-,SCHEDEL,NULL,NULL
+687,-καρδ-,-kard-,-kard-,HART,NULL,NULL
+688,-καρπ-,-karp-,-karp-,VRUCHT,NULL,NULL
+689,-καρφ-,-karp<sup>h</sup>-,-karf-,SPLINTER,NULL,NULL
+690,-κατα-/-κατ-/-καθ-/-κα-,-kata-/-kat-/-kat<sup>h</sup>-/-ka-,-kata-/-kat-/-kaq-/-ka-,NEER,NULL,NULL
+691,-κατ-,-kat-,-kat-,NEER (gevolg door klinker),690,NULL
+692,-καθ-,-kat<sup>h</sup>-,-kaq-,NEER,690,NULL
+693,-κα-,-ka-,-ka-,NEER,690,NULL
+694,καυδα,kauda,kauda,KAUDA,NULL,NULL
+695,-καυχ-,-kauk<sup>h</sup>-,-kauc-,ROEM,NULL,NULL
+696,καφαρναυμ,kap<sup>h</sup>arnaum,kafarnaum,KAPERNAUM,NULL,NULL
+697,κεγχρεαι,kegk<sup>h</sup>reai,kegcreai,KENCHREE,NULL,NULL
+698,κεδρων,kedrōn,kedrwn,KEDRON (HEB),NULL,NULL
+699,-κει-/-κοι-,-kei-/-koi-,-kei-/-koi-,LIGGEN,NULL,NULL
+700,-κοι-,-koi-,-koi-,LIGGEN,699,NULL
+701,-κειρ-,-keir-,-keir-,SCHAAR,NULL,NULL
+702,κεις,keis,keis,KEIS (HEB),NULL,NULL
+703,-κελ-,-kel-,-kel-,AANDRIJVEN,NULL,NULL
+704,-κελευ-,-keleu-,-keleu-,BEVEL,NULL,NULL
+705,-κεν-,-ken-,-ken-,LEEG,NULL,NULL
+706,-κεντ-,-kent-,-kent-,STEKEN,NULL,NULL
+707,κεντυριον,kenturion,kenturion,CENTURION (LAT),NULL,NULL
+708,-κερ-,-ker-,-ker-,KNIP,NULL,NULL
+782,-κραββατ-,-krabbat-,-krabbat-,BAAR,NULL,NULL
+709,-κερδ-,-kerd-,-kerd-,"WINNEN (vergelijk <span class=""Greek"">-kra-</span> HOUDEN)",NULL,777
+710,-κεφαλ-,-kep<sup>h</sup>al-,-kefal-,HOOFD,NULL,NULL
+711,-κημ-,-kēm-,-khm-,INTOMEN,NULL,NULL
+712,-κηνσ-,-kēns-,-khns-,KOPPENGELD (LAT),NULL,NULL
+713,-κηπ-,-kēp-,-khp-,TUIN,NULL,NULL
+714,-κηρυ-,-kēru-,-khru-,HERAUT,NULL,NULL
+715,-κητ-,-kēt-,-kht-,ZEEMONSTER,NULL,NULL
+716,κηφας,kēp<sup>h</sup>as,khfas,KEFAS (HEB),NULL,NULL
+717,-κιβ-,-kib-,-kib-,ARK,NULL,NULL
+718,-κιθαρ-,-kit<sup>h</sup>ar-,-kiqar-,LIER,NULL,NULL
+719,κιλικια,kilikia,kilikia,CILICIE,NULL,NULL
+720,-κιν-/-κειν-,-kin-/-kein-,-kin-/-kein-,BEWEGEN,NULL,NULL
+721,-κινδ-,-kind-,-kind-,GEVAAR,NULL,NULL
+722,-κινναμον-,-kinnamon-,-kinnamon-,KANEEL,NULL,NULL
+723,-κλα-/-κλη-,-kla-/-klē-,-kla-/-klh-,BREUK,NULL,NULL
+724,-κλα-,-kla-,-kla-,JAMMEREN,NULL,NULL
+725,κλαυδια,klaudia,klaudia,CLAUDIA,NULL,NULL
+726,κλαυδιος,klaudios,klaudios,CLAUDIUS,NULL,NULL
+727,-κλει-,-klei-,-klei-,SLUITEN,NULL,NULL
+728,κλεοπας,kleopas,kleopas,KLEOPAS,NULL,NULL
+729,κλημης,klēmēs,klhmhs,CLEMENS (LAT),NULL,NULL
+730,-κληρ-,-klēr-,-klhr-,LOT,NULL,NULL
+731,-κλιβαν-,-kliban-,-kliban-,OVEN,NULL,NULL
+732,-κλιν-/-κλι-,-klin-/-kli-,-klin-/-kli-,BUIG,NULL,NULL
+733,-κλυ,-klu,-klu,DEINEN,NULL,NULL
+734,κλωπας,klōpas,klwpas,KLOPAS,NULL,NULL
+735,-κνηθ-,-knēt<sup>h</sup>-,-knhq-,KITTELEN,NULL,NULL
+736,κνιδος,knidos,knidos,KNIDUS,NULL,NULL
+737,κοδραντης,kodrantēs,kodranths,QUADRANS (LAT),NULL,NULL
+738,-κοιλ-,-koil-,-koil-,HOLTE,NULL,NULL
+739,κοιν-,koin-,koin-,GEMEEN,NULL,NULL
+740,-κοκκ-,-kokk-,-kokk-,KORREL,NULL,NULL
+741,-κολ-,-kol-,-kol-,LEVENSMIDDELEN,NULL,NULL
+742,-κολ-,-kol-,-kol-,KASTIJDEN,NULL,NULL
+743,-κολακ-,-kolak-,-kolak-,VLEIERIJ,NULL,NULL
+744,κολοσσαι,kolossai,kolossai,KOLOSSE,NULL,NULL
+745,-κολλ-,-koll-,-koll-,KLEVEN,NULL,NULL
+746,-κολλυβ-/-κολοβ-,-kollub-/-kolob-,-kollub-/-kolob-,SNOEIEN,NULL,NULL
+747,-κολπ-,-kolp-,-kolp-,BOEZEM,NULL,NULL
+748,-κολυμβ-,-kolumb-,-kolumb-,ZWEMMEN,NULL,NULL
+749,κολωνια,kolōnia,kolwnia,KOLONIE (LAT),NULL,NULL
+750,-κομ-,-kom-,-kom-,HALEN,NULL,NULL
+751,-κομ-,-kom-,-kom-,LOKKEN,NULL,NULL
+752,-κομβ-,-komb-,-komb-,KNOOP,NULL,NULL
+753,-κομψ-,-komp<sup>s</sup>-,-komy-,OPKNAPPEN,NULL,NULL
+754,-κον-,-kon-,-kon-,DIENEN,NULL,NULL
+755,-κονι-,-koni-,-koni-,STOF(WOLK),NULL,NULL
+756,-κοντ-,-kont-,-kont-,TIG (in getallen),NULL,NULL
+757,-κοπ-,-kop-,-kop-,HOUWEN,NULL,NULL
+758,κοπρ-,kopr-,kopr-,MEST,NULL,NULL
+759,-κορ-/-κουρ-,-kor-/-kour-,-kor-/-kour-,JEUGDIG,NULL,NULL
+760,-κορ-,-kor-,-kor-,WACHTER,NULL,NULL
+761,κορος,koros,koros,KOROS (HEB),NULL,NULL
+762,κορα-,kora-,kora-,RAAF,NULL,NULL
+763,κορβαν,korban,korban,KORBAN (HEB),NULL,NULL
+764,-κορε-,-kore-,-kore-,VERZADIGEN,NULL,NULL
+765,-κορε-,-kore-,-kore-,KORACH (HEB),NULL,NULL
+766,κορινθ-,korint<sup>h</sup>-,korinq-,KORINTE,NULL,NULL
+767,κορνηλιος,kornēlios,kornhlios,CORNELIUS (LAT),NULL,NULL
+768,-κοσιο-,-kosio-,-kosio-,HONDERDVOUD,NULL,NULL
+769,-κοσμ-,-kosm-,-kosm-,SYSTEEM,NULL,NULL
+770,-κοστ-,-kost-,-kost-,TIGSTE,NULL,NULL
+771,-κουμι-,-koumi-,-koumi-,KOUMI (ARAM),NULL,NULL
+772,κουρτος,kourtos,kourtos,QUARTUS (LAT),NULL,NULL
+773,κουστωδια,koustōdia,koustwdia,CUSTODIA (LAT),NULL,NULL
+774,-κουφ-,-koup<sup>h</sup>-,-kouf-,BAKEN,NULL,NULL
+775,-κοφιν-,-kop<sup>h</sup>in-,-kofin-,KORF,NULL,NULL
+776,-κρα-,-kra-,-kra-,SCHREEUWEN,NULL,NULL
+777,-κρα-/-κερα-/-καρ-/-κρει-,-kra-/-kera-/-kar-/-krei-,-kra-/-kera-/-kar-/-krei-,HOUDEN,NULL,NULL
+778,-κερα-,-kera-,-kera-,HOUDEN,777,NULL
+779,-καρ-,-kar-,-kar-,HOUDEN,777,NULL
+781,γομορρα,gomorr<sup>h</sup>a,gomorra,GOMORRA (HEB),NULL,NULL
+783,-κρεα-,-krea-,-krea-,VLEESWAAR,NULL,NULL
+784,-κρεμ-/-κρημ-/-κρασ-,-krem-/-krēm-/-kras-,-krem-/-krhm-/-kras-,HANGEN,NULL,NULL
+786,κρησκης,krēskēs,krhskhs,CRESCENS (LAT),NULL,NULL
+787,-κρι-,-kri-,-kri-,RICHTEN,NULL,NULL
+788,-κριθ-,-krit<sup>h</sup>-,-kriq-,GERST,NULL,NULL
+789,-κριν-,-krin-,-krin-,ANAMOON,NULL,NULL
+790,κρισπος,krispos,krispos,CRISPUS (LAT),NULL,NULL
+791,-κρου-,-krou-,-krou-,KLOP,NULL,NULL
+792,-κρου-,-krou-,-krou-,VORST,NULL,NULL
+793,-κρυπ-/-κρυφ-,-krup-/-krup<sup>h</sup>-,-krup-/-kruf-,VERBERGEN,NULL,NULL
+794,-κτειν-/-κτον-,-ktein-/-kton-,-ktein-/-kton-,DOODMAKEN,NULL,NULL
+795,-κτ-,-kt-,-kt-,VERWERVEN,NULL,NULL
+796,-κτI-,-ktI-,-ktI-,SCHEPPEN,NULL,NULL
+797,-κυ-,-ku-,-ku-,WEMELEN,NULL,1395
+798,-κυβ-,-kub-,-kub-,TEERLING,NULL,NULL
+799,-κυβερ-,-kuber-,-kuber-,STUREN,NULL,NULL
+800,-κυκλ-,-kukl-,-kukl-,CIRKEL,NULL,NULL
+801,-κυλ-,-kul-,-kul-,"ROL (vergelijk <span class=""Greek"">-kukl-</span> CIRKEL)",NULL,800
+802,-κυλ-,-kul-,-kul-,MANK,NULL,NULL
+803,-κυμ-,-kum-,-kum-,GOLF,NULL,NULL
+804,-κυμβ-,-kumb-,-kumb-,BEKKEN,NULL,NULL
+805,-κυμιν-,-kumin-,-kumin-,KOMIJN,NULL,NULL
+806,-κυμιν-,-kumin-,-kumin-,CYPRUS,NULL,NULL
+807,-κυπτ-,-kupt-,-kupt-,BUKKEN,NULL,NULL
+808,-κυρ-,-kur-,-kur-,BEKRACHTIGEN,NULL,NULL
+809,-κυρην-,-kurēn-,-kurhn-,CYRENE,NULL,NULL
+810,κυρηνιος,kurēnios,kurhnios,QUIRINUS (LAT),NULL,NULL
+811,-κωλ-,-kōl-,-kwl-,KARKAS,NULL,NULL
+812,-κωλυ-,-kōlu-,-kwlu-,VERHOEDEN,NULL,NULL
+813,-κωμ-,-kōm-,-kwm-,DORP,NULL,NULL
+815,-κωνωπ-,-kōnōp-,-kwnwp-,MUG,NULL,NULL
+816,κως,kōs,kws,KOS,NULL,NULL
+817,κωςαμ,kōsam,kwsam,KOSAM (HEB),NULL,NULL
+818,-κωφ-,-kōp<sup>h</sup>-,-kwf-,STOM,NULL,NULL
+819,-λα-/-λη-/-λειτ-,-la-/-lē-/-leit-,-la-/-lh-/-leit-,VOLK,NULL,NULL
+820,-λα-,-la-,-la-,IN+ROTS,NULL,NULL
+821,-λαβ-/-λαμ[β]-/-ληπ-/-ληφ-,-lab-/-lam[b]-/-lēp-/-lēp<sup>h</sup>-,-lab-/-lam[b]-/-lhp-/-lhf-,VATTEN,NULL,NULL
+822,λαζαρος,lazaros,lazaros,LAZARUS (HEB),NULL,NULL
+823,-λαθ-/-λα[ν]θ-/-ληθ-/-λη-,-lat<sup>h</sup>-/-la[n]t<sup>h</sup>-/-lēt<sup>h</sup>-/-lē-,-laq-/-la[n]q-/-lhq-/-lh-,VERGETEN,NULL,NULL
+824,-λακ-,-lak-,-lak-,OPENRIJTEN,NULL,NULL
+825,-λακτ-,-lakt-,-lakt-,TRAP,NULL,NULL
+826,-λαλ-,-lal-,-lal-,SPREKEN,NULL,NULL
+827,λαμεχ,lamek<sup>h</sup>,lamec,LAMECH (HEB),NULL,NULL
+828,λαμπ-,lamp-,lamp-,STRALEN,NULL,NULL
+829,-λαπ-,-lap-,-lap-,KLOTSEN,NULL,NULL
+830,λαρυγξ,larugk<sup>s</sup>,larugx,KEEL,NULL,NULL
+831,λασεα,lasea,lasea,LASEA,NULL,NULL
+832,-λατρ-,-latr-,-latr-,GODSDIENST,NULL,NULL
+833,-λαυ-,-lau-,-lau-,GENOEGEN,NULL,NULL
+834,-λαχ-/-λα[γ]χ-/-λογχ-,-lak<sup>h</sup>-/-la[g]k<sup>h</sup>-/-logk<sup>h</sup>-,-lac-/-la[g]c-/-logc-,TOEVALLIG+ZIJN,NULL,NULL
+835,-λαχαν-,-lak<sup>h</sup>an-,-lacan-,GROEN-te,NULL,NULL
+836,-λε-,-le-,-le-,LEEUW,NULL,NULL
+837,-λεγ-/-λογ-/-λεκ-/-λοι-,-leg-/-log-/-lek-/-loi-,-leg-/-log-/-lek-/-loi-,LEGGEN,NULL,NULL
+838,-λογιζ-/-λογισ-,-logiz-/-logis-,-logiz-/-logis-,LEGGEN,837,NULL
+839,-λοι-,-loi-,-loi-,LEGGEN,837,NULL
+840,λεγεων,legeōn,legewn,LEGIOEN (LAT),NULL,NULL
+841,-λει-,-lei-,-lei-,GLAD,NULL,NULL
+842,-λειπ-/-λοιπ-/-λειμ-/-λιμπ-,-leip-/-loip-/-leim-/-limp-,-leip-/-loip-/-leim-/-limp-,ONTBREKEN,NULL,NULL
+843,-λειχ-,-leik<sup>h</sup>-,-leic-,LIKKEN,NULL,NULL
+844,-λεμα-/-λαμα-,-lema-/-lama-,-lema-/-lama-,LAMA (ARAM),NULL,NULL
+845,-λεντ-,-lent-,-lent-,HANDDOEK,NULL,NULL
+846,-λεπ-,-lep-,-lep-,BLEEK,NULL,NULL
+847,λευι-,leui-,leui-,LEVI (HEB),NULL,NULL
+848,λευκ-,leuk-,leuk-,WIT,NULL,NULL
+850,-λην-,-lēn-,-lhn-,KUIP,NULL,NULL
+851,-ληστ-,-lēst-,-lhst-,ROVER,NULL,NULL
+852,-λιαν-,-lian-,-lian-,ZEER,NULL,NULL
+853,-λιβαν-,-liban-,-liban-,WIT (HEB),NULL,NULL
+854,λιβερτινοι,libertinoi,libertinoi,LIBERTIJNEN (LAT),NULL,NULL
+855,λιβυα,libua,libua,LIBIE,NULL,NULL
+856,-λιθ-,-lit<sup>h</sup>-,-liq-,STEEN,NULL,NULL
+857,-λικμ-,-likm-,-likm-,WANNEN,NULL,NULL
+858,-λιμ-,-lim-,-lim-,HONGER,NULL,NULL
+859,-λιμ-,-lim-,-lim-,MEER,NULL,NULL
+860,-λιν-,-lin-,-lin-,VLAS,NULL,NULL
+861,λινοσ,linos,linos,LINUS,NULL,NULL
+862,-λιπ-,-lip-,-lip-,GLIMMEND,NULL,NULL
+864,-λιτρ-,-litr-,-litr-,POND,NULL,NULL
+865,λιψ,lip<sup>s</sup>,liy,ZUID+WEST,NULL,NULL
+866,-λοιμ-,-loim-,-loim-,PEST,NULL,NULL
+867,λουκας,loukas,loukas,LUCAS,NULL,NULL
+868,λουκιος,loukios,loukios,LUCIUS,NULL,NULL
+869,λου,lou,lou,BAD,NULL,NULL
+870,-λυ-,-lu-,-lu-,"LOS (vergelijk <span class=""Greek"">-lou-</span> BADEN)",NULL,869
+871,-λυτρ-,-lutr-,-lutr-,LOS,NULL,NULL
+872,λυδδα,ludda,ludda,LUDDA,NULL,NULL
+873,λυδια,ludia,ludia,LUDIA,NULL,NULL
+874,-λυκ-,-luk-,-luk-,WOLF,NULL,NULL
+875,λυκανον-,lukanon-,lukanon-,LYCAONIE,NULL,NULL
+876,λυκια,lukia,lukia,LUKIA,NULL,NULL
+877,-λυπ-,-lup-,-lup-,BEDROEVEN,NULL,NULL
+878,λυσανιας,lusanias,lusanias,LUSANIAS,NULL,NULL
+879,λυσιας,lusias,lusias,LUSIAS (LAT),NULL,NULL
+880,λυστρα,lustra,lustra,LYSTRA,NULL,NULL
+881,-λυχν-,-luk<sup>h</sup>n-,-lucn-,LAMP,NULL,NULL
+882,-λω-/-λισκ-,-lō-/-lisk-,-lw-/-lisk-,CONSUMEREN,NULL,NULL
+883,λωις,lōis,lwis,LOIS,NULL,NULL
+884,λωτ,lōt,lwt,LOT (HEB),NULL,NULL
+885,-μα-/-μαλ-,-ma-/-mal-,-ma-/-mal-,MEER (bv),NULL,NULL
+886,-μα-,-ma-,-ma-,DRIJVEND,NULL,NULL
+887,μααθ,maat<sup>h</sup>,maaq,MAATH (HEB),NULL,NULL
+888,-μαγ-,-mag-,-mag-,MAGIE,NULL,NULL
+889,μαγαδαν,magadan,magadan,MAGADAN,NULL,NULL
+890,μαγδαληνη,magdalēnē,magdalhnh,VAN+MAGDALA,NULL,NULL
+891,μαγωγ,magōg,magwg,MAGOG,NULL,NULL
+892,μαδιαμ,madiam,madiam,MADIAN (HEB),NULL,NULL
+893,-μαθ-/-μα[ν]θ[αν]-,-mat<sup>h</sup>-/-ma[n]t<sup>h</sup>[an]-,-maq-/-ma[n]q[an]-,LEREN,NULL,NULL
+894,μαθουσαλα,mat<sup>h</sup>ousala,maqousala,METHUSELACH,NULL,NULL
+895,-μαιν-/-μαν-,-main-/-man-,-main-/-man-,GEK,NULL,NULL
+896,-μακαρ-,-makar-,-makar-,GELUKKIG,NULL,NULL
+897,μακαιδον-,makaidon-,makaidon-,MACEDONIE,NULL,NULL
+899,-μακρ-,-makr-,-makr-,VER,NULL,NULL
+900,-μαλακ-,-malak-,-malak-,ZACHT,NULL,NULL
+901,μαλελεηλ,maleleēl,malelehl,MAHALALEL (HEB),NULL,NULL
+902,μαλχος,malk<sup>h</sup>os,malcos,MALCHUS (HEB),NULL,NULL
+903,-μαμμ-,-mamm-,-mamm-,GROOTMOEDER,NULL,NULL
+904,-μαμων-,-mamōn-,-mamwn-,MAMMON (HEB),NULL,NULL
+905,μαναην,manaēn,manahn,MANAEN (HEB),NULL,NULL
+906,μανασσης,manassēs,manasshs,MANASSE (HEB),NULL,NULL
+907,μαννα,manna,manna,MANNA (ARAM),NULL,NULL
+908,-μαρα-,-mara-,-mara-,VERWELKEN,NULL,NULL
+909,μαραν,maran,maran,MARAN (HEB),NULL,NULL
+910,-μαργαρ-,-margar-,-margar-,PAREL,NULL,NULL
+911,μαρθα,mart<sup>h</sup>a,marqa,MARTHA,NULL,NULL
+912,μαρια,maria,maria,MARIA (HEB:HOOGTE),NULL,NULL
+913,μαρκος,markos,markos,MARCUS,NULL,NULL
+914,-μαρμαρ-,-marmar-,-marmar-,MARMEREN,NULL,NULL
+915,-μαρτ-,-mart-,-mart-,MARKEREN,NULL,NULL
+916,(α)μαρτ,(a)mart,(a)mart,(ON-)MARKEREN,NULL,NULL
+917,-μασ-,-mas-,-mas-,BORST,NULL,NULL
+918,-μασσ-,-mass-,-mass-,KNAGEN,NULL,NULL
+919,-μασσ-,-mass-,-mass-,WISSEN,NULL,NULL
+920,-ματ-,-mat-,-mat-,IJDEL,NULL,NULL
+921,ματθαιος,matt<sup>h</sup>aios,matqaios,MATTHEUS (HEB),NULL,NULL
+922,ματθαν,matt<sup>h</sup>an,matqan,MATTHAN (HEB),NULL,NULL
+923,ματθατ,matt<sup>h</sup>at,matqat,MATTHAT (HEB),NULL,NULL
+924,ματθατ,matt<sup>h</sup>at,matqat,MATTHIAS (HEB),NULL,NULL
+925,ματταθα,mattat<sup>h</sup>a,mattaqa,MATTATHA (HEB),NULL,NULL
+926,ματταθιας,mattat<sup>h</sup>ias,mattaqias,MATTATHIAS (HEB),NULL,NULL
+927,-μαχ-,-mak<sup>h</sup>-,-mac-,VECHTEN,NULL,NULL
+928,με/εμε,me/eme,me/eme,MIJ,NULL,943
+929,-μεγ-,-meg-,-meg-,GROOT,NULL,NULL
+930,-μεθ-,-met<sup>h</sup>-,-meq-,DRONKEN,NULL,NULL
+931,μειζον,meizon,meizon,GROTER,929,NULL
+932,-μελ-,-mel-,-mel-,LID,NULL,NULL
+933,-μελ-,-mel-,-mel-,ZORG,NULL,NULL
+934,-μελ-,-mel-,-mel-,STAAN+TE,NULL,NULL
+935,-μελα-,-mela-,-mela-,ZWART,NULL,NULL
+936,μελεας,meleas,meleas,MELEA (HEB),NULL,NULL
+937,-μελι-,-meli-,-meli-,HONING,NULL,NULL
+938,μελιτη,melitē,melith,MALTA,NULL,NULL
+939,μελχει,melk<sup>h</sup>ei,melcei,MELCHI (HEB),NULL,NULL
+940,μελχει,melk<sup>h</sup>ei,melcei,MELCHISEDEK (HEB),NULL,NULL
+941,-μεμβραν-,-membran-,-membran-,MEMBRAAN (LAT),NULL,NULL
+942,-μεμπ-/-μεμφ-/-μομφ-,-memp-/-memp<sup>h</sup>-/-momp<sup>h</sup>-,-memp-/-memf-/-momf-,BLAMEREN,NULL,NULL
+943,-μεν-/-μον-,-men-/-mon-,-men-/-mon-,"BLIJVEN (wellicht <span class=""Greek"">me en</span> MIJ-IN)<br><span class=""Greek"">-men-</span> is de uitgang van het Medium adverbium, omdat de actie bij het subject BLIJFT",NULL,453
+944,-μεν-,-men-,-men-,"INDERDAAD (vergelijk <span class=""Greek"">men</span> BLIJVEN)",NULL,943
+945,μεννα,menna,menna,MENNA,NULL,NULL
+946,-μερ-,-mer-,-mer-,DEEL,NULL,NULL
+947,-μεσ-,-mes-,-mes-,MIDDEN,NULL,NULL
+948,μεσσιασ,messias,messias,MESSIAS (HEB),NULL,NULL
+949,-μεστ-,-mest-,-mest-,OPGEREKT,NULL,NULL
+950,-μετα-/-μετ-/-μεθ-,-meta-/-met-/-met<sup>h</sup>-,-meta-/-met-/-meq-,MET,NULL,NULL
+951,-μετ-,-met-,-met-,MET,950,NULL
+952,-μεθ-,-met<sup>h</sup>-,-meq-,MET,950,NULL
+953,-μετρ-,-metr-,-metr-,METEN,950,NULL
+954,-μη-,-mē-,-mh-,NEE,950,NULL
+955,μηδος,mēdos,mhdos,MEDIER,NULL,NULL
+956,-μηκ-,-mēk-,-mhk-,LENGTE,NULL,NULL
+957,-μηλ-,-mēl-,-mhl-,SCHAPENVACHT,NULL,NULL
+958,μην,mēn,mhn,WAARLIJK,NULL,NULL
+959,-μην-,-mēn-,-mhn-,MAAND,NULL,NULL
+960,-μην-,-mēn-,-mhn-,VERKLAPPEN,NULL,NULL
+961,-μηρ-,-mēr-,-mhr-,DIJ,NULL,NULL
+962,-μητηρ-/-μητρ,-mētēr-/-mētr,-mhthr-/-mhtr,MOEDER,NULL,364
+963,-μια-,-mia-,-mia-,VERONTREINIGEN,NULL,NULL
+965,-μιγ-,-mig-,-mig-,MENGEN,NULL,NULL
+966,-μικρ-,-mikr-,-mikr-,KLEIN,NULL,NULL
+967,μιλητος,milētos,milhtos,MILETE,NULL,NULL
+968,μιλιον,milion,milion,MIJL (LAT),NULL,NULL
+969,-μιμ-,-mim-,-mim-,NABOOTSEN,NULL,NULL
+971,-μισ-,-mis-,-mis-,HATEN,NULL,NULL
+972,-μισθ-,-mist<sup>h</sup>-,-misq-,HUUR,NULL,NULL
+973,μιτυληνη,mitulēnē,mitulhnh,MITYLENE,NULL,NULL
+974,μιχαελ,mik<sup>h</sup>ael,micael,MICHAEL,NULL,NULL
+975,-μνα-/-μνη-,-mna-/-mnē-,-mna-/-mnh-,HERINNER,NULL,NULL
+976,μνα,mna,mna,POND (HEB),NULL,NULL
+977,-μογι-,-mogi-,-mogi-,MOEILIJK,NULL,NULL
+978,-μοδι-,-modi-,-modi-,"MODUS (maat, LAT)",NULL,NULL
+979,-μοιχ-,-moik<sup>h</sup>-,-moic-,OVERSPEL,NULL,NULL
+980,μολις,molis,molis,NAUWELIJKS,NULL,NULL
+981,μολοχ,molok<sup>h</sup>,moloc,MOLOCH (HEB),NULL,NULL
+982,-μολυ-,-molu-,-molu-,VERONTREINIGEN,NULL,NULL
+983,-μον-,-mon-,-mon-,ALLEEN,NULL,NULL
+984,-μορ-,-mor-,-mor-,MOERBEI,NULL,NULL
+985,-μορφ-,-morp<sup>h</sup>-,-morf-,VORM,NULL,NULL
+986,-μοσχ-,-mosk<sup>h</sup>-,-mosc-,KALF,NULL,NULL
+987,-μουσ-,-mous-,-mous-,MUZE,NULL,NULL
+988,-μοχθ-,-mok<sup>h</sup>t<sup>h</sup>-,-mocq-,ARBEID,NULL,NULL
+989,-μυ-,-mu-,-mu-,DICHT,NULL,NULL
+990,-μυελ-,-muel-,-muel-,MERG,NULL,NULL
+991,-μυκ-,-muk-,-muk-,LOEIEN,NULL,NULL
+992,-μυκτηρ-,-muktēr-,-mukthr-,NEUS,NULL,NULL
+993,-μυλ-,-mul-,-mul-,MOLEN,NULL,NULL
+994,-μυρ-,-mur-,-mur-,SIJPELING,NULL,NULL
+995,-μυρ-,-mur-,-mur-,ESSENCE,NULL,NULL
+996,μυρρα,murr<sup>h</sup>a,murra,MYRA,NULL,NULL
+997,-μυρι-,-muri-,-muri-,TIENDUIZEND,NULL,NULL
+998,μυσια,musia,musia,MYSIE,NULL,NULL
+999,μωλωψ,mōlōp<sup>s</sup>,mwlwy,STRIEM,NULL,NULL
+1000,-μωμ-,-mōm-,-mwm-,SMET,NULL,NULL
+1001,-μωρ-,-mōr-,-mwr-,DWAAS,NULL,NULL
+1002,μωσης,mōsēs,mwshs,MOZES (EGYP),NULL,NULL
+1004,-να-/-νε-,-na-/-ne-,-na-/-ne-,TEMPEL,NULL,NULL
+1005,ναασσων,naassōn,naasswn,NACHSON (HEB),NULL,NULL
+1006,ναβα,naba,naba,NABAS (HEB),NULL,NULL
+1007,ναγγαι,naggai,naggai,NAGGAI,NULL,NULL
+1008,ναζαρ-/ναζωρ-,nazar-/nazōr-,nazar-/nazwr-,NAZARETH,NULL,NULL
+1009,ναθαν,nat<sup>h</sup>an,naqan,NATHAN (HEB),NULL,NULL
+1010,ναθαναηλ,nat<sup>h</sup>anaēl,naqanahl,NATHANAEL (HEB),NULL,NULL
+1011,ναι,nai,nai,JA,NULL,NULL
+1012,ναιμαν,naiman,naiman,NAAMAN (HEB),NULL,NULL
+1013,ναιν,nain,nain,NAIN (HEB),NULL,NULL
+1014,ναουμ,naoum,naoum,NAHUM (HEB),NULL,NULL
+1015,-ναρδ-,-nard-,-nard-,NARDUS,NULL,NULL
+1016,-ναρκ-,-nark-,-nark-,VERDOOFD,NULL,NULL
+1017,-ναρκισ-,-narkis-,-narkis-,NARCIS,NULL,NULL
+1018,-ναυ-,-nau-,-nau-,SCHIP,NULL,NULL
+1019,ναχωρ,nak<sup>h</sup>ōr,nacwr,NAHOR (HEB),NULL,NULL
+1020,-νε-/-νο-/-νη-,-ne-/-no-/-nē-,-ne-/-no-/-nh-,JONG,NULL,NULL
+1021,-νεκρ-,-nekr-,-nekr-,DOOD,NULL,NULL
+1022,-νεμ-/-νομ-,-nem-/-nom-,-nem-/-nom-,DEELHEBBEN,NULL,NULL
+1023,-νευ-/-νυ-,-neu-/-nu-,-neu-/-nu-,KNIKKEN,NULL,NULL
+1024,-νεφ-,-nep<sup>h</sup>-,-nef-,WOLK,NULL,NULL
+1025,νεφθαλειμ,nep<sup>h</sup>t<sup>h</sup>aleim,nefqaleim,NAFTALI (HEB),NULL,NULL
+1026,-νη-/-νο-,-nē-/-no-,-nh-/-no-,NEGATIEF,NULL,NULL
+1027,νη,nē,nh,ZOWAAR!,NULL,NULL
+1028,-νηθ-,-nēt<sup>h</sup>-,-nhq-,SPINNEN,NULL,NULL
+1029,νηρευς,nēreus,nhreus,NEREUS,NULL,NULL
+1030,νηρι,nēri,nhri,NERI (HEB),NULL,NULL
+1031,-νησ-,-nēs-,-nhs-,EILAND,NULL,NULL
+1032,νιγερ,niger,niger,NIGER (LAT),NULL,NULL
+1033,νικ-,nik-,nik-,OVERWINNEN,NULL,NULL
+1034,νινευε,nineue,nineue,NINEVE,NULL,NULL
+1035,-νιπτ-,-nipt-,-nipt-,WASSEN,NULL,NULL
+1036,-νο-,-no-,-no-,DENKZIN,NULL,NULL
+1037,-νομ-,-nom-,-nom-,WET,NULL,NULL
+1038,-νοσ-,-nos-,-nos-,ZIEK,NULL,NULL
+1039,-νοσφ-,-nosp<sup>h</sup>-,-nosf-,ONTVREEMDEN,NULL,NULL
+1040,-νοτ-,-not-,-not-,ZUIDEN,NULL,NULL
+1041,-νυ-,-nu-,-nu-,NACHT,NULL,NULL
+1042,νυμφας,nump<sup>h</sup>as,numfas,NYMFA,NULL,NULL
+1043,νυν,nun,nun,NU,NULL,NULL
+1044,-νυμφ-,-nump<sup>h</sup>-,-numf-,BRUID,NULL,NULL
+1045,-νυσ-,-nus-,-nus-,DOORSTEKEN,NULL,NULL
+1046,νωε,nōe,nwe,NOACH (HEB),NULL,NULL
+1047,-νωθρ-,-nōt<sup>h</sup>r-,-nwqr-,BOT,NULL,NULL
+1048,-νωτ-,-nōt-,-nwt-,RUG,NULL,NULL
+1049,-ξε-,-k<sup>s</sup>e-,-xe-,UITGEHAKT,NULL,NULL
+1050,-ξεν-,-k<sup>s</sup>en-,-xen-,GAST,NULL,NULL
+1051,-ξεστ-,-k<sup>s</sup>est-,-xest-,PINT (LAT),NULL,NULL
+1052,-ξηρ-,-k<sup>s</sup>ēr-,-xhr-,DROOG,NULL,NULL
+1053,-ξυλ-,-k<sup>s</sup>ul-,-xul-,HOUT,NULL,NULL
+1054,-ξυρ-,-k<sup>s</sup>ur-,-xur-,SCHEREN,NULL,NULL
+1055,ο/ος/η,o/os/ē,o/os/h,WELK,NULL,NULL
+1056,-ου,-ou,-ou,VAN+WELK,1055,NULL
+1057,-ογκ-,-ogk-,-ogk-,BELADEN,NULL,NULL
+1058,-οδ-,-od-,-od-,WEG,NULL,NULL
+1059,-οδο-,-odo-,-odo-,TAND,NULL,NULL
+1060,-οδι-/-οδυ-/-ωδι-,-odi-/-odu-/-ōdi-,-odi-/-odu-/-wdi-,PIJN,NULL,NULL
+1061,-οζ-/οσ-/-ωδ-,-oz-/os-/-ōd-,-oz-/os-/-wd-,REUK,NULL,NULL
+1062,οζιας,ozias,ozias,UZZIA (HEB),NULL,NULL
+1063,-οθον-,-ot<sup>h</sup>on-,-oqon-,DOEK,NULL,NULL
+1064,-οι-,-oi-,-oi-,VERMOEDEN,NULL,NULL
+1065,-οι-,-oi-,-oi-,PAD,NULL,NULL
+1066,-οιγ-,-oig-,-oig-,OPENEN,NULL,NULL
+1067,-οικ-,-oik-,-oik-,HUIS,NULL,NULL
+1068,-οικτ-,-oikt-,-oikt-,MEDELIJDEN,NULL,NULL
+1069,-οιν-,-oin-,-oin-,WIJN,NULL,NULL
+1070,-οιχ-,-oik<sup>h</sup>-,-oic-,VOORBIJ+GAAN,NULL,NULL
+1071,-οκν-,-okn-,-okn-,TALMEN,NULL,NULL
+1072,-οκτ-,-okt-,-okt-,ACHT,NULL,NULL
+1073,-ολ-/-ωλ-,-ol-/-ōl-,-ol-/-wl-,GEHEEL,NULL,NULL
+1074,-ολιγ-,-olig-,-olig-,WEINIG,NULL,NULL
+1075,-ολολυ-,-ololu-,-ololu-,GEHUIL+AANHEFFEN,NULL,NULL
+1076,ολυμπας,olumpas,olumpas,OLYMPAS,NULL,NULL
+1077,-ομ-/-ωμ-,-om-/-ōm-,-om-/-wm-,ZWEREN,NULL,NULL
+1078,-ομιχλ-,-omik<sup>h</sup>l-,-omicl-,MIST,NULL,NULL
+1079,-ομο-/-ομ-,-omo-/-om-,-omo-/-om-,GELIJK,NULL,NULL
+1080,-ον-,-on-,-on-,EZEL,NULL,NULL
+1081,-οναρ-,-onar-,-onar-,TRANCE,NULL,NULL
+1082,-ονειδ-,-oneid-,-oneid-,VERWIJT,NULL,NULL
+1083,-ονη-,-onē-,-onh-,VOORDEEL,NULL,NULL
+1084,-ονομ-/-ωνυμ-,-onom-/-ōnum-,-onom-/-wnum-,NAAM,NULL,NULL
+1085,-ονυξ-,-onuk<sup>s</sup>-,-onux-,KLAUW,NULL,NULL
+1086,-οξ-,-ok<sup>s</sup>-,-ox-,SCHERP,NULL,NULL
+1087,-οπ-/-οφ-/-ωπ-/-οψ-/-επ-/-εμ-/-ομ/,-op-/-op<sup>h</sup>-/-ōp-/-op<sup>s</sup>-/-ep-/-em-/-om/,-op-/-of-/-wp-/-oy-/-ep-/-em-/-om/,KIJKEN,NULL,NULL
+1088,-οφθαλ-,-op<sup>h</sup>t<sup>h</sup>al-,-ofqal-,KIJKEN,1087,NULL
+1089,-(ανθτρ)ωπ-,-(ant<sup>h</sup>r)ōp-,-(anqr)wp-,KIJKEN,1087,NULL
+1090,(-βλ)-επ-,(-bl)-ep-,(-bl)-ep-,KIJK,1087,NULL
+1091,-οπ-,-op-,-op-,KIJK,NULL,NULL
+1092,-οπισ-,-opis-,-opis-,ACHTER,NULL,NULL
+1093,-οπλ-,-opl-,-opl-,WAPENTUIG,NULL,NULL
+1094,-ορ-/-ουρ-/-ωρ-,-or-/-our-/-ōr-,-or-/-our-/-wr-,ZIEN,NULL,NULL
+1095,-ουρ(αν)-,-our(an)-,-our(an)-,ZIEN,1094,NULL
+1096,-ωρ-,-ōr-,-wr-,ZIEN,1094,NULL
+1097,-(θε)ωρ-,-(t<sup>h</sup>e)ōr-,-(qe)wr-,ZIEN,1094,NULL
+1098,-οργ-,-org-,-org-,TOORN,NULL,NULL
+1099,-ορεγ-/-οπεξ-/-οργ-,-oreg-/-opek<sup>s</sup>-/-org-,-oreg-/-opex-/-org-,UITSTREKKEN,NULL,NULL
+1100,-ορθ-,-ort<sup>h</sup>-,-orq-,RECHT,NULL,NULL
+1101,-ορθρ-,-ort<sup>h</sup>r-,-orqr-,VROEG,NULL,NULL
+1102,ορκ-,ork-,ork-,EED,NULL,NULL
+1103,-ορμ-,-orm-,-orm-,STORM,NULL,NULL
+1104,-ορν-,-orn-,-orn-,VOGEL,NULL,NULL
+1105,-ορυσ-,-orus-,-orus-,GRAVEN,NULL,NULL
+1106,-ορφαν-,-orp<sup>h</sup>an-,-orfan-,BEROVEN,NULL,NULL
+1107,-ορχ-,-ork<sup>h</sup>-,-orc-,DANSEN,NULL,NULL
+1108,-οσι-,-osi-,-osi-,GOEDGUNSTIG,NULL,NULL
+1109,-οστ-,-ost-,-ost-,BOT,NULL,NULL
+1110,-οστρακ-,-ostrak-,-ostrak-,AARDEWERKEN,NULL,NULL
+1111,-οσφ-,-osp<sup>h</sup>-,-osf-,LENDE,NULL,NULL
+1112,-οσφρη-,-osp<sup>h</sup>rē-,-osfrh-,GEUR,NULL,NULL
+1113,-οτρ-,-otr-,-otr-,AANZETTEN,NULL,NULL
+1114,-ου-/-ουκ-/-ουχ-,-ou-/-ouk-/-ouk<sup>h</sup>-,-ou-/-ouk-/-ouc-,NIET,NULL,NULL
+1115,-ου-/-ω-,-ou-/-ō-,-ou-/-w-,OOR,NULL,NULL
+1116,ουα,oua,oua,AHA,NULL,NULL
+1117,ουαι,ouai,ouai,WEE,NULL,NULL
+1118,-ουν-,-oun-,-oun-,DAN,NULL,NULL
+1119,-ουρ-,-our-,-our-,STAART,NULL,NULL
+1120,ουρβανος,ourbanos,ourbanos,URBANUS (LAT),NULL,NULL
+1121,ουριας,ourias,ourias,URIA (HEB),NULL,NULL
+1122,-οφειλ-/-οφελ-/-ωφελ-,-op<sup>h</sup>eil-/-op<sup>h</sup>el-/-ōp<sup>h</sup>el-,-ofeil-/-ofel-/-wfel-,SCHULD,NULL,NULL
+1123,-οφελ-/-ωφελ-,-op<sup>h</sup>el-/-ōp<sup>h</sup>el-,-ofel-/-wfel-,SCHULD,1122,NULL
+1124,-οφρυ-,-op<sup>h</sup>ru-,-ofru-,WENKBRAUW,NULL,NULL
+1125,-οχθ-,-ok<sup>h</sup>t<sup>h</sup>-,-ocq-,WALGEN,NULL,NULL
+1126,-οχλ-,-ok<sup>h</sup>l-,-ocl-,GEDRANG,NULL,NULL
+1127,οχυρ-,ok<sup>h</sup>ur-,ocur-,BOLWERK,NULL,NULL
+1128,-οψ-,-op<sup>s</sup>-,-oy-,"PROVIAND (vergelijk <span class=""Greek"">-ywm-</span> BETE)",NULL,1674
+1129,-οψ-,-op<sup>s</sup>-,-oy-,PROVIAND,1128,NULL
+1130,π,p,p,?,NULL,NULL
+1131,-πα-,-pa-,-pa-,AL,NULL,NULL
+1132,-παγ-/-πηγ-,-pag-/-pēg-,-pag-/-phg-,VASTMAKEN,NULL,NULL
+1133,-παθ-/-πασχ-,-pat<sup>h</sup>-/-pask<sup>h</sup>-,-paq-/-pasc-,EMOTIE,NULL,NULL
+1134,-πασχ-,-pask<sup>h</sup>-,-pasc-,EMOTIE,1133,NULL
+1135,-παι-,-pai-,-pai-,SLAAN,NULL,NULL
+1136,-παιδ-,-paid-,-paid-,SLAAN,1135,NULL
+1137,-παιζ-/-παιγ-/-παικ-,-paiz-/-paig-/-paik-,-paiz-/-paig-/-paik-,SLAAN,1135,NULL
+1138,-παλ-,-pal-,-pal-,WORSTELING,NULL,NULL
+1139,-παλαι-,-palai-,-palai-,OUD,NULL,NULL
+1140,-παλι-,-pali-,-pali-,WEDER,NULL,NULL
+1142,-παρ-/-παρα-,-par-/-para-,-par-/-para-,LANGSBIJ,NULL,NULL
+1143,-παρ-,-par-,-par-,LANGSBIJ,1142,NULL
+1144,παραδεις-,paradeis-,paradeis-,PARK (PER),NULL,NULL
+1145,-παρδαλ-,-pardal-,-pardal-,LUIPAARD,NULL,NULL
+1146,παρδθος,pardt<sup>h</sup>os,pardqos,PART,NULL,NULL
+1147,παρμενας,parmenas,parmenas,PARMENAS,NULL,NULL
+1148,πασχα,pask<sup>h</sup>a,pasca,"PASCHA (van PESACH, HEB:OVERHEEN-SPRINGEN)",NULL,NULL
+1149,-πατ-,-pat-,-pat-,TREDEN,NULL,NULL
+1150,παταρα,patara,patara,PATARA,NULL,NULL
+1151,-πατασ-,-patas-,-patas-,TREFFEN,NULL,NULL
+1152,-πατηρ-/-πατωρ-/-πατρ-,-patēr-/-patōr-/-patr-,-pathr-/-patwr-/-patr-,VADER,NULL,NULL
+1153,πατμος,patmos,patmos,PATMOS,NULL,NULL
+1154,πατροβας,patrobas,patrobas,PATROBAS,NULL,NULL
+1155,-παυ-,-pau-,-pau-,OPHOUDEN,NULL,NULL
+1156,παυλ-,paul-,paul-,"PAULUS (vergelijk <span class=""Greek"">-pau-</span> OPHOUDEN)",NULL,1155
+1157,παφος,pap<sup>h</sup>os,pafos,PAPHOS,NULL,NULL
+1158,-παχυ-,-pak<sup>h</sup>u-,-pacu-,STEVIG,NULL,NULL
+1159,-πε-/-πο-,-pe-/-po-,-pe-/-po-,VOET,NULL,NULL
+1160,-πει-/-ποι-/-πι-,-pei-/-poi-/-pi-,-pei-/-poi-/-pi-,OVERTUIGEN,NULL,NULL
+1161,-πειν-,-pein-,-pein-,HONGEREN,NULL,NULL
+1162,-πειρ-,-peir-,-peir-,BEPROEVEN,NULL,NULL
+1163,-πελαγ-,-pelag-,-pelag-,OCEAAN,NULL,NULL
+1164,-πελεκ-,-pelek-,-pelek-,AKS,NULL,NULL
+1165,-πεμπ-,-pemp-,-pemp-,ZENDEN,NULL,NULL
+1166,-πεν-,-pen-,-pen-,SAPPELEN,NULL,NULL
+1167,-πενθ-,-pent<sup>h</sup>-,-penq-,ROUWEN,NULL,NULL
+1168,-πενθερ-,-pent<sup>h</sup>er-,-penqer-,SCHOON- (moeder/vader),NULL,NULL
+1169,-πεντ-/πεμπτ-,-pent-/pempt-,-pent-/pempt-,VIJF,NULL,NULL
+1170,-περ-,-per-,-per-,ZELFS,NULL,NULL
+1171,-περα-,-pera-,-pera-,ANDERE+ZIJDE,NULL,NULL
+1172,περγαμος,pergamos,pergamos,BURCHT,NULL,NULL
+1173,περγη,pergē,pergh,PERGE,NULL,NULL
+1174,-περι-,-peri-,-peri-,RONDOM,NULL,NULL
+1175,-περιστερ-,-perister-,-perister-,DUIF,NULL,NULL
+1176,περσις,persis,persis,PERSIS,NULL,NULL
+1177,-πετ-/-πιπτ-/-πε-/-πτ-,-pet-/-pipt-/-pe-/-pt-,-pet-/-pipt-/-pe-/-pt-,VAL,NULL,NULL
+1178,-πιπτ-/-πτ-,-pipt-/-pt-,-pipt-/-pt-,VAL,1177,NULL
+1179,-πετ-/-πτε-/-πτη-,-pet-/-pte-/-ptē-,-pet-/-pte-/-pth-,UITSPREIDEN,NULL,NULL
+1180,-πετρ-,-petr-,-petr-,ROTS,NULL,NULL
+1181,-πηγ-,-pēg-,-phg-,BRON,NULL,NULL
+1182,-πηγαν-,-pēgan-,-phgan-,WIJNRUIT,NULL,NULL
+1183,-πηδ-,-pēd-,-phd-,RUK,NULL,NULL
+1184,-πηλ-,-pēl-,-phl-,MODDER,NULL,NULL
+1185,-πηρ-,-pēr-,-phr-,ZAK,NULL,NULL
+1186,-πηρ-,-pēr-,-phr-,KREUPEL,NULL,NULL
+1187,-πηχ-,-pēk<sup>h</sup>-,-phc-,EL,NULL,NULL
+1188,-πι-/-πο-/-ψι-/-φ-,-pi-/-po-/-p<sup>s</sup>i-/-p<sup>h</sup>-,-pi-/-po-/-yi-/-f-,DRINKEN,NULL,NULL
+1189,-φ-,-p<sup>h</sup>-,-f-,DRINKEN,1188,NULL
+1190,-πια-/-πιε-,-pia-/-pie-,-pia-/-pie-,KNELLEN,NULL,NULL
+1191,-πικρ-,-pikr-,-pikr-,BITTER,NULL,NULL
+1192,πιλατος,pilatos,pilatos,PILATUS (LAT),NULL,NULL
+1193,-πινα-,-pina-,-pina-,BORD,NULL,NULL
+1194,-πιο-,-pio-,-pio-,VET,NULL,NULL
+1195,πισιδια,pisidia,pisidia,PISIDIE,NULL,NULL
+1196,-πιστ-,-pist-,-pist-,GELOVEN,NULL,NULL
+1198,-πλα-,-pla-,-pla-,VLAK,NULL,NULL
+1199,-πλαν-,-plan-,-plan-,DWALEN,NULL,NULL
+1200,-πλασ-,-plas-,-plas-,MODELLEREN,NULL,NULL
+1201,-πλασι-,-plasi-,-plasi-,VOUD,NULL,NULL
+1202,-πλατ-,-plat-,-plat-,BREED,NULL,NULL
+1203,-πλε-/-πλο-,-ple-/-plo-,-ple-/-plo-,DRIJVEN,NULL,1197
+1204,-πλεκ-/-πλεγ-/-πλοκ-,-plek-/-pleg-/-plok-,-plek-/-pleg-/-plok-,STRENGEL,NULL,NULL
+1205,-πλευρ-,-pleur-,-pleur-,RIBBE,NULL,1197
+1206,-πλη-,-plē-,-plh-,VOL,NULL,1197
+1207,-πλη-,-plē-,-plh-,SLAAN,NULL,NULL
+1208,-πλησι-,-plēsi-,-plhsi-,NABIJ,NULL,NULL
+1209,-πλο-,-plo-,-plo-,SAMENGESTELD,NULL,NULL
+1210,-πλου-,-plou-,-plou-,RIJK,NULL,1197
+1211,-πλυν-,-plun-,-plun-,SPOELEN,NULL,1197
+1212,-πνε-/-πνο-/-πν-,-pne-/-pno-/-pn-,-pne-/-pno-/-pn-,BLAZEN,NULL,NULL
+1213,-πνι-,-pni-,-pni-,STIKKEN,NULL,NULL
+1214,-ποθ-,-pot<sup>h</sup>-,-poq-,VERLANGEN,NULL,NULL
+1215,-ποι-/-π-,-poi-/-p-,-poi-/-p-,DOEN,NULL,NULL
+1216,-ποικιλ-,-poikil-,-poikil-,VERSCHEIDEN,NULL,NULL
+1217,-ποιμ-,-poim-,-poim-,SCHAAP,NULL,NULL
+1218,-πολ-/-πλη-/-πλ-,-pol-/-plē-/-pl-,-pol-/-plh-/-pl-,VEEL,NULL,NULL
+1219,-πλε-,-ple-,-ple-,MEER/MEEST,1218,1197
+1220,-πολι-,-poli-,-poli-,VEEL-,1218,NULL
+1221,-πολεμ-,-polem-,-polem-,VELDSLAG,NULL,NULL
+1222,-πον-,-pon-,-pon-,MISERE,NULL,NULL
+1223,-ποντ-,-pont-,-pont-,MARIEN,NULL,NULL
+1224,ποντιος,pontios,pontios,PONTIUS (LAT),NULL,NULL
+1225,ποπλιος,poplios,poplios,PUBLIUS,NULL,NULL
+1226,-πορ-/-περ-,-por-/-per-,-por-/-per-,GAAN,NULL,NULL
+1227,-πορευ-,-poreu-,-poreu-,GAAN,1226,NULL
+1228,-πορθ-,-port<sup>h</sup>-,-porq-,VERWOESTEN,NULL,NULL
+1229,πορκιος,porkios,porkios,PORCIUS,NULL,NULL
+1230,-πορν-,-porn-,-porn-,HOEREREN,NULL,NULL
+1231,-πορφυρ-,-porp<sup>h</sup>ur-,-porfur-,PURPER,NULL,NULL
+1232,ποτιολοι,potioloi,potioloi,PUTEOLI,NULL,NULL
+1233,πουδης,poudēs,poudhs,PUDENS,NULL,NULL
+1234,-πρα-,-pra-,-pra-,ZACHTMOEDIG,NULL,NULL
+1235,-πρα-,-pra-,-pra-,HANDEL,NULL,NULL
+1236,πραιτωριον,praitōrion,praitwrion,PRAETORIUM (LAT),NULL,NULL
+1237,-πρασ-,-pras-,-pras-,LOOK,NULL,NULL
+1238,-πρεπ-,-prep-,-prep-,BETAMEN,NULL,NULL
+1239,-πρεσβ-,-presb-,-presb-,"SENIOR (van <span class=""Greek"">pro-eis-ba</span> VOOR-IN-STAPPEN)",NULL,1246
+1240,-πρη-,-prē-,-prh-,ONTBRANDEN,NULL,NULL
+1241,-πρην-,-prēn-,-prhn-,VOOROVER,NULL,NULL
+1242,-πρι-,-pri-,-pri-,ZAGEN,NULL,NULL
+1243,πριν,prin,prin,EERDER,NULL,NULL
+1244,πρισκα,priska,priska,PRISCA,NULL,NULL
+1245,πρισκιλλα,priskilla,priskilla,PRISCILLA,NULL,NULL
+1246,-προ-/-πρω-/-πορ-,-pro-/-prō-/-por-,-pro-/-prw-/-por-,VOOR,NULL,NULL
+1247,-πρω-,-prō-,-prw-,VOOR,1246,NULL
+1248,-πορ-,-por-,-por-,VOOR,1246,NULL
+1249,-προσ-,-pros-,-pros-,NAARTOE,1246,NULL
+1250,-πρυμν-,-prumn-,-prumn-,ACHTERSTEVEN,NULL,NULL
+1251,-πται-,-ptai-,-ptai-,STRUIKELEN,NULL,NULL
+1252,-πτερν-,-ptern-,-ptern-,HIEL,NULL,NULL
+1253,-πτο-,-pto-,-pto-,ONTSTELLEN,NULL,NULL
+1254,πτολεμαις,ptolemais,ptolemais,PTOLEMAIS,NULL,NULL
+1255,-πτυ-,-ptu-,-ptu-,SPUWEN,NULL,NULL
+1256,-πτυ-,-ptu-,-ptu-,WAN+WERKTUIG,NULL,NULL
+1257,-πτυσ-,-ptus-,-ptus-,VOUWEN,NULL,NULL
+1258,-πτυρ-,-ptur-,-ptur-,VERBIJSTEREN,NULL,NULL
+1259,-πτωχ-,-ptōk<sup>h</sup>-,-ptwc-,ARM,NULL,NULL
+1260,-πυ-,-pu-,-pu-,VUIST,NULL,NULL
+1261,-πυθ-/-πυ[ν]θ[αν]-,-put<sup>h</sup>-/-pu[n]t<sup>h</sup>[an]-,-puq-/-pu[n]q[an]-,UITVORSEN,NULL,NULL
+1262,-πυκν-,-pukn-,-pukn-,FREQUENT,NULL,NULL
+1263,-πυλ-,-pul-,-pul-,POORT,NULL,NULL
+1264,-πυρ-,-pur-,-pur-,VUUR,NULL,NULL
+1265,-πυργ-,-purg-,-purg-,TOREN,NULL,NULL
+1266,-πω-,-pō-,-pw-,als-nog,NULL,NULL
+1267,-πωλ-,-pōl-,-pwl-,VERKOPEN,NULL,NULL
+1268,-πωλ-,-pōl-,-pwl-,HENGST+VEULEN,NULL,NULL
+1269,-πωρ-,-pōr-,-pwr-,VEREELTEN,NULL,NULL
+1270,-ρ-,-r-,-r-,GUTSEN,NULL,NULL
+1271,ρααβ,raab,raab,RACHAB (HEB),NULL,NULL
+1272,ραββι,rabbi,rabbi,RABBI (HEB),NULL,NULL
+1273,ραββονι,rabboni,rabboni,RABBOENI (ARAM),NULL,NULL
+1274,-ραβδ-,-rabd-,-rabd-,ROEDE,NULL,NULL
+1275,-ραδ-,-rad-,-rad-,BEHENDIG,NULL,NULL
+1276,ραγαυ,ragau,ragau,REHU (HEB),NULL,NULL
+1277,ραιφαν,raip<sup>h</sup>an,raifan,RAIFAN,NULL,NULL
+1278,ρακα,raka,raka,RAKA (ARAM),NULL,NULL
+1279,ραμα,rama,rama,RAMA (HEB),NULL,NULL
+1280,-ραντ,-rant,-rant,BESPRENKELEN,NULL,NULL
+1281,-ραπ-,-rap-,-rap-,KLAP (vergelijk <span class='Greek'>-rabd-</span> ROEDE),NULL,1274
+1282,-ραπ-/-ραφ-,-rap-/-rap<sup>h</sup>-,-rap-/-raf-,NAAIEN,NULL,NULL
+1283,ραχαβ,rak<sup>h</sup>ab,racab,RACHAB,NULL,NULL
+1284,ραχηλ,rak<sup>h</sup>ēl,rachl,RACHEL (HEB),NULL,NULL
+1285,ρεβεκκα,rebekka,rebekka,REBEKKA (HEB),NULL,NULL
+1286,-ρη-/-ρα-,-rē-/-ra-,-rh-/-ra-,BARST,NULL,NULL
+1287,ρηγιον,rēgion,rhgion,RHEGIUM,NULL,NULL
+1288,ρησα,rēsa,rhsa,RESA,NULL,NULL
+1289,-ριζ-,-riz-,-riz-,WORTEL,NULL,NULL
+1290,-ριπ-,-rip-,-rip-,GOOIEN,NULL,NULL
+1291,ροβοαμ,roboam,roboam,REHABEAM (HEB),NULL,NULL
+1292,-ροδ-,-rod-,-rod-,RHODE,NULL,NULL
+1293,ροδος,rodos,rodos,RHODOS,NULL,NULL
+1294,-ρομφ-,-romp<sup>h</sup>-,-romf-,SABEL,NULL,NULL
+1295,ρουβην,roubēn,roubhn,RUBEN (HEB),NULL,NULL
+1296,ρουθ,rout<sup>h</sup>,rouq,RUTH (HEB),NULL,NULL
+1297,ρουφος,roup<sup>h</sup>os,roufos,RUFUS (LAT),NULL,NULL
+1298,-ρυ-,-ru-,-ru-,WEGTREKKEN,NULL,NULL
+1299,-ρυπ-,-rup-,-rup-,VUIL,NULL,NULL
+1300,-ρω-,-rō-,-rw-,VAARWEL,NULL,NULL
+1301,-ρωμ-,-rōm-,-rwm-,ROME,NULL,NULL
+1302,-σ-,-s-,-s-,"(van <span class=""Greek"">eis</span> NAARBINNEN?)",NULL,419
+1303,-σαββασ-,-sabbas-,-sabbas-,SABBAS (HEB),NULL,NULL
+1304,σαβαχθανι,sabak<sup>h</sup>t<sup>h</sup>ani,sabacqani,SABACHTANI (ARAM),NULL,NULL
+1305,σαβαωθ,sabaōt<sup>h</sup>,sabawq,ZEBAOTH (HEB),NULL,NULL
+1306,-σαββατ-,-sabbat-,-sabbat-,SABBAT (HEB),NULL,NULL
+1307,-σαγην-,-sagēn-,-saghn-,SLEEPNET,NULL,NULL
+1308,σαδδουκαι,saddoukai,saddoukai,SADDUCEEER (HEB),NULL,NULL
+1309,σαδωκ,sadōk,sadwk,ZADOK (HEB),NULL,NULL
+1310,-σαιν-,-sain-,-sain-,WANKELEN,NULL,NULL
+1311,-σακ-,-sak-,-sak-,ZAKDOEK,NULL,NULL
+1312,-σαλ-,-sal-,-sal-,SCHOK,NULL,NULL
+1313,σαλα,sala,sala,SALA (HEB),NULL,NULL
+1314,σαλαθιηλ,salat<sup>h</sup>iēl,salaqihl,SEALTHIEL (HEB),NULL,NULL
+1315,σαλαμις,salamis,salamis,SALAMIS,NULL,NULL
+1316,σαλειμ,saleim,saleim,SALIM,NULL,NULL
+1317,σαλημ,salēm,salhm,SALEM (HEB),NULL,NULL
+1318,σαλμων,salmōn,salmwn,SALMON (HEB),NULL,NULL
+1319,σαλμωνη,salmōnē,salmwnh,SALMONE,NULL,NULL
+1320,-σαλπ-,-salp-,-salp-,BAZUIN,NULL,NULL
+1321,-σαλωμη-,-salōmē-,-salwmh-,SALOME (HEB),NULL,NULL
+1322,σαμαρει-,samarei-,samarei-,SAMARIA,NULL,NULL
+1323,σαμωθρακη,samōt<sup>h</sup>rakē,samwqrakh,SAMOTHRACE,NULL,NULL
+1324,σαμος,samos,samos,SAMOS,NULL,NULL
+1325,σαμουηλ,samouēl,samouhl,SAMUEL (HEB),NULL,NULL
+1326,σαμψων,samp<sup>s</sup>ōn,samywn,SIMSON (HEB),NULL,NULL
+1327,-σαν-,-san-,-san-,PLANK,NULL,NULL
+1328,σαουλ,saoul,saoul,"SAUL (HEB:GEVRAAGD) (zie <span class=""Greek"">sauloV</span>)",NULL,1341
+1329,-σαπ-/-σηπ-,-sap-/-sēp-,-sap-/-shp-,ROTTEN,NULL,NULL
+1330,-σαπφειρ-,-sapp<sup>h</sup>eir-,-sapfeir-,SAFFIER  (HEB),NULL,NULL
+1331,-σαρ-,-sar-,-sar-,VLEES,NULL,NULL
+1332,-σαρ-,-sar-,-sar-,VEGEN,NULL,NULL
+1333,-σαργαν-,-sargan-,-sargan-,RIJSHOUT,NULL,NULL
+1334,-σαρδ-,-sard-,-sard-,KORNALIJN,NULL,NULL
+1335,σαρεπτα,sarepta,sarepta,SAREPTA (HEB:VERFIJNEN),NULL,NULL
+1336,σαρδεις,sardeis,sardeis,SARDIS,NULL,NULL
+1337,σαρρα,sarr<sup>h</sup>a,sarra,SARA (HEB:VORSTIN),NULL,NULL
+1338,σαρων,sarōn,sarwn,SARON (HEB:RECHT),NULL,NULL
+1339,σαταν,satan,satan,SATAN (HEB:TEGENSTANDER),NULL,NULL
+1340,σατον,saton,saton,MAAT (HEB),NULL,NULL
+1341,-σαυλ-,-saul-,-saul-,"SAULUS (zie <span class=""Greek"">saoul</span>)",NULL,NULL
+1342,-σαφ-,-sap<sup>h</sup>-,-saf-,HELDER,NULL,NULL
+1343,-σβε-,-sbe-,-sbe-,BLUSSEN,NULL,NULL
+1344,-σε-,-se-,-se-,JIJ,NULL,NULL
+1345,-σεβ-,-seb-,-seb-,VEREREN,NULL,NULL
+1346,-σει-/-σι-,-sei-/-si-,-sei-/-si-,BEVEN,NULL,NULL
+1347,-σειρ-,-seir-,-seir-,KERKER,NULL,NULL
+1348,σεκουνδος,sekoundos,sekoundos,SECUNDUS (LAT),NULL,NULL
+1349,σελευκεια,seleukeia,seleukeia,SELEUCIE,NULL,NULL
+1350,-σελην-/-σελ-,-selēn-/-sel-,-selhn-/-sel-,MAAN,NULL,NULL
+1352,σεμεει,semeei,semeei,SEMEIN (HEB:BEROEMD),NULL,NULL
+1353,-σεμιδαλ-,-semidal-,-semidal-,BLOEMMEEL,NULL,NULL
+1354,σεργιος,sergios,sergios,SERGIUS,NULL,NULL
+1355,σερουχ,serouk<sup>h</sup>,serouc,SERUCH (HEB),NULL,NULL
+1356,-ση-,-sē-,-sh-,MOT,NULL,NULL
+1357,σηθ,sēt<sup>h</sup>,shq,SETH (HEB:STELLEN),NULL,NULL
+1358,σημ,sēm,shm,SEM (HEB:NAAM),NULL,NULL
+1359,-σημ-,-sēm-,-shm-,TEKEN,NULL,NULL
+1360,-σθεν-,-st<sup>h</sup>en-,-sqen-,HECHT,NULL,NULL
+1361,-σιαγ-,-siag-,-siag-,WANG,NULL,NULL
+1362,-σιγ-,-sig-,-sig-,ZWIJGEN,NULL,NULL
+1363,-σιδηρ-,-sidēr-,-sidhr-,IJZER,NULL,NULL
+1364,-σιδων-,-sidōn-,-sidwn-,SIDON (HEB:JACHT),NULL,NULL
+1365,-σικαρ-,-sikar-,-sikar-,SLUIPMOORDENAAR (LAT),NULL,NULL
+1366,-σικερ-,-siker-,-siker-,BEDWELMENDE+DRANK (HEB),NULL,NULL
+1367,σιλας,silas,silas,SILAS,NULL,NULL
+1368,σιλουανος,silouanos,silouanos,SILVANUS,NULL,NULL
+1369,σιλωαμ,silōam,silwam,SILOAM (HEB:ZENDEN),NULL,NULL
+1370,σιμικινθιον,simikint<sup>h</sup>ion,simikinqion,SCHORT (LAT),NULL,NULL
+1371,σιμων,simōn,simwn,SIMON (HEB:HOOREND),NULL,NULL
+1372,σινα,sina,sina,SINAI,NULL,NULL
+1373,-σιναπ-,-sinap-,-sinap-,MOSTERD,NULL,NULL
+1374,σινδων,sindōn,sindwn,LIJNWAAD (LAT),NULL,NULL
+1375,σιρ-,sir-,sir-,ZIJDEN,NULL,NULL
+1376,-σιτ-,-sit-,-sit-,GRAAN,NULL,NULL
+1377,σιων,siōn,siwn,SION (HEB:DOR),NULL,NULL
+1378,-σιωπ-,-siōp-,-siwp-,STIL,NULL,NULL
+1379,-σκ-,-sk-,-sk-,"<i>Uitsluiting van licht</i> (zie <span class=""Greek"">skhn,ski, skop</span>)",NULL,NULL
+1380,-σκανδαλ-,-skandal-,-skandal-,STRIKKEN,NULL,NULL
+1381,-σκαπ-/-σκαφ-,-skap-/-skap<sup>h</sup>-,-skap-/-skaf-,DELVEN,NULL,NULL
+1382,-σκελ-,-skel-,-skel-,BEEN,NULL,NULL
+1383,-σκεπ-/-σκοπ-,-skep-/-skop-,-skep-/-skop-,OPMERKEN,1379,NULL
+1384,-σκεπ-,-skep-,-skep-,BESCHUTTING,NULL,NULL
+1385,-σκευ-,-skeu-,-skeu-,INSTRUMENT,NULL,NULL
+1386,σκευας,skeuas,skeuas,SCAEVA,NULL,NULL
+1387,-σκην-,-skēn-,-skhn-,TENT,1379,NULL
+1388,-σκι-,-ski-,-ski-,SCHADUW,1379,NULL
+1389,-σκιρτ-,-skirt-,-skirt-,HUPPELEN,NULL,NULL
+1390,-σκληρ-,-sklēr-,-sklhr-,HARD,NULL,NULL
+1391,-σκολι-,-skoli-,-skoli-,KROM,NULL,NULL
+1392,-σκολοψ-,-skolop<sup>s</sup>-,-skoloy-,DOORN,NULL,NULL
+1393,-σκορπ-,-skorp-,-skorp-,VERSTROOIEN,NULL,NULL
+1394,-σκοτ-,-skot-,-skot-,DUISTER,NULL,NULL
+1395,-σκυβαλ-,-skubal-,-skubal-,"AFVAL (misschien van <span class=""Greek"">eis-ku-bal</span> NAARBINNEN+WEMELEN+WERPEN)",NULL,419
+1396,σκυθης,skut<sup>h</sup>ēs,skuqhs,SKYTH,NULL,NULL
+1397,-σκυθρ-,-skut<sup>h</sup>r-,-skuqr-,TRIEST,NULL,NULL
+1398,-σκυλ-,-skul-,-skul-,PLUNDEREN,NULL,NULL
+1399,-σκωλη-,-skōlē-,-skwlh-,"WORM (vergelijk <span class=""Greek"">-skoli-</span> KROM)",NULL,1391
+1400,-σμαραγδ-,-smaragd-,-smaragd-,SMARAGD,NULL,NULL
+1401,-σμυρν-,-smurn-,-smurn-,MIRRE,NULL,NULL
+1402,σοδομα,sodoma,sodoma,SODOM,NULL,NULL
+1403,σολομων,solomōn,solomwn,SALOMO (HEB:VREDIG),NULL,NULL
+1404,σον,son,son,JOUW,NULL,NULL
+1405,-SOR-,-SOR-,-SOR-,LIJKBAAR,NULL,NULL
+1406,-σουδαρ-,-soudar-,-soudar-,ZWEETDOEK (LAT),NULL,NULL
+1407,σουσαννα,sousanna,sousanna,SUSANNA (HEB:ANEMOON),NULL,NULL
+1408,-σοφ-,-sop<sup>h</sup>-,-sof-,WIJS,NULL,NULL
+1409,-σπα-,-spa-,-spa-,UITTREKKEN,NULL,NULL
+1410,σπανια,spania,spania,SPANJE,NULL,NULL
+1411,-σπαρα-,-spara-,-spara-,KRAMPACHTIG+TREKKEN,NULL,NULL
+1412,-σπαραγ-,-sparag-,-sparag-,INWIKKELEN,NULL,NULL
+1413,-σπαταλ-,-spatal-,-spatal-,VERKWISTEN,NULL,NULL
+1414,-σπειρ-,-speir-,-speir-,TROEP,NULL,NULL
+1415,-σπειρ-/-σπερ-/-σπορ-,-speir-/-sper-/-spor-,-speir-/-sper-/-spor-,ZAAIEN,NULL,NULL
+1416,σπεκουλατωρ,spekoulatōr,spekoulatwr,SPECULATOR (LAT),NULL,NULL
+1417,-σπενδ-/-σπονδ-,-spend-/-spond-,-spend-/-spond-,PLENGEN,NULL,NULL
+1418,-σπευδ-/-σπουδ-,-speud-/-spoud-,-speud-/-spoud-,IJVERIG,NULL,NULL
+1419,-σπηλ-,-spēl-,-sphl-,HOL,NULL,NULL
+1420,-σπιλ-,-spil-,-spil-,VLEK,NULL,NULL
+1421,-σπλαγχν-,-splagk<sup>h</sup>n-,-splagcn-,INGEWAND,NULL,NULL
+1422,-σπογγ-,-spogg-,-spogg-,SPONS,NULL,NULL
+1423,-σποδ-,-spod-,-spod-,AS,NULL,NULL
+1424,-σπυρ-,-spur-,-spur-,MAND,NULL,NULL
+1425,-στ-/-ιστ-/-στηρ-/-σταυρ-,-st-/-ist-/-stēr-/-staur-,-st-/-ist-/-sthr-/-staur-,STAAN,NULL,NULL
+1426,-στηρ-,-stēr-,-sthr-,STAAN,1425,NULL
+1427,-στρη-,-strē-,-strh-,STAAN,1425,NULL
+1428,-σταυρ-,-staur-,-staur-,STAAN,1425,NULL
+1429,-σταφ-,-stap<sup>h</sup>-,-staf-,DRUIF,NULL,NULL
+1430,-σταχ-,-stak<sup>h</sup>-,-stac-,AAR,NULL,NULL
+1431,-στεγ-,-steg-,-steg-,UITSLUITEN,NULL,NULL
+1432,-στειρ-,-steir-,-steir-,STERIEL,NULL,NULL
+1433,-στελ-/-στολ-/-σταλ-,-stel-/-stol-/-stal-,-stel-/-stol-/-stal-,STELLEN,NULL,NULL
+1434,-στεν-,-sten-,-sten-,KRAMP,NULL,NULL
+1435,-στερ-,-ster-,-ster-,VAST,NULL,NULL
+1436,-στεφ-/-στεμ-,-step<sup>h</sup>-/-stem-,-stef-/-stem-,VLECHTEN,NULL,NULL
+1437,-στηθ-,-stēt<sup>h</sup>-,-sthq-,BORSTKAS,NULL,NULL
+1438,-στι-,-sti-,-sti-,PRIKKEN,NULL,NULL
+1439,-στιλβ-,-stilb-,-stilb-,GLINSTEREN,NULL,NULL
+1440,-στοιχ-/-στοχ-,-stoik<sup>h</sup>-/-stok<sup>h</sup>-,-stoic-/-stoc-,GRONDBEGINSEL,NULL,NULL
+1441,-στομ-,-stom-,-stom-,MOND,NULL,NULL
+1442,-στοργ-,-storg-,-storg-,NATUURLIJKE+GENEGENHEID,NULL,NULL
+1443,-στρατ-,-strat-,-strat-,KRIJG,NULL,NULL
+1444,-στρεφ-/-στροφ-/-στρεβ-,-strep<sup>h</sup>-/-strop<sup>h</sup>-/-streb-,-stref-/-strof-/-streb-,KEREN,NULL,NULL
+1445,-στρουθ-,-strout<sup>h</sup>-,-strouq-,MUSJE,NULL,NULL
+1446,-στρω-,-strō-,-strw-,STROOIEN,NULL,NULL
+1447,-στυγ-,-stug-,-stug-,VERAFSCHUWEN,NULL,NULL
+1448,-στυγν-,-stugn-,-stugn-,SOMBER,NULL,NULL
+1449,-στυλ-,-stul-,-stul-,ZUIL,NULL,NULL
+1451,-συκ-,-suk-,-suk-,VIJG,NULL,NULL
+1452,-συλ-,-sul-,-sul-,BEROVING,NULL,NULL
+1453,συμεων,sumeōn,sumewn,"SIMEON (zie <span class=""Greek"">simwn</span> SIMON)",NULL,1371
+1454,-συν-/-συγ-/-συλ-/-συμ-/-συσ-/-συ-,-sun-/-sug-/-sul-/-sum-/-sus-/-su-,-sun-/-sug-/-sul-/-sum-/-sus-/-su-,SAMEN,NULL,NULL
+1455,-συν,-sun,-sun,SAMEN,1454,NULL
+1456,-συρ-,-sur-,-sur-,SLEPEN,NULL,NULL
+1457,συρακουσαι,surakousai,surakousai,SYRACUSE,NULL,NULL
+1458,συρ-,sur-,sur-,SYRIE,NULL,NULL
+1459,συχαρ,suk<sup>h</sup>ar,sucar,SICHAR,NULL,NULL
+1460,συχεμ,suk<sup>h</sup>em,sucem,SICHEM (HEB),NULL,NULL
+1461,-σφα-,-sp<sup>h</sup>a-,-sfa-,SLACHT,NULL,NULL
+1462,-σφαλ-,-sp<sup>h</sup>al-,-sfal-,SLACHTEN,NULL,NULL
+1463,-σφοδρ-,-sp<sup>h</sup>odr-,-sfodr-,HEFTIG,NULL,NULL
+1464,-σχεδ-,-sk<sup>h</sup>ed-,-sced-,BIJNA,NULL,NULL
+1465,-σφραγ-,-sp<sup>h</sup>rag-,=sfrag-,ZEGEL,NULL,NULL
+1466,-σφυδρ-,-sp<sup>h</sup>udr-,-sfudr-,ENKEL,NULL,NULL
+1467,-σχημ-,-sk<sup>h</sup>ēm-,-schm-,FIGUUR,NULL,NULL
+1468,-σχι-,-sk<sup>h</sup>i-,-sci-,SPLIJTEN,NULL,NULL
+1469,-σχοιν-,-sk<sup>h</sup>oin-,-scoin-,TOUW,NULL,NULL
+1470,-σχολ-,-sk<sup>h</sup>ol-,-scol-,VRIJE+TIJD,NULL,NULL
+1471,-σω-,-sō-,-sw-,REDDEN,NULL,NULL
+1472,σω-,sō-,sw-,LICHAAM,NULL,NULL
+1473,-σωρ-,-sōr-,-swr-,HOPEN,NULL,NULL
+1474,-τα-,-ta-,-ta-,ZETTEN,NULL,NULL
+1475,ταβερναι,tabernai,tabernai,TABERNAE (LAT),NULL,NULL
+1476,ταβιθα,tabit<sup>h</sup>a,tabiqa,"TABITA (ARAM, zie <span class=""Greek"">dorkaV</span>)",NULL,383
+1477,-ταλα-,-tala-,-tala-,GEWICHT,NULL,NULL
+1478,-ταλιθα-,-talit<sup>h</sup>a-,-taliqa-,TALITHA (ARAM),NULL,NULL
+1479,-ταμει-,-tamei-,-tamei-,KAMERTJE,NULL,NULL
+1480,-ταπειν-,-tapein-,-tapein-,LAAG,NULL,NULL
+1481,-ταρα-,-tara-,-tara-,VERWARREN,NULL,NULL
+1482,-ταρσ-,-tars-,-tars-,TARSUS,NULL,NULL
+1483,-ταρταρ-,-tartar-,-tartar-,TARTARUS,NULL,NULL
+1484,-ταυρ-,-taur-,-taur-,STIER,NULL,NULL
+1485,-ταχ-,-tak<sup>h</sup>-,-tac-,SNEL,NULL,NULL
+1486,-τε-,-te-,-te-,BOVENDIEN,NULL,NULL
+1487,-τε-/-τρα-,-te-/-tra-,-te-/-tra-,VIER,NULL,NULL
+1488,-τειν-/-τεν-/-τον-,-tein-/-ten-/-ton-,-tein-/-ten-/-ton-,STREKKEN,NULL,NULL
+1489,-τειχ-/-τοιχ-,-teik<sup>h</sup>-/-toik<sup>h</sup>-,-teic-/-toic-,MUUR,NULL,NULL
+1490,-τεκμ-,-tekm-,-tekm-,BEWIJS,NULL,NULL
+1491,-τεκτ-,-tekt-,-tekt-,KUNSTVAARDIG,NULL,NULL
+1492,-τελ-/-ταλ-/-τηλ-/-τολ-,-tel-/-tal-/-tēl-/-tol-,-tel-/-tal-/-thl-/-tol-,EINDE,NULL,NULL
+1493,-τελει-,-telei-,-telei-,EINDE,1492,NULL
+1494,-τελευ-,-teleu-,-teleu-,EINDE,1492,NULL
+1495,-τεμ-/-τομ-/-τμη-,-tem-/-tom-/-tmē-,-tem-/-tom-/-tmh-,SNIJDEN,NULL,NULL
+1496,-τερα-,-tera-,-tera-,WONDER,NULL,NULL
+1497,τερτιος,tertios,tertios,TERTIUS (LAT),NULL,NULL
+1498,τερττυλλος,terttullos,terttullos,TERTULLUS (LAT),NULL,NULL
+1003,ν,n,n,is een brug tussen vocalen en heeft op zichzelf geen betekenis,NULL,NULL
+1499,-τεφρ-,-tep<sup>h</sup>r-,-tefr-,SINTEL,NULL,NULL
+1500,-τηκ-,-tēk-,-thk-,SMELTEN,NULL,NULL
+1501,-τηρ-,-tēr-,-thr-,BEWAREN,NULL,NULL
+1502,-τι-/-τισ-,-ti-/-tis-,-ti-/-tis-,ENIG,NULL,NULL
+1503,τιβεριας,tiberias,tiberias,TIBERIAS (LAT),NULL,NULL
+1504,τιβεριος,tiberios,tiberios,TIBERIUS (LAT),NULL,NULL
+1505,-τικ-/-τεκ-/-τοκ-,-tik-/-tek-/-tok-,-tik-/-tek-/-tok-,VOORTBRENGEN,NULL,NULL
+1506,-τιλ-,-til-,-til-,PLUKKEN,NULL,NULL
+1507,-τιμ-/-τιν-,-tim-/-tin-,-tim-/-tin-,WAARDE,NULL,NULL
+1508,-τιν-,-tin-,-tin-,WAARDE,1507,NULL
+1509,τιμαιος,timaios,timaios,TIMEUS (HEB),NULL,NULL
+1510,τιμων,timōn,timwn,TIMON,NULL,NULL
+1511,-τινασ-,-tinas-,-tinas-,SCHUDDEN,NULL,NULL
+1512,τιτλος,titlos,titlos,TITEL (LAT),NULL,NULL
+1513,τιτος,titos,titos,TITUS,NULL,NULL
+1514,-το-/-του-/-τοι-/-τ-,-to-/-tou-/-toi-/-t-,-to-/-tou-/-toi-/-t-,DE/HET,NULL,NULL
+1515,τολμ-,tolm-,tolm-,WAGEN,NULL,NULL
+1516,-τοξ-,-tok<sup>s</sup>-,-tox-,BOOG,NULL,NULL
+1517,-τοπ-,-top-,-top-,PLEK,NULL,NULL
+1518,-τοπαζ-,-topaz-,-topaz-,CHRYSOLIET,NULL,NULL
+1519,-τρ-,-tr-,-tr-,DRIE,NULL,NULL
+1520,-τραγ-,-trag-,-trag-,GEITEBOK,NULL,NULL
+1521,-τραυμ-,-traum-,-traum-,WOND,NULL,NULL
+1522,-τραχ-,-trak<sup>h</sup>-,-trac-,RUW,NULL,NULL
+1523,-τραχηλ-,-trak<sup>h</sup>ēl-,-trachl-,NEK,NULL,NULL
+1524,-τρεμ-/-τρομ-,-trem-/-trom-,-trem-/-trom-,SIDDEREN,NULL,NULL
+1525,-τρεπ-/-τροπ-/-τραπ-/-θρ-,-trep-/-trop-/-trap-/-t<sup>h</sup>r-,-trep-/-trop-/-trap-/-qr-,WENDEN,NULL,NULL
+1526,-θρ-,-t<sup>h</sup>r-,-qr-,WENDEN,1525,NULL
+1527,-τρεφ-/-τροφ-/-θρε-,-trep<sup>h</sup>-/-trop<sup>h</sup>-/-t<sup>h</sup>re-,-tref-/-trof-/-qre-,VOEDEN,NULL,NULL
+1528,-τρεχ-,-trek<sup>h</sup>-,-trec-,SNELLEN,NULL,NULL
+1529,-τρη-/-τρυ-/-τρω-,-trē-/-tru-/-trō-,-trh-/-tru-/-trw-,GEBOORD,NULL,NULL
+1530,-τριβ-/-τριμ-,-trib-/-trim-,-trib-/-trim-,SLIJTEN,NULL,NULL
+1531,-τριζ-,-triz-,-triz-,KNARSEN,NULL,NULL
+1532,-τρυβλ-,-trubl-,-trubl-,DIS,NULL,NULL
+1533,-τρυγ-,-trug-,-trug-,OOGSTEN,NULL,NULL
+1534,-τρυγ-,-trug-,-trug-,TORTELDUIF,NULL,NULL
+1535,-τρυφ-/-θρυπ-,-trup<sup>h</sup>-/-t<sup>h</sup>rup-,-truf-/-qrup-,ZWELGEN,NULL,NULL
+1536,τρωας,trōas,trwas,TROAS,NULL,NULL
+1537,-τρωγ-,-trōg-,-trwg-,KAUWEN,NULL,NULL
+1538,-τυλι-,-tuli-,-tuli-,WIKKELEN,NULL,NULL
+1539,-τυπ-/-τυμ-,-tup-/-tum-,-tup-/-tum-,INSLAAN,NULL,NULL
+1540,τυραννος,turannos,turannos,ALLEENHEERSER,NULL,NULL
+1541,-τυρβ-,-turb-,-turb-,ONRUST,NULL,NULL
+1542,τυρ-,tur-,tur-,TYRUS (HEB),NULL,NULL
+1543,-τυφ-,-tup<sup>h</sup>-,-tuf-,SMEULEN,NULL,NULL
+1544,-τυφλ-,-tup<sup>h</sup>l-,-tufl-,BLIND,NULL,NULL
+1545,-τυφων-,-tup<sup>h</sup>ōn-,-tufwn-,ORKAAN,NULL,NULL
+1546,-τυχ-/-τυ[γ]χ[αν]-,-tuk<sup>h</sup>-/-tu[g]k<sup>h</sup>[an]-,-tuc-/-tu[g]c[an]-,TOEVALLEN,NULL,NULL
+1547,-υ-,-u-,-u-,NAT,NULL,NULL
+1548,-υακινθ-,-uakint<sup>h</sup>-,-uakinq-,HYACINT,NULL,NULL
+1549,-υαλ-,-ual-,-ual-,GLAS,NULL,NULL
+1550,-υβρ-,-ubr-,-ubr-,AANTAST,NULL,NULL
+1551,-υγι-,-ugi-,-ugi-,GEZOND,NULL,NULL
+1552,-υιο-,-uio-,-uio-,ZOON,NULL,NULL
+1553,-υλ-,-ul-,-ul-,MATERIE,NULL,NULL
+1554,-υλ-,-ul-,-ul-,ZIFTEN,NULL,NULL
+1555,-υμ-,-um-,-um-,JULLIE,NULL,NULL
+1556,υμεναιος,umenaios,umenaios,HYMENEUS,NULL,NULL
+1557,-υμν-,-umn-,-umn-,HYMNE,NULL,NULL
+1558,-υπερ-/-υπ-,-uper-/-up-,-uper-/-up-,BOVEN,NULL,NULL
+1559,-υπεν-,-upen-,-upen-,SLAAP,NULL,NULL
+1560,-υπο-/-υπ-,-upo-/-up-,-upo-/-up-,ONDER,NULL,NULL
+1561,-υπ-,-up-,-up-,ONDER,1560,NULL
+1562,-υσ-,-us-,-us-,ZWIJN,NULL,NULL
+1563,-υσ-,-us-,-us-,HYSSOP (HEB),NULL,NULL
+1564,-υστερ-,-uster-,-uster-,BEHOEFTE,NULL,NULL
+1565,-υψ-,-up<sup>s</sup>-,-uy-,HOOG,NULL,NULL
+1566,-φα-/-φω-/-φ-/-π-,-p<sup>h</sup>a-/-p<sup>h</sup>ō-/-p<sup>h</sup>-/-p-,-fa-/-fw-/-f-/-p-,VERSCHIJNEN,NULL,NULL
+1567,-φα-,-p<sup>h</sup>a-,-fa-,BEWEREN,NULL,NULL
+1568,-φαγ-,-p<sup>h</sup>ag-,-fag-,ETEN,NULL,NULL
+1569,φαλεκ,p<sup>h</sup>alek,falek,PELEG (HEB),NULL,NULL
+1570,φανουηλ,p<sup>h</sup>anouēl,fanouhl,PHANUEL (HEB),NULL,NULL
+1571,-φαραγ-,-p<sup>h</sup>arag-,-farag-,RAVIJN,NULL,NULL
+1572,φαραω,p<sup>h</sup>araō,faraw,FARAO (EGYPT),NULL,NULL
+1573,φαρες,p<sup>h</sup>ares,fares,PEREZ (HEB),NULL,NULL
+1574,φαρισαιοις,p<sup>h</sup>arisaiois,farisaiois,FARIZEEER (HEB),NULL,NULL
+1575,-φαρμακ-,-p<sup>h</sup>armak-,-farmak-,BEDWELMEN,NULL,NULL
+1576,-φατν-,-p<sup>h</sup>atn-,-fatn-,KRIB,NULL,NULL
+1577,-φαυλ-,-p<sup>h</sup>aul-,-faul-,VUIG,NULL,NULL
+1578,-φεγ-,-p<sup>h</sup>eg-,-feg-,STRAAL,NULL,NULL
+1579,-φειδ-,-p<sup>h</sup>eid-,-feid-,SPAREN,NULL,NULL
+1580,-φελ-,-p<sup>h</sup>el-,-fel-,BAST,NULL,NULL
+1581,-φερ-/-φορ-/-βερ-/-νεγ-/-οι-,-p<sup>h</sup>er-/-p<sup>h</sup>or-/-ber-/-neg-/-oi-,-fer-/-for-/-ber-/-neg-/-oi-,DRAGEN,NULL,NULL
+1582,-φευγ-/-φυγ-,-p<sup>h</sup>eug-/-p<sup>h</sup>ug-,-feug-/-fug-,VLUCHTEN,NULL,NULL
+1583,-φη-,-p<sup>h</sup>ē-,-fh-,VERKLAREN,NULL,NULL
+1584,φηλιξ,p<sup>h</sup>ēlik<sup>s</sup>,fhlix,FELIX,NULL,NULL
+1585,φηστος,p<sup>h</sup>ēstos,fhstos,FESTUS,NULL,NULL
+1586,-φθα-,-p<sup>h</sup>t<sup>h</sup>a-,-fqa-,VOORLOPEN,NULL,NULL
+1587,-φθεγ-/-φθογ-,-p<sup>h</sup>t<sup>h</sup>eg-/-p<sup>h</sup>t<sup>h</sup>og-,-fqeg-/-fqog-,UITEN,NULL,NULL
+1588,-φθειρ-/-φθαρ-/-φτορ-,-p<sup>h</sup>t<sup>h</sup>eir-/-p<sup>h</sup>t<sup>h</sup>ar-/-p<sup>h</sup>tor-,-fqeir-/-fqar-/-ftor-,VERDERVEN,NULL,NULL
+1589,-φθιν-,-p<sup>h</sup>t<sup>h</sup>in-,-fqin-,AFNEMEN,NULL,NULL
+1590,-φθον-,-p<sup>h</sup>t<sup>h</sup>on-,-fqon-,AFGUNST,NULL,NULL
+1591,-φιαλ-,-p<sup>h</sup>ial-,-fial-,SCHAAL,NULL,NULL
+1592,-φιλ-,-p<sup>h</sup>il-,-fil-,MINNEN,NULL,NULL
+1593,-φιμ-,-p<sup>h</sup>im-,-fim-,MUILBANDEN,NULL,NULL
+1594,-φλε-/-φλο-,-p<sup>h</sup>le-/-p<sup>h</sup>lo-,-fle-/-flo-,VLAM,NULL,NULL
+1595,-φλυ-,-p<sup>h</sup>lu-,-flu-,BORRELEN,NULL,NULL
+1596,-φοβ-,-p<sup>h</sup>ob-,-fob-,VREZEN,NULL,NULL
+1597,φοιβη,p<sup>h</sup>oibē,foibh,FEBE,NULL,NULL
+1598,-φοινι-,-p<sup>h</sup>oini-,-foini-,PALM,NULL,NULL
+1599,φοινικη,p<sup>h</sup>oinikē,foinikh,FENICIE (waarschijnlijk PALM),NULL,NULL
+1600,-φον-,-p<sup>h</sup>on-,-fon-,MOORD,NULL,NULL
+1601,φορον,p<sup>h</sup>oron,foron,FORUM (LAT),NULL,NULL
+1602,φορτουνατος,p<sup>h</sup>ortounatos,fortounatos,FORTUNATUS (LAT),NULL,NULL
+1603,-φρα-,-p<sup>h</sup>ra-,-fra-,VERSPERREN,NULL,NULL
+1604,-φρα-,-p<sup>h</sup>ra-,-fra-,ONTCIJFEREN,NULL,NULL
+1605,-φραγελ-,-p<sup>h</sup>ragel-,-fragel-,GESEL,NULL,NULL
+1606,-φρεα-,-p<sup>h</sup>rea-,-frea-,WELPUT,NULL,NULL
+1607,-φρεν-/-φρον-/-φραιν-/-φρων-/-φρην-/-φρο-,-p<sup>h</sup>ren-/-p<sup>h</sup>ron-/-p<sup>h</sup>rain-/-p<sup>h</sup>rōn-/-p<sup>h</sup>rēn-/-p<sup>h</sup>ro-,-fren-/-fron-/-frain-/-frwn-/-frhn-/-fro-,NEIGEN,NULL,NULL
+1608,-φρισ-,-p<sup>h</sup>ris-,-fris-,HUIVEREN,NULL,NULL
+1609,-φρουρ-,-p<sup>h</sup>rour-,-frour-,IN+GARNIZOEN+LEGGEN,NULL,NULL
+1610,-φρυασ-,-p<sup>h</sup>ruas-,-fruas-,BRIESEN,NULL,NULL
+1611,-φρυγ-,-p<sup>h</sup>rug-,-frug-,BRANDHOUT,NULL,NULL
+1612,φρυγια,p<sup>h</sup>rugia,frugia,FRYGIE,NULL,NULL
+1613,-φυ-,-p<sup>h</sup>u-,-fu-,SPRUIT,NULL,NULL
+1614,φυγελλος,p<sup>h</sup>ugellos,fugellos,FYGELUS,NULL,NULL
+1615,-φυλα-,-p<sup>h</sup>ula-,-fula-,BEWAKEN,NULL,NULL
+1616,-φυρ-,-p<sup>h</sup>ur-,-fur-,KNEED,NULL,NULL
+1617,-φυσι-,-p<sup>h</sup>usi-,-fusi-,OPBLAZEN,NULL,NULL
+1618,-φω-,-p<sup>h</sup>ō-,-fw-,LICHT,NULL,NULL
+1619,-φωλε-,-p<sup>h</sup>ōle-,-fwle-,DIERENHOL,NULL,NULL
+1620,-φων-,-p<sup>h</sup>ōn-,-fwn-,GELUID,NULL,NULL
+1621,-φωρ-,-p<sup>h</sup>ōr-,-fwr-,SPEUREN,NULL,NULL
+1622,-χα-,-k<sup>h</sup>a-,-ca-,GAPING,NULL,NULL
+1623,-χαλα-,-k<sup>h</sup>ala-,-cala-,NEERLATEN,NULL,NULL
+1624,χαλδαιος,k<sup>h</sup>aldaios,caldaios,CHALDEEER,NULL,NULL
+1625,-χαλεπ-,-k<sup>h</sup>alep-,-calep-,GEVAARLIJK,NULL,NULL
+1626,-χαλιν-,-k<sup>h</sup>alin-,-calin-,BIT,NULL,NULL
+1627,-χαλκ-,-k<sup>h</sup>alk-,-calk-,KOPER,NULL,NULL
+1628,χαλκηδων,k<sup>h</sup>alkēdōn,calkhdwn,ROBIJN,NULL,NULL
+1629,-χαμ-,-k<sup>h</sup>am-,-cam-,OP+DE+GROND,NULL,NULL
+1630,χανααν,k<sup>h</sup>anaan,canaan,KANAAN (HEB),NULL,NULL
+1631,-χαρ-/-χαιρ-,-k<sup>h</sup>ar-/-k<sup>h</sup>air-,-car-/-cair-,VREUGDE,NULL,NULL
+1632,-χαρα-,-k<sup>h</sup>ara-,-cara-,KERVEN,NULL,NULL
+1633,-χαρα-,-k<sup>h</sup>ara-,-cara-,PALISADE,NULL,NULL
+1634,χαρραν,k<sup>h</sup>arr<sup>h</sup>an,carran,HARAN (HEB),NULL,NULL
+1635,-χαρτ-,-k<sup>h</sup>art-,-cart-,PAPYRUSBLAD,NULL,NULL
+1636,-χε-/-χυ-,-k<sup>h</sup>e-/-k<sup>h</sup>u-,-ce-/-cu-,GIETEN,NULL,NULL
+1637,-χειλ-,-k<sup>h</sup>eil-,-ceil-,LIP,NULL,NULL
+1638,-χειμ-,-k<sup>h</sup>eim-,-ceim-,WINTER,NULL,NULL
+1639,-χειρ-,-k<sup>h</sup>eir-,-ceir-,HAND,NULL,NULL
+1640,χειρον,k<sup>h</sup>eiron,ceiron,SLECHT,NULL,NULL
+1641,χερουβιμ,k<sup>h</sup>eroubim,ceroubim,CHERUBS (HEB),NULL,NULL
+1642,-χηρ-,-k<sup>h</sup>ēr-,-chr-,WEDUWE,NULL,NULL
+1643,-χθον-,-k<sup>h</sup>t<sup>h</sup>on-,-cqon-,TERREIN,NULL,NULL
+1644,-χιλι-,-k<sup>h</sup>ili-,-cili-,DUIZEND,NULL,NULL
+1645,χιος,k<sup>h</sup>ios,cios,CHIOS,NULL,NULL
+1646,-χιτ-,-k<sup>h</sup>it-,-cit-,(ONDER)KLEED,NULL,NULL
+1647,-χιω-,-k<sup>h</sup>iō-,-ciw-,SNEEUW,NULL,NULL
+1648,-χλαμ-,-k<sup>h</sup>lam-,-clam-,(WIJDE)MANTEL,NULL,NULL
+1649,-χλευ-,-k<sup>h</sup>leu-,-cleu-,SPOTTEN,NULL,NULL
+1650,-χλι-,-k<sup>h</sup>li-,-cli-,LAUW,NULL,NULL
+1651,-χλο-/-χλω-,-k<sup>h</sup>lo-/-k<sup>h</sup>lō-,-clo-/-clw-,GROEN,NULL,NULL
+1652,-χο-/-χη-,-k<sup>h</sup>o-/-k<sup>h</sup>ē-,-co-/-ch-,GROND,NULL,NULL
+1653,-χοιν-,-k<sup>h</sup>oin-,-coin-,DAGRANTSOEN,NULL,NULL
+1654,-χοιρ-,-k<sup>h</sup>oir-,-coir-,VARKEN,NULL,NULL
+1655,-χολ-,-k<sup>h</sup>ol-,-col-,GAL,NULL,NULL
+1656,-χορ-,-k<sup>h</sup>or-,-cor-,KOOR,NULL,NULL
+1657,χοραζιν,k<sup>h</sup>orazin,corazin,CHORAZIN,NULL,NULL
+1658,-χορτ-,-k<sup>h</sup>ort-,-cort-,VOEDER,NULL,NULL
+1659,χουζα,k<sup>h</sup>ouza,couza,CHUZAS,NULL,NULL
+1660,-χρ-,-k<sup>h</sup>r-,-cr-,GEBRUIK,NULL,NULL
+1661,-χρι-/-χρει-,-k<sup>h</sup>ri-/-k<sup>h</sup>rei-,-cri-/-crei-,ZALVEN,NULL,NULL
+1662,-χρον-,-k<sup>h</sup>ron-,-cron-,TIJD,NULL,NULL
+1663,-χρυσ-,-k<sup>h</sup>rus-,-crus-,GOUD,NULL,NULL
+1664,-χρω-,-k<sup>h</sup>rō-,-crw-,LICHAAMSHUID,NULL,NULL
+1665,-χωλ-,-k<sup>h</sup>ōl-,-cwl-,VERLAMD,NULL,NULL
+1666,-χωρ-,-k<sup>h</sup>ōr-,-cwr-,NOORD+WEST (LAT),NULL,NULL
+1667,-χωρ-,-k<sup>h</sup>ōr-,-cwr-,RUIMTE,NULL,NULL
+1668,-ψα-/-ψη-/-ψω-,-p<sup>s</sup>a-/-p<sup>s</sup>ē-/-p<sup>s</sup>ō-,-ya-/-yh-/-yw-,AANSLAAN,NULL,NULL
+1669,-ψευδ-/-ψευσ-,-p<sup>s</sup>eud-/-p<sup>s</sup>eus-,-yeud-/-yeus-,VALS,NULL,NULL
+1670,-ψηφ-,-p<sup>s</sup>ēp<sup>h</sup>-,-yhf-,STEENTJE,NULL,NULL
+1671,-ψιθυρ-,-p<sup>s</sup>it<sup>h</sup>ur-,-yiqur-,FLUISTEREN,NULL,NULL
+1672,-ψιχ-,-p<sup>s</sup>ik<sup>h</sup>-,-yic-,AFVAL,NULL,NULL
+1673,-ψυχ-/-ψυξ-,-p<sup>s</sup>uk<sup>h</sup>-/-p<sup>s</sup>uk<sup>s</sup>-,-yuc-/-yux-,KOEL,NULL,NULL
+1674,-ψωμ-,-p<sup>s</sup>ōm-,-ywm-,BETE,NULL,NULL
+1675,ω,ō,w,laatste letter van het Griekse alfabet,NULL,NULL
+1676,ω,ō,w,O,NULL,NULL
+1678,-ωδ-/-αδ-,-ōd-/-ad-,-wd-/-ad-,ZINGEN,NULL,NULL
+1679,-ωθ-,-ōt<sup>h</sup>-,-wq-,STOTEN,NULL,NULL
+1680,-ωι-,-ōi-,-wi-,VERTREK,NULL,NULL
+1681,-ωμ-,-ōm-,-wm-,SCHOUDER,NULL,NULL
+1682,-ωο-,-ōo-,-wo-,EI,NULL,NULL
+1683,-ωρ-,-ōr-,-wr-,UUR,NULL,NULL
+537,-ημι-,-ēmi-,-hmi-,HALF,NULL,NULL
+1684,-ωρυ-,-ōru-,-wru-,BRULLEN,NULL,NULL
+1685,-ωσ-,-ōs-,-ws-,ALS,NULL,NULL
+1686,-ωσ,-ōs,-ws,ALS (adverbiaal suffix),1685,NULL
+1687,ωσαννα,ōsanna,wsanna,HOSANNA (HEB:),NULL,NULL
+1688,ωσηε,ōsēe,wshe,HOSEA (HEB),NULL,NULL
+108,-αν-,-an-,-an-,"OPWAARTS (sommige werkwoorden voegen het element <span class=""Greek"">-an-</span> OPWAARTS in hun stam)",106,NULL
+1197,-πλ-,-pl-,-pl-,"VLOED (vergelijk <span class=""Greek"">-ple-</span> DRIJVEN, <span class=""Greek"">-ple-</span> MEER, <span class=""Greek"">-pleur-</span> RIB, <span class=""Greek"">-plh-</span> VOL, <span class=""Greek"">-plou-</span> RIJK, <span class=""Greek"">-plun-</span> SPOELEN",NULL,NULL
+540,-ηρεμ-/-ημερ-,-ērem-/-ēmer-,-hrem-/-hmer-,MILD,NULL,NULL
+1689,-υφαν-,-up<sup>h</sup>an-,-ufan-,WEVEN,NULL,NULL
+814,-κωμ-,-kōm-,-kwm-,BRASSEN,NULL,NULL
+780,-κρει-,-krei-,-krei-,HOUDEN,777,NULL
+785,-κρη-,-krē-,-krh-,KRETA,NULL,NULL
+898,μακελλον,makellon,makellon,SLAGER,NULL,NULL
+1690,μεχρι[σ],mek<sup>h</sup>ri[s],mecri[s],TOT+AAN,NULL,899
+1691,-οπτ-,-opt-,-opt-,ROOSTEREN,NULL,1128
+1692,-ρεδ-,-red-,-red-,KOETS,NULL,NULL
+1351,-ρεδ-,-red-,-red-,ERNST,NULL,NULL
+1693,βαραββασ,barabbas,barabbas,BARABBAS (ARAM-HEB),NULL,NULL
+1694,βαριησουσ,bariēsous,barihsous,BARJEZUS (ARAM-HEB),NULL,NULL
+1695,βαριωνασ,bariōnas,bariwnas,BARJONA (ARAM-HEB),NULL,NULL
+1696,βαρναβασ,barnabas,barnabas,BARNABAS (ARAM-HEB),NULL,NULL
+1697,βαρσαββασ,barsabbas,barsabbas,BARSABBAS (ARAM-HEB),NULL,NULL
+1698,βαρθολομαιοσ,bart<sup>h</sup>olomaios,barqolomaios,BARTOLOMEUS (ARAM-HEB),NULL,NULL
+1699,βαρτιμαιοσ,bartimaios,bartimaios,BARTIMEUS (ARAM-HEB),NULL,NULL
+1700,βηθανια,bēt<sup>h</sup>ania,bhqania,BETANIE (HEB),NULL,NULL
+1701,βηθεσδα,bēt<sup>h</sup>esda,bhqesda,BETESDA (HEB),NULL,NULL
+1702,βηθλεεμ,bēt<sup>h</sup>leem,bhqleem,BETLEHEM (HEB),NULL,NULL
+1703,βηθφαγη,bēt<sup>h</sup>p<sup>h</sup>agē,bhqfagh,BETFAGE (HEB),NULL,NULL
+1704,βηθσαιδα,bēt<sup>h</sup>saida,bhqsaida,BETSAIDA (HEB),NULL,NULL
