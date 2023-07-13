@@ -1,13 +1,13 @@
 # NCV Data
-### Versie 3.10.0, december 2021
+### Versie 3.11.0, december 2022
 In de sqlite database in deze map is de structuur van de data van het NCV project te vinden, en in de map "tabellen" de data zelf, zoals deze eind december 2022 was, en is verschenen in versie 3.11.0 van de app, uitgebracht op 23 december 2022. De data bevat de NCV vertaling, het interlineair bij de Griekse en Hebreeuwse grondtekst, structuren, commentaar, voetnoten en meer. Onder is per tabel in de database beschreven wat de data inhoudt.
 
-Een pdf bestand van de papieren uitgave zoals die in deze tijd is klaargemaakt is ook te vinden in de map. In dat bestand is de vertaling van het NT te vinden, samen met een uitgebreide verantwoording van de vertaling en meer.
+Een pdf bestand van de papieren uitgave zoals die in deze tijd is klaargemaakt is ook te vinden in de map. In dat bestand is de vertaling van het NT te vinden, samen met een uitgebreide verantwoording van de vertaling en meer. Uiteindelijk zijn er voor de papieren versie nog enkele verbeteringen aan de data gedaan, en versie 3.12.0 komt overeen met de uiteindelijke gedrukte papieren uitgave.
 
 Aan het gebruik van de data zijn voorwaarden verbonden, zoals beschreven in het LICENSE bestand. Voor delen van de data zijn aanvullende eisen en/of copyright statements van kracht, zie hieronder het gedeelte onder "Bronnen".
 
 ### Status data
-In deze versie is het volledige interlineair bij de CGT en de bhs opgenomen, NCV van het NT, Structuren en commentaar bij het NT, voetnoten nog vooral bij Galaten en 2Korinte, woordenboekomschrijving van maar een paar woorden. De tekst van de NCV komt overeen met die van de papieren uitgave die rond deze tijd is opgemaakt. De vertaling is daardoor vergeleken met de versie van 3.10.0 een stuk verfijnder, fouten zijn eruitgehaald, veel keuzes verbeterd.
+In deze versie is het volledige interlineair bij de CGT en de bhs opgenomen, NCV van het NT, Structuren en commentaar bij het NT, voetnoten nog vooral bij Galaten en 2Korinte, woordenboekomschrijving van maar een paar woorden. De vertaling is vergeleken met de versie van 3.10.0 een stuk verfijnder, fouten zijn eruitgehaald, veel keuzes verbeterd.
 
 ## Structuur van de data
 Hieronder een korte uitleg van de structuur van de data, hoe zaken aan elkaar gekoppeld zijn of hoe verschillende tabellen elkaar aanvullen.

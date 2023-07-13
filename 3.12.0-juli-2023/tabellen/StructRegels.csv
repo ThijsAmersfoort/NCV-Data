@@ -1,0 +1,372 @@
+id,sid,van,tot,cl,tekst
+1,1,,,,LITERAIRE STRUCTUUR
+2,1,40001001,43021025,s0p,De vier evangeliën. <b>Christus</b> onthuld in het vlees.
+3,1,44001001,44028031,s15p,Handelingen van de apostelen. <b>Israëls koninkrijk</b> verkondigd
+4,1,45001001,51004018,s30p,Romeinen tot Kolossenzen. <b>Het evangelie aan de heidenen</b>.
+5,1,52001001,57001025,s30p,Thessalonicenzen tot Filemon. <b>Het evangelie aan de heidenen</b>.
+6,1,58001001,65001025,s15p,Besnijdenisbrieven. <b>Israëls koninkrijk</b> uitgesteld.
+7,1,66001001,66022021,s0p,Openbaringen. <b>Christus</b>' onthulling.
+8,2,,,,DE EVANGELIËN
+9,2,40001001,40028020,s0p,Mattheüs. <b>Christus' glorie.</b> Jezus als Koning van Israël.
+10,2,41001001,41016020,s15p,Markus. <b>Christus' vernedering.</b> Jezus als dienstknecht.
+11,2,42001001,42024053,s15p,Lukas. <b>Christus' vernedering.</b> Jezus als Zoon des mensen.
+12,2,43001001,43021025,s0p,Johannes. <b>Christus' glorie.</b>' Jezus als Zoon van God.
+13,3,,,,LITERAIRE STRUCTUUR
+14,3,40001001,40002023,s0p,<span>1:1 - 2:23</span> <b>Zijn plaats.</b> Geslachtsregister.
+15,3,40003001,40003004,s15p,<span>3:1-4</span> <b>Koninkrijk door anderen verkondigd.</b> Johannes de Doper.
+16,3,40003005,40003017,s30p,<span>3:5-17</span> <b>Zijn doop</b> Met water in de Jordaan
+17,3,40004001,40004011,s45p,<span>4:1-11</span> <b>Zijn beproevingen.</b> In de woestijn door de duivel.
+18,3,40004012,40007029,s60p,<span>4:12 - 7:29</span> <b>Het koninkrijk</b> verkondigd.
+19,3,40008001,40016020,s75p,<span>8:1 - 16:20</span> <b>De Koning</b> verkondigd.
+20,3,40016021,40020034,s75p,<span>16:21 - 20:34</span> <b>De Koning</b> afgewezen.
+21,3,40021001,40026035,s60p,<span>21:1 - 26:35</span> <b>Het koninkrijk</b> afgewezen.
+22,3,40026036,40026046,s45p,"<span>26:36-46</span> <b>Zijn beproevingen.</b> In de tuin, Judas."
+23,3,40026047,40028015,s30p,"<span>26:47 - 28:15</span> <b>Zijn doop</b> met lijden aan het kruis, opstanding."
+24,3,40028016,40028019,s15p,"<span>28:16-19</span> <b>Koninkrijk door anderen verkondigd.</b> Opdracht aan de apostelen, dopen."
+25,3,40028020,40028020,s0p,<span>28:20</span> <b>Zijn plaats.</b> Opdracht en belofte.
+26,4,,,,LITERAIRE STRUCTUUR
+27,4,41001001,41001008,s0p,<span>1:1-8</span> <b>Verkondigd door anderen.</b> Johannes de Doper.
+28,4,41001009,41001011,s15p,<span>1:9-11</span> <b>Zijn doop.</b> met water van de Jordaan.
+29,4,41001012,41001013,s30p,"<span>1:12,13</span> <b>Zijn beproevingen.</b> In de woestijn door de duivel."
+30,4,41001014,41001020,s45p,<span>1:14-20</span> <b>Het koninkrijk</b> verkondigd.
+31,4,41001021,41008030,s60p,<span>1:21 - 8:30</span> <b>De Koning</b> verkondigd.
+32,4,41008031,41010052,s60p,<span>8:31 - 10:52</span> <b>De Koning</b> afgewezen.
+33,4,41011001,41014026,s45p,<span>11:1 - 14:26</span> <b>Het koninkrijk</b> afgewezen.
+34,4,41014027,41014042,s30p,<span>14:27-42</span> <b>Zijn beproevingen.</b> In de tuin met Judas.
+35,4,41014043,41016014,s15p,"<span>14:43 - 16:14</span> <b>Zijn doop.</b> met lijden aan het kruis, opstanding."
+36,4,41016015,41016020,s0p,<span>16:15-20</span> <b>Verkondigd door anderen.</b> De elven.
+37,5,,,,LITERAIRE STRUCTUUR
+38,5,42001001,42002052,s0p,<span>1:1 - 2:52</span> <b>Zijn plaats.</b> Zijn afdaling.
+39,5,42003001,42003020,s15p,<span>3:1-20</span> <b>Koninkrijk door anderen verkondigd.</b> Johannes de Doper.
+40,5,42003021,42003038,s30p,<span>3:21-38</span> <b>Zijn doop</b> Met water in de Jordaan
+41,5,42004001,42004014,s45p,<span>4:1-14</span> <b>Zijn beproevingen.</b> In de woestijn door de duivel.
+42,5,42004015,42005011,s60p,<span>4:15 - 5:11</span> <b>Het koninkrijk</b> verkondigd.
+43,5,42005012,42009020,s75p,<span>5:12 - 9:20</span> <b>De Koning</b> verkondigd.
+44,5,42009021,42018043,s75p,<span>9:21 - 18:43</span> <b>De Koning</b> afgewezen.
+45,5,42019001,42022038,s60p,<span>19:1 - 22:38</span> <b>Het koninkrijk</b> afgewezen.
+46,5,42022039,42022048,s45p,"<span>22:39-48</span> <b>Zijn beproevingen.</b> Olijfberg, Judas."
+47,5,42022049,42024012,s30p,"<span>22:49 - 24:12</span> <b>Zijn doop</b> met lijden aan het kruis, opstanding."
+48,5,42024013,42024049,s15p,<span>24:13-49</span> <b>Koninkrijk door anderen verkondigd.</b> Discipelen.
+49,5,42024050,42024053,s0p,<span>24:50-53</span> <b>Zijn plaats.</b> Zijn hemelvaart.
+50,6,,,,LITERAIRE STRUCTUUR
+51,6,43001001,43001005,s0p,<span>1:1-5</span> <b>Zijn plaats</b> Het Woord.
+52,6,43001006,43001028,s15p,<span>1:6-28</span> <b>Zijn naasten.</b> Johannes de Doper
+53,6,43001029,43001034,s30p,<span>1:29-34</span> <b>Zijn doop.</b> In water en geest.
+54,6,43001035,43004054,s45p,<span>1:35 - 4:54</span> <b>Het koninkrijk</b> verkondigd.
+55,6,43005001,43006071,s60p,<span>5:1 - 6:71</span> <b>De Koning</b> verkondigd.
+56,6,43007001,43011053,s60p,<span>7:1 - 11:53</span> <b>De Koning</b> afgewezen.
+57,6,43011054,43017026,s45p,<span>11:54 - 17:26</span> <b>Het koninkrijk</b> afgewezen.
+58,6,43018001,43020031,s30p,<span>18:1 - 20:31</span> <b>Zijn doop</b> in lijden.
+59,6,43021001,43021023,s15p,"<span>21:1-23</span> <b>Zijn naasten.</b> discipelen, Petrus."
+60,6,43021024,43021025,s0p,"<span>21:24,25</span> <b>Zijn plaats.</b> Getuigenis."
+61,7,,,,LITERAIRE STRUCTUUR
+62,7,44001001,44001003,s0p,"<span>1:1-3</span> <b>Het koninkrijk van God</b> Jezus, veertig dagen."
+63,7,44001004,44012023,s15p,<span>1:4 - 12:23</span> <b>Zijn verkondiging</b> Vanuit Jeruzalem.
+64,7,44012024,44028029,s15p,<span>12:24 - 28:28</span> <b>Zijn verkondiging</b> Vanuit Antiochië.
+65,7,44028030,44028031,s0p,"<span>28:30-31</span> <b>Het koninkrijk van God</b> Paulus, twee jaar."
+66,8,,,,LITERAIRE STRUCTUUR
+67,8,44001004,44002013,s0p,"<span>1:4 - 2:13</span> <b>De Heilige geest</b> Jeruzalem, de twaalf."
+68,8,44002014,44007060,s15p,<span>2:14 - 8:1</span> <b>Verkondiging aan Israël</b> door Petrus.
+69,8,44008001,44011030,s30p,<span>8:1 - 11:30</span> <b>Verkondiging aan anderen</b> Proselieten.
+70,8,44012001,44012023,s45p,"<span>12:1-23</span> <b>Crisis</b> Jakobus, Petrus gestopt."
+71,8,44012024,44013003,s0p,"<span>12:24 - 13:3</span> <b>De Heilige geest</b> Barnabas, Saul, Antiochië."
+72,8,44013004,44014028,s15p,<span>13:4 - 14:28</span> <b>Verkondiging aan Israël</b> door Paulus.
+73,8,44015001,44019020,s30p,<span>15:1 - 19:20</span> <b>Verkondiging aan anderen</b> Heidenen.
+74,8,44019021,44028029,s45p,<span>19:21 - 28:29</span> <b>Crisis</b> Paulus gaat door.
+94,10,,,,LITERAIRE STRUCTUUR    <br>Omkering met leerstellige verandering
+95,10,45001001,45001006,s0p,"<span>1:1-6</span> Evangelie, bekend gemaakt. Rechtvaardiging"
+96,10,45001007,45001007,s15p,<span>1:7</span> Groeten kort
+97,10,45001008,45001009,s30p,"<span>1:8,9</span> Gebed"
+98,10,45001010,45001013,s45p,<span>1:10-13</span> Reisplannen
+99,10,45001014,45001017,s60p,<span>1:14-17</span> Eerdere bediening
+100,10,45001018,45003020,s75p,<span>1:18 - 3:20</span> Het gedrag van de mensheid
+101,10,,,,"DOCTRINE - <font color=""#FF0000"">INDIVIDUEEL</font>"
+102,10,45003021,45004025,s105p,<span>3:21 - 4:25</span> Rechtvaardiging
+103,10,45005001,45008030,s90p,<span>5:1 - 8:30</span> Verzoening
+104,10,45008031,45008039,s80p,<span>8:31-39</span> God's Soevereiniteit
+105,10,45009001,45009029,s80p,<span>9:1-29</span> God's Soevereiniteit
+106,10,,,,"DOCTRINE - <font color=""#FF0000"">NATIONAAL</font>"
+107,10,45009030,45010021,s105p,<span>9:30 - 10:21</span> Rechtvaardiging
+108,10,45011001,45011036,s90p,<span>11:1-36</span> Verzoening
+109,10,45012001,45015007,s75p,<span>12:1 - 15:7</span> Het gedrag van de heiligen
+110,10,45015008,45015021,s60p,<span>15:8-21</span> Eerdere bediening
+111,10,45015022,45015029,s45p,<span>15:22-29</span> Reisplannen
+112,10,45015030,45015033,s30p,<span>15:30-33</span> Gebed
+113,10,45016001,45016023,s15p,"<span>16:1-23</span> Groeten, uitgebreid"
+114,10,45016024,45016027,s0p,"<span>16:24-27</span> Evangelie, verzwegen, Verzoening"
+115,11,,,,LITERAIRE STRUCTUUR
+116,11,46001001,46001009,s0p,<span>1:1-9</span> Opening
+117,11,46001010,46003023,s15p,<span>1:10 - 3:23</span> Het Woord van het kruis
+118,11,46004001,46004021,s30p,"<span>4:1-21</span> Gods gaven, Persoonlijk"
+119,11,46005001,46006020,s45p,"<span>5:1 - 6:20</span> Onze fysieke lichamen, Gericht"
+120,11,,,,"<font color=""#FF0000"">Man en vrouw</font>"
+121,11,46007001,46007040,s75p,<span>7:1-40</span> Gedrag in huwelijk
+122,11,46008001,46008013,s60p,<span>8:1-13</span> Afgodenoffers
+123,11,,,,"<font color=""#FF0000"">Gezag van de apostel</font>"
+124,11,46009001,46009018,s90p,<span>9:1-18</span> Paulus' vrijheid
+125,11,,,,"<font color=""#FF0000"">Gezag van de apostel</font>"
+126,11,46009019,46009027,s90p,<span>9:19-27</span> Paulus' dienstbaarheid
+127,11,46010001,46011001,s60p,<span>10:1 - 11:1</span> Afgodenoffers
+128,11,,,,"<font color=""#FF0000"">Man en vrouw</font>"
+129,11,46011002,46011016,s75p,<span>11:2-16</span> Gedrag in de Uitgeroepen Gemeente
+130,11,46011017,46011034,s45p,"<span>11:17-34</span> Het Lichaam van de Here, Gericht"
+131,11,46012001,46014040,s30p,"<span>12:1 - 14:40</span> De Gaven, geestelijk"
+132,11,46015001,46015058,s15p,<span>15:1-58</span> Het evangelie van de Opstanding
+133,11,46016001,46016023,s0p,<span>16:1-23</span> Afsluiting
+134,12,,,,LITERAIRE STRUCTUUR
+135,12,47001001,47001002,s0p,"<span>1:1,2</span> Groet"
+136,12,47001003,47002017,s15p,<span>1:3-2:17</span> Persoonlijk
+137,12,47003001,47005017,s30p,<span>3:1-5:17</span> De genade van God gepresenteerd
+138,12,47005018,47005021,s45p,<span>5:18-21</span> De verzoening
+139,12,47006001,47008015,s30p,<span>6:1 - 8:15</span> De genade van God toegepast
+140,12,47008016,47013010,s15p,<span>8:16 - 13:10</span> Persoonlijk
+141,12,47013011,47013014,s0p,<span>13:11-14</span> Groet
+142,13,,,,LITERAIRE STRUCTUUR
+143,13,48001001,48001005,s0p,<span>1:1-5</span> Groeten
+144,13,48001006,48001009,s15p,<span>1:6-9</span> De verschillende Evangeliën
+145,13,48001010,48001010,s30p,<span>1:10</span> De wandel van Paulus
+146,13,48001011,48002021,s45p,<span>1:11 - 2:21</span> Persoonlijke verdediging
+147,13,48003001,48005012,s45p,<span>3:1 - 5:12</span> Leerstellige verdediging
+148,13,48005013,48006010,s30p,<span>5:13 - 6:10</span> De wandel van de gelovige
+149,13,48006011,48006017,s15p,<span>6:11-17</span> De rivaliserende dwaalleraren
+150,13,48006018,48006018,s0p,<span>6:18</span> Groeten
+151,14,,,,LITERAIRE STRUCTUUR
+152,14,49001001,49001002,s0p,"<span>1:1,2</span> Paulus' opdracht - groet"
+153,14,49001003,49001014,s15p,<span>1:3-14</span> Het lotdeel - in de hemel - zegen
+154,14,49001015,49001019,s30p,<span>1:15-19</span> Paulus gebed voor hen
+155,14,49001020,49002010,s45p,"<span>1:20 - 2:10</span> Het lichaam - in Christus, de leden"
+156,14,49002011,49002022,s60p,<span>2:11-22</span> De nieuwe mensheid
+157,14,49003001,49003013,s75p,<span>3:1-13</span> Samenvatting van de genade nu getoond
+158,14,49003014,49003021,s90p,<span>3:14-21</span> De vader smekend
+159,14,49004001,49004006,s90p,<span>4:1-6</span> De heiligen smekend
+160,14,49004007,49004016,s75p,<span>4:7-16</span> Samenvatting van de genade die getoond was
+161,14,49004017,49005020,s60p,<span>4:17 - 5:20</span> De nieuwe mensheid
+162,14,49005021,49006009,s45p,"<span>5:21 - 6:9</span> Het lichaam - in de Here, Het Hoofd"
+163,14,49006010,49006017,s15p,<span>6:10-17</span> Het lotdeel - in de hemel - strijd
+164,14,49006018,49006020,s30p,<span>6:18-20</span> Hun gebed voor Paulus
+165,14,49006021,49006024,s0p,<span>6:21-24</span> Tychicus' opdracht - groet
+166,15,,,,LITERAIRE STRUCTUUR
+167,15,50001001,50001001,s0p,<span>1:1</span> Inleiding
+168,15,50001002,50001002,s30p,<span>1:2</span> Groet
+169,15,50001003,50001011,s15p,<span>1:3-11</span> De Filippenzen - Bijdrage - Lofprijzing
+170,15,50001012,50001018,s45p,<span>1:12-18</span> Paulus - zijn banden in Christus
+171,15,50001019,50001026,s60p,<span>1:19-26</span> Paulus - zijn neutrale houden t.a.v. dood
+172,15,50001027,50001030,s15p,<span>1:27-30</span> De Filippenzen - lijden met Paulus
+173,15,50002001,50002004,s75p,<span>2:1-4</span> Aansporing tot gehoorzaamheid
+174,15,50002005,50002011,s90p,<span>2:5-11</span> Christus
+175,15,50002012,50002018,s105p,<span>2:12-18</span> Aansporing tot gehoorzaamheid
+176,15,50002019,50002024,s120p,<span>2:19-24</span> Timotheüs - zijn karakter en dienstbetoon
+177,15,50002025,50002030,s120p,<span>2:25-30</span> Epafroditus - zijn karakter en lijden
+178,15,50003001,50003003,s105p,<span>3:1-3</span> Aansporing tot oppassen
+179,15,50003004,50003016,s90p,<span>3:4-16</span> Paulus
+180,15,50003017,50004009,s75p,<span>3:17 - 4:9</span> Aansporing Paulus te imiteren
+181,15,50004010,50004010,s15p,<span>4:10</span> De Filippenzen - hun zorg voor Paulus
+182,15,50004011,50004012,s60p,"<span>4:11,12</span> Paulus - zijn voldaanheid in gebrek"
+183,15,50004013,50004013,s45p,<span>4:13</span> Paulus - zijn kracht in Christus
+184,15,50004014,50004020,s15p,<span>4:14-20</span> De Filippenzen - Bijdrage - Lofprijzing
+185,15,50004021,50004022,s0p,"<span>4:21,22</span> Afsluiting"
+186,15,50004023,50004023,s30p,<span>4:23</span> Groet
+187,16,,,,LITERAIRE STRUCTUUR
+188,16,51001001,51001002,s0p,"<span>1:1,2</span> Inleiding"
+189,16,51001003,51001008,s15p,<span>1:3-8</span> Verslag van Epafras
+190,16,,,,"<font color=""#FF0000"">Het geheimenis van Christus</font>"
+191,16,51001009,51002007,s30p,<span>1:9 - 2:7</span> - Haar verwezenlijking
+192,16,51002008,51002023,s45p,<span>2:8-23</span> Correctie van de leer
+193,16,51003001,51004001,s45p,<span>3:1 - 4:1</span> Correctie van de wandel
+194,16,,,,"<font color=""#FF0000"">Het geheimenis van Christus</font>"
+195,16,51004002,51004006,s30p,<span>4:2-6</span> - Haar uitdrukking
+196,16,51004007,51004009,s15p,<span>4:7-9</span> Tichicus aan de Kolossenzen
+197,16,51004010,51004018,s0p,<span>4:10-18</span> Afsluiting
+198,17,,,,LITERAIRE STRUCTUUR
+199,17,52001001,52001001,s0p,<span>1:1</span> Groet en zegenwens
+200,17,52001002,52001002,s15p,<span>1:2-5</span> Gebed
+201,17,52001002,52003010,s30p,<span>1:2 - 3:10</span> Thessalonicenzen - Ervaring
+202,17,52003011,52003013,s45p,<span>3:11-13</span> Gebed
+203,17,52004001,52005022,s30p,<span>4:1 - 5:22</span> Thessalonicenzen - Wandel
+204,17,52005023,52005024,s15p,"<span>5:23,24</span> Gebed"
+205,17,52005025,52005028,s0p,<span>5:25-28</span> Groet en zegenwens
+206,18,,,,LITERAIRE STRUCTUUR
+207,18,53001001,53001002,s0p,"<span>1:1,2</span> Groet - zegenwens"
+208,18,53001003,53001010,s15p,<span>1:3-10</span> Dankzegging
+209,18,53001011,53001012,s30p,"<span>1:11,12</span> Gebed voor de Thessalonicenzen"
+210,18,53002001,53002012,s45p,<span>2:1-12</span> Waarschuwing - Afval
+211,18,53002013,53002017,s15p,<span>2:13-17</span> Dankzegging
+212,18,53003001,53003005,s30p,<span>3:1-5</span> Gebed voor de Apostelen
+213,18,53003006,53003015,s45p,<span>3:6-15</span> Waarschuwing - Ongeregeldheid
+214,18,53003016,53003018,s0p,<span>3:16-18</span> Groet - zegenwens
+215,19,,,,LITERAIRE STRUCTUUR
+216,19,54001001,54001002,s0p,"<span>1:1,2</span> Genade"
+217,19,54001003,54001020,s15p,<span>1:3-20</span> Waarschuwingen inzake onderwijs
+218,19,54002001,54002007,s30p,<span>2:1-7</span> Redder van alle mensen
+219,19,54002008,54003013,s45p,<span>2:8 - 3:13</span> Regels voor de Uitgeroepen gemeente
+220,19,54003014,54003014,s60p,<span>3:14</span> Voorlopige instructies
+221,19,54003015,54003016,s75p,"<span>3:15,16</span> Geheimenis van de Godsvrucht"
+222,19,54004001,54004005,s60p,<span>4:1-5</span> Latere tijden
+223,19,54004006,54004008,s75p,<span>4:6-8</span> Oefening in de Godsvrucht
+224,19,54004009,54004016,s30p,<span>4:9-16</span> Redder van alle mensen
+225,19,54005001,54006002,s45p,<span>5:1 - 6:2</span> Regels voor de Uitgeroepen gemeente
+226,19,54006003,54006020,s15p,<span>6:3-21</span> Waarschuwingen inzake wandel
+227,19,54006021,54006021,s0p,<span>6:21</span> Genade
+228,20,,,,LITERAIRE STRUCTUUR
+229,20,55001001,55001002,s0p,"<span>1:1,2</span> Groet en genade"
+230,20,55001003,55001012,s15p,"<span>1:3-20</span> Timotheüs' geschenk. <span class=""static"">1:8-12</span> Paulus' opdracht"
+231,20,55001013,55001018,s30p,<span>1:13-18</span> Gezonde woorden met het oog op afval
+232,20,55002001,55002018,s45p,<span>2:1-18</span> Aansporing tot volharding
+233,20,55002019,55003017,s45p,<span>2:19 - 3:17</span> Aansporing tot staande blijven
+234,20,55004001,55004004,s30p,<span>4:1-4</span> Het Woord als heraut afkondigen vanwege de mythen
+235,20,55004005,55004018,s15p,"<span>4:5</span> Dienstbetoon van Timotheüs. <span class=""static"">4:6-18</span> Paulus' loopbaan"
+236,20,55004019,55004022,s0p,<span>4:19-22</span> Zegenwens en genade
+237,21,,,,LITERAIRE STRUCTUUR
+238,21,56001001,56001004,s0p,<span>1:1-4</span> Groet en genade
+239,21,56001005,56001009,s15p,<span>1:5</span> Orde in de uitgeroepen gemeente(n)
+240,21,56001010,56001016,s30p,<span>1:10-16</span> Stel de twistzieke mensen aan de kaak
+241,21,56002001,56002010,s45p,"<span>2:1-10</span> Uitstekend gedrag van ouderen, jongen, slaven"
+242,21,56002011,56002014,s60p,<span>2:11-14</span> Komst van Gods genade
+243,21,56002015,56002015,s75p,<span>2:15</span> Plicht om te breken
+244,21,56003001,56003003,s75p,<span>3:1-3</span> Plicht om te herinneren
+245,21,56003004,56003007,s60p,<span>3:4-7</span> Komst van Gods genade
+246,21,56003008,56003008,s45p,<span>3:8</span> Uitstekend gedrag van gelovigen
+247,21,56003009,56003009,s30p,<span>3:9</span> Neem afstand van de twistzieke mensen
+248,21,56003010,56003011,s15p,"<span>3:10,11</span> Wijs sectarisch denken af"
+249,21,56003012,56003015,s0p,<span>3:12-15</span> Zegenwens van genade
+250,22,,,,LITERAIRE STRUCTUUR
+251,22,57001001,57001003,s0p,"<span>1:1,2</span> Groet, genade"
+252,22,57001004,57001006,s15p,<span>1:4-6</span> Gebed van Paulus voor Filemon
+253,22,57001007,57001007,s30p,"<span>1:7</span> Paulus' vreugde, heiligen verzacht"
+254,22,57001008,57001010,s45p,<span>1:8-10</span> Paulus smeekt inzake zijn kind
+255,22,57001011,57001013,s60p,"<span>1:11-13</span> Onesimus, onbruikbaar - bruikbaar"
+256,22,57001014,57001017,s60p,"<span>1:14-17</span> Onesimus, onbruikbaar - bruikbaar"
+257,22,57001018,57001019,s45p,"<span>1:18,19</span> Paulus biedt schadeloosstelling voor Onesimus"
+258,22,57001020,57001020,s30p,"<span>1:20</span> Paulus' winst, Paulus verzacht"
+259,22,57001021,57001022,s15p,"<span>1:21,22</span> Gebed van Filemon voor Paulus"
+260,22,57001023,57001025,s0p,"<span>1:23-25</span> Groeten, genade"
+261,23,,,,LITERAIRE STRUCTUUR
+262,23,58001001,58002018,s0p,"<span>1:1 - 2:18</span> <b>Doctrine, gedrag</b> God spreekt, Zoon van God, des mensen."
+263,23,58003001,58004013,s15p,"<span>3:1 - 4:13</span> <b>Christus Jezus</b> Apostel, Mozes, Jozua."
+264,23,58004014,58010018,s15p,"<span>4:14 - 10:18</span> <b>Christus Jezus</b> Hogepriester, Melchizedek"
+265,23,58010019,58013025,s0p,"<span>10:19 - 13:25</span> <b>Doctrine, gedrag</b> Voorbeelden, overtuigen."
+266,24,,,,LITERAIRE STRUCTUUR
+267,24,58001001,58001014,s0p,<span>1:1-14</span> <b>God spreekt</b> Door de Zoon van God
+268,24,58002001,58002018,s0p,<span>2:1-18</span> <b>God spreekt</b> Door de Zoon des mensen
+269,25,,,,LITERAIRE STRUCTUUR
+270,25,58001001,58001003,s0p,"<span>1:1-3</span> <b>Zoon van God</b> Lotdeelgenieter, Afspiegeling, Embleem"
+271,25,58001004,58001007,s15p,"<span>1:4-7</span> <b>Hoger dan de boodschappers</b> Vuurvlammen, troon"
+272,25,58001008,58001012,s0p,"<span>1:8:12</span> <b>Zoon van God</b> Troon, fundament"
+273,25,58001013,58001014,s15p,"<span>1:13-14</span> <b>Hoger dan de boodschappers</b> Aan Gods rechterhand, dienstbetoon, geesten."
+274,26,,,,LITERAIRE STRUCTUUR
+275,26,58002005,58002006,s0p,<span>2:5-6</span> <b>Zoon des mensen</b> Onderschikking van de aarde
+276,26,58002007,58002007,s15p,<span>2:7-8</span> <b>Lager dan de boodschappers</b> een beetje
+277,26,58002008,58002009,s15p,<span>2:8-9</span> <b>Lager dan de boodschappers</b> maar nu
+278,26,58002010,58002018,s0p,<span>2:10-18</span> <b>Zoon des mensen</b> Perfectioneerd door lijden
+279,27,,,,LITERAIRE STRUCTUUR
+280,27,58003001,58003019,s0p,<span>3:1-19</span> <b>Apostel</b> Mozes stopte niet
+281,27,58004001,58004013,s0p,<span>4:1-13</span> <b>Apostel</b> Jozua stopte niet
+282,28,,,,LITERAIRE STRUCTUUR
+283,28,58004014,58005004,s0p,<span>4:14 - 5:4</span> <b>Hogepriester</b> Offers
+284,28,58005005,58006020,s15p,<span>5:5 - 6:20</span> <b>De orde van Melchizedek</b> Jezus de voorbode
+285,28,58007001,58008002,s15p,<span>7:1 - 8:2</span> <b>De orde van Melchizedek</b> Priester tot het einde
+286,28,58008003,58010018,s0p,<span>8:3 - 10:18</span> <b>Hogepriester</b> Offert zijn lichaam
+287,29,,,,LITERAIRE STRUCTUUR
+288,29,59001001,59001008,s0p,"<span>1:1-8</span> <b>Verzoeking, gebed.</b> Volharding, wijsheid"
+289,29,59001009,59001011,s15p,<span>1:9-11</span> <b>De nederige en de rijke.</b> Gras.
+290,29,59001012,59001015,s30p,"<span>1:12-15</span> <b>Lust</b> Verlangen, zonde, dood."
+291,29,59001016,59001017,s45p,<span>1:16-17</span> <b>Van boven</b> Perfect geschenk.
+292,29,59001018,59001027,s60p,<span>1:18-27</span> <b>Woord</b> Ingeplant.
+293,29,59002001,59002007,s75p,<span>2:1-7</span> <b>Geloof</b> Zonder discriminatie.
+294,29,59002008,59002009,s90p,<span>2:8-9</span> <b>Wet</b> Koninklijk.
+295,29,59002010,59002010,s105p,<span>2:10</span> <b>In één ding struikelen.</b> Aansprakelijk voor allen.
+296,29,59002011,59002011,s105p,<span>2:11</span> <b>In één ding struikelen.</b> Overtreder.
+297,29,59002012,59002013,s90p,<span>2:12-13</span> <b>Wet</b> van vrijheid.
+298,29,59002014,59002026,s75p,<span>2:14-26</span> <b>Geloof</b> Zonder werken
+299,29,59003001,59003012,s60p,<span>3:1-12</span> <b>Woord</b> De ongetemde tong van mensen.
+300,29,59003013,59003018,s45p,"<span>3:13-18</span> <b>Van boven</b> Puur, vreedzaam, wijsheid."
+301,29,59004001,59004005,s30p,"<span>4:1-5</span> <b>Lust</b> Strijden, vechten."
+302,29,59004006,59005006,s15p,<span>4:6 - 5:6</span> <b>De nederige en de rijke.</b> Verrot.
+303,29,59005007,59005020,s0p,"<span>5:7-20</span> <b>Verzoeking, gebed.</b> Geduld, geloof."
+304,30,,,,LITERAIRE STRUCTUUR
+305,30,60001001,60001002,s0p,<span>1:1-2</span> <b>Groet en zaligspreking.</b> Petrus aan de verbannenen van de verstrooiing
+306,30,60001003,60001012,s15p,<span>1:3-12</span> <b>Zegen.</b> Redden van de ziel.
+307,30,60001013,60004006,s30p,"<span>1:13 - 4:6</span> <b>Etiket</b> Soberheid, verleiding."
+308,30,60004007,60005009,s30p,"<span>4:7 - 5:9</span> <b>Etiket</b> Lust, soberheid."
+309,30,60005010,60005011,s15p,"<span>5:10-11</span> <b>Zegen.</b> Aanpassing, oprichting."
+310,30,60005012,60005014,s0p,<span>5:12-14</span> <b>Groet en zaligspreking</b> vanuit Babylon.
+311,31,,,,LITERAIRE STRUCTUUR
+312,31,61001001,61001004,s0p,<span>1:1-4</span> <b>Groet en zaligspreking.</b>
+313,31,61001005,61001011,s15p,<span>1:5-11</span> <b>Vermaningen</b> tot ijver.
+314,31,61001012,61001015,s30p,<span>1:12-15</span> <b>Petrus</b> Herinnering
+315,31,61001016,61001021,s45p,<span>1:16-21</span> <b>Apostelen en profeten</b> Bevestigd.
+316,31,61002001,61002022,s60p,<span>2:1-22</span> <b>Oneerbiedigheid</b> Valse leraren.
+317,31,61003001,61003001,s30p,<span>3:1-2-</span> <b>Petrus</b> Herinnering
+318,31,61003002,61003002,s45p,<span>3:-2</span> <b>Apostelen en profeten</b> Verklaard.
+319,31,61003003,61003013,s60p,<span>3:3-13</span> <b>Oneerbiedigheid</b> Spotters.
+320,31,61003014,61003017,s15p,<span>3:14-18-</span> <b>Vermaningen</b> tot streven.
+321,31,61003018,61003018,s0p,<span>3:-18</span> <b>Groet en zaligspreking.</b>
+322,32,,,,LITERAIRE STRUCTUUR
+323,32,62001001,62002017,s0p,"<span>1:1 - 2:17</span> <b>Christus.</b> Schrijven, beproeven"
+324,32,62002018,62002029,s15p,<span>2:18-29</span> <b>Antichrist.</b> Jezus niet de Christus?
+325,32,62003001,62003024,s30p,"<span>3:1-24</span> <b>Liefde.</b> De Vader, de Zoon"
+326,32,62004001,62004006,s15p,<span>4:1-6</span> <b>Antichrist.</b> Niet in het vlees gekomen?
+327,32,62004007,62004021,s30p,<span>4:7-21</span> <b>Liefde</b> aan elkaar
+328,32,62005001,62005021,s0p,"<span>5:1-21</span> <b>Christus.</b> Geloof, getuigenis"
+329,33,,,,LITERAIRE STRUCTUUR
+330,33,63001001,63001003,s0p,<span>1:1-3</span> <b>Groet en zaligspreking.</b> Aan de uitgekozen vrouw
+331,33,63001004,63001006,s15p,<span>1:4-6</span> <b>Waarheid.</b> Wandelen in -
+332,33,63001007,63001007,s30p,<span>1:7</span> <b>Jezus Christus komt niet in het vlees.</b> Bedrieger
+333,33,63001008,63001008,s30p,<span>1:8</span> <b>Jezus Christus komt niet in het vlees.</b> Antichrist
+334,33,63001009,63001011,s15p,<span>1:9-11</span> <b>Waarheid.</b> Zich houden aan -
+335,33,63001012,63001013,s0p,<span>1:12-13</span> <b>Groet en zaligspreking.</b> Uitgekozen zuster groet
+336,34,,,,LITERAIRE STRUCTUUR
+337,34,64001001,64001002,s0p,<span>1:1-2</span> <b>Groet.</b> Oudste aan Gaius
+338,34,64001003,64001004,s15p,<span>1:3-4</span> <b>Getuigen van waarheid.</b> Broeders
+339,34,64001005,64001008,s30p,<span>1:5-8</span> <b>Opnemen.</b> Broeders
+340,34,64001009,64001011,s30p,<span>1:9-11</span> <b>Opnemen.</b> Diothrefes
+341,34,64001012,64001012,s15p,<span>1:12</span> <b>Getuigen van waarheid.</b> Demetrius
+342,34,64001013,64001015,s0p,<span>1:13-15</span> <b>Groet.</b> aan vrienden
+343,35,,,,LITERAIRE STRUCTUUR
+344,35,65001001,65001002,s0p,<span>1:1-2</span> <b>Brief.</b> Introductie
+345,35,65001003,65001003,s15p,<span>1:3</span> <b>Vermaning.</b> Strijden voor het geloof
+346,35,65001004,65001004,s30p,<span>1:4</span> <b>Oneerbiedigheid.</b> Christus verloochenen
+347,35,65001005,65001005,s45p,<span>1:5-</span> <b>Herinneringen.</b> Voorbeelden uit Exodus
+348,35,65001005,65001010,s60p,"<span>1:-5-10</span> <b>Ongelovigen.</b> Sodom, Gomorrah enz."
+349,35,65001011,65001016,s60p,"<span>1:11-16</span> <b>Ongelovigen.</b> Kaïn, Bileam, Korah, enz."
+350,35,65001017,65001017,s45p,<span>1:17</span> <b>Herinneringen.</b> Verklaringen van apostelen
+351,35,65001018,65001019,s30p,<span>1:18-19</span> <b>Oneerbiedigheid.</b> Spotters
+352,35,65001020,65001023,s15p,<span>1:20-23</span> <b>Vermaning.</b> Opbouwen in geloof
+353,35,65001024,65001025,s0p,<span>1:24-25</span> <b>Brief.</b> Toeschrijving
+354,36,,,,LITERAIRE STRUCTUUR
+355,36,66001001,66001003,s0p,<span>1:1-3</span> <b>Introductie - slot.</b> Komt (zegen)
+356,36,,,,"<font color=""#FF0000"">DAG VAN JAHWEH</font> (dag des Heren)"
+357,36,66001004,66003022,s15p,<span>1:4 - 3:22</span> <b>Profeet.</b> Ecclesia (beloning van daden)
+358,36,66004001,66011018,s30p,<span>4:1 - 11:18</span> <b>Vorst.</b> De troon (politiek)
+359,36,66011019,66020015,s45p,<span>11:19 - 20:15</span> <b>Priester.</b> De tempel (religieus)
+360,36,,,,"<font color=""#FF0000"">DAG VAN JAHWEH</font> (dag des Heren)    <br>    <br><font color=""#FF0000"">DAG VAN GOD</font>"
+361,36,66021001,66021027,s45p,<span>21:1-27</span> <b>Priester.</b> De tempel (religieus)
+362,36,66022001,66022005,s30p,<span>22:1-5</span> <b>Vorst.</b> De troon (politiek)
+363,36,66022006,66022017,s15p,<span>22:6-17</span> <b>Profeet.</b> Ecclesia (Loon voor werken)
+364,36,,,,"<font color=""#FF0000"">DAG VAN GOD</font>"
+365,36,66022018,66022021,s0p,<span>22:18-21</span> <b>Introductie - slot.</b> (Vloek) komt
+366,9,,,,PAULUS' BRIEVEN    <br><b>DE VOORBEREIDENDE BRIEVEN</b>    <br><i>GELOOF</i>    <br>
+367,9,45001001,45016027,spn,ROMEINEN
+368,9,,,,"<div class=""nspn"" style=""margin-left: 12px;"">- Rechtvaardiging    <br>- Verzoening    <br>- Gedrag    </div>    <br>"
+369,9,46001001,46016024,spn,1 Korinthiërs - Gedrag
+370,9,,,,<br>
+371,9,47001001,47013014,spn,2 Korinthiërs - Verzoening
+372,9,,,,<br>
+373,9,48001001,48006018,spn,GALATEN - Rechtvaardiging
+374,9,,,,<br><br><b>DE VOLKOMENHEIDS BRIEVEN</b>    <br><i>LIEFDE</i>
+375,9,49001001,49003021,s0p,"EFEZE 1-3, Leer-Het lichaam: de leden"
+376,9,49004001,49006024,s30p,EFEZE 4-6 Gedrag
+377,9,50001001,50004023,s30p,"FILIPPENZEN, Gedrag"
+378,9,51001001,51004018,s0p,"KOLOSSENZEN, 	Leer-het lichaam: het Hoofd"
+379,9,,,,<br><br><b>DE BELOFTE BRIEVEN</b>    <br><i>VERWACHTING</i>    <br>
+380,9,52001001,52005028,spn,1 Thessalonicenzen
+381,9,,,,<br>
+382,9,53001001,53003018,spn,2 Thessalonicenzen
+383,9,,,,<br><br><b>DE PERSOONLIJKE BRIEVEN</b>    <br>
+384,9,54001001,54006021,spn,1 Timotheüs
+385,9,,,,<br>
+386,9,55001001,55004022,spn,2 Timotheüs
+387,9,,,,<br>
+388,9,56001001,56003015,spn,Titus
+389,9,,,,<br>
+390,9,57001001,57001025,spn,Filemon
